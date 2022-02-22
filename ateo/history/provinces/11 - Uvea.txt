@@ -1,0 +1,21 @@
+# c_uvea
+
+# County Title
+title = c_uvea
+
+# Settlements
+max_settlements = 3
+
+b_matautu = tribal
+#b_liku = city
+#b_alele = temple
+#b_falaleu = castle
+#b_utufua = city
+#b_vaitupu = temple
+#b_akaaka = castle
+
+# Misc
+culture = samoan
+religion = mormon
+
+#History

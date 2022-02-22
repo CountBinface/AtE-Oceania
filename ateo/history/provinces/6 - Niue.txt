@@ -1,0 +1,21 @@
+# c_niuo
+
+# County Title
+title = c_niuo
+
+# Settlements
+max_settlements = 2
+
+b_alofi = tribal
+#b_hakupu = city
+#b_tamakautoga = temple
+#b_avatele = castle
+#b_vaiea = city
+#b_tuapa = temple
+#b_mutalau = castle
+
+# Misc
+culture = tongan
+religion = congregational
+
+#History

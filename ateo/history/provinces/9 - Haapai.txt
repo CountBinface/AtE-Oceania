@@ -1,0 +1,21 @@
+# c_haapai
+
+# County Title
+title = c_haapai
+
+# Settlements
+max_settlements = 3
+
+b_pangai = castle
+#b_lotofoa = city
+#b_fakakakai = temple
+#b_koulo = castle
+#b_uiha = city
+#b_nomuka = temple
+#b_tungua = castle
+
+# Misc
+culture = tongan
+religion = wesleyan
+
+#History

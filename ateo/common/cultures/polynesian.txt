@@ -1,0 +1,116 @@
+polynesian = {
+	graphical_cultures = { westerngfx }
+
+	samoan = {
+		graphical_cultures = { muslimgfx }
+		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0.99 0.34 0.33 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Aneteru_Andrew Alama_Alema Aleki_Alexander Aputi Arona_Aaron Atamu_Adam
+			Efaraima_Ephraim Elia_Elijah Enele Esela Eteuati Eti
+			Fala Farani_Francis Fereti_Frederick Fetu Filipo_Philip Fonoti
+			Haych Henare_Henry
+			Iakopo_Jacob Ieremia_Jeremiah Ioane_John Ioelu_Joel Ionatana_Jonathan Iopu_Job Iosefa_Joseph Iosua_Joshua Isaako_Isaac Isaia_Isaiah
+			Kiuga_Junior
+			Lafaele Laki Lemuelu_Lemuel Loto
+			Maika Malakai_Malachi Manaia Manu Mikaele_Michael Mosaia_Mosiah Mose_Moses
+			Niko_Nicholas Noa_Noah
+			Pati Paulo_Paul Peni_Benjamin Peniamina_Benjamin Petelo_Peter Pita_Peter Poasa
+			Ropati_Robert
+			Sale Samu_Samuel Samuelu_Samuel Semi_James Siaki_Jack Siaosi_George Sio
+			Tala Tamati_Thomas Tanielu_Daniel Tasi Tavita_David Timoteo_Timothy Toeutu
+			Uelese_Wales
+			Vaea Viliamu_William
+		}
+		female_names = {
+			Agelu_Angela Akenese Alofa Amelia_Amelia Ana_Anne Ane_Anne Anania_Ananiah
+			Ekueta Elisapeta_Elizabeth Emere Eseta_Esther Eva_Eve
+			Fetu
+			Ianeta_Janet Ioana_Joan Isapela_Isabel Iulia_Julia Iuni_June
+			Lagi Lani Leone Losalia_Rosaline Lupe Lusia_Lucy
+			Makerita Malia_Malia Mareta_Martha Maria_Mary Masina Matalina_Magdalene Mele_Mary Melisa_Melissa Moana
+			Naomi_Naiomi Natia
+			Penina_Penina Pepe Petesa Pua
+			Rosa_Rose Ruta_Ruth
+			Sala Salome_Salome Samaria Sarai_Sarah Sefina_Josephine Sera_Sarah Sia Sieni_Jane Sina Sosina Susana_Susan
+			Talia Tamah_Tamara Tepora_Deborah Teuila
+			Velonika_Veronica Vikolia_Victoria
+		}
+
+		from_dynasty_prefix = "O "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	tongan = {
+		graphical_cultures = { muslimgfx }
+		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+
+		color = { 0.47 0.06 0.03 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			'Aisake_Isaac 'Aleki_Alexander 'Alipate_Albert 'Anitelu_Andrew 'Anitoni_Anthony
+			'Etuate_Edward
+			Feleti_Frederick
+			Heneli_Henry
+			'Inoke_Enoch 'Isileli_Israel
+			Kelekolio_Gregory
+			Lisiate_Richard Lopeti_Robert Lui_Louis
+			Maikolo_Michael Malakai_Malachi Manase_Manasseh Manu Mosese_Moses
+			Paea Paula_Paul Peni_Benjamin Pita_Peter
+			Salesi_Charles Samiuela_Samuel Sekope_Jacob Semisi_James Siaosi_George Sifa_Joseph Simione_Simon Sio_Joseph Siona_Jonah Sione_John Sioeli_Joel Siua_Joshua Soane_John Solomone_Solomon Songi Suni
+			Taitusi_Titus Taniela_Daniel Taufa Tevita_David Tupou
+			Vaea Viliami_William
+		}
+		female_names = {
+			'Alisi_Alice 'Amelia_Amelia 'Ana_Anne 'Ane_Anne
+			'Elenoa_Helen 'Ema_Emma
+			Fifita Fusipala
+			'Ilaisaane 'Ilisapesi_Elizabeth
+			Kaati_Catherine
+			Lavinia Lesieli Lose_Rose Luisa_Louisa Lupe
+			Ma'ata_Martha Makaleti Malia_Malia Mana Mele_Mary Meleane_Marianne
+			Nanise_Nancy Neomai_Naiomi
+			'Ofa 'Olivia_Olivia
+			Paea Pesi_Elizabeth
+			Salote_Charlotte Seini_Jane Sela_Sarah Siale
+			Tolofi_Dorothy
+		}
+
+		from_dynasty_prefix = "'o "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 50
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 50
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}
