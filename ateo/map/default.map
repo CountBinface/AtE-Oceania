@@ -30,6 +30,4 @@ tree = { 3 4 7 10 }
 
 major_rivers = 
 {
-	# OCEAN
-	13 14 15 16 17 
 }

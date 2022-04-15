@@ -1,1 +1,5 @@
-From;To;Type;Through;-1;-1;-1;-1;Comment
+From,To,Type,Through,-1,-1,-1,-1,Comment
+1,2,sea,13,-1,-1,-1,-1,Tutuila-Atua
+3,4,sea,13,-1,-1,-1,-1,Tuamasaga-Fa'asaleleaga
+8,9,sea,16,-1,-1,-1,-1,Vava'u-Ha'apai
+9,10,sea,16,-1,-1,-1,-1,Ha'apai-Tongatapu
