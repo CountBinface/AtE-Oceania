@@ -1,0 +1,16 @@
+#PASIFIKA
+technology = {
+	titles = {
+		d_samoa
+	}
+	2666 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	3053 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

@@ -1,0 +1,21 @@
+# c_faasaleleaga
+
+# County Title
+title = c_faasaleleaga
+
+# Settlements
+max_settlements = 3
+
+b_safotulafai = castle
+#b_saleaula = city
+#b_salelologa = temple
+#b_vaitoomuli = castle
+#b_gataivai = city
+#b_lano = temple
+#b_patamea = castle
+
+# Misc
+culture = samoan
+religion = mormon
+
+#History
