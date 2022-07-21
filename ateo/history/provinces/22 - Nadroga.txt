@@ -1,0 +1,21 @@
+# c_nadroga
+
+# County Title
+title = c_nadroga
+
+# Settlements
+max_settlements = 5
+
+b_sigatoka = castle
+b_olosara = city
+b_yadua = temple
+#b_voua = castle
+#b_tau = city
+#b_momi = temple
+#b_nabau = castle
+
+# Misc
+culture = indo-fijian
+religion = fijian_hindu
+
+#History

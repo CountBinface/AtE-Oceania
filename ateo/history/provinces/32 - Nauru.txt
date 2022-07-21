@@ -1,0 +1,21 @@
+# c_nauru
+
+# County Title
+title = c_nauru
+
+# Settlements
+max_settlements = 3
+
+b_denigomodu = tribal
+#b_meneng = city
+#b_aiwo = temple
+#b_boe = castle
+#b_yaren = city
+#b_buada = temple
+#b_anetan = castle
+
+# Misc
+culture = i-kiribati
+religion = congregational
+
+#History

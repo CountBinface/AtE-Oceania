@@ -1,0 +1,21 @@
+# c_nomoi
+
+# County Title
+title = c_nomoi
+
+# Settlements
+max_settlements = 2
+
+b_moch = tribal
+#b_lukunor = city
+#b_satawan = temple
+#b_nama = castle
+#b_etal = city
+#b_oneop = temple
+#b_namoluk = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

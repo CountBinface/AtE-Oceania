@@ -1,0 +1,21 @@
+# c_mamanuca
+
+# County Title
+title = c_mamanuca
+
+# Settlements
+max_settlements = 2
+
+b_malolo = tribal
+#b_marou = city
+#b_vuake = temple
+#b_nacula = castle
+#b_soso = city
+#b_yageta = temple
+#b_tamusua = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

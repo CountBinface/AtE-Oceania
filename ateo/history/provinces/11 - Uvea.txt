@@ -16,6 +16,6 @@ b_matautu = tribal
 
 # Misc
 culture = samoan
-religion = mormon
+religion = marist
 
 #History

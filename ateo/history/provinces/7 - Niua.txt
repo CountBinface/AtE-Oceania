@@ -15,7 +15,7 @@ b_hihifo = tribal
 #b_tafahi = castle
 
 # Misc
-culture = tongan
+culture = samoan
 religion = mormon
 
 #History

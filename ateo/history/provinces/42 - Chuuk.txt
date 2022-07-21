@@ -1,0 +1,21 @@
+# c_chuuk
+
+# County Title
+title = c_chuuk
+
+# Settlements
+max_settlements = 4
+
+b_weno = tribal
+b_tol = temple
+#b_tonowas = temple
+#b_fefan = castle
+#b_uman = city
+#b_udot = temple
+#b_polle = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

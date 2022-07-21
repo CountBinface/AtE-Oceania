@@ -16,6 +16,6 @@ b_lufilufi = castle
 
 # Misc
 culture = samoan
-religion = mormon
+religion = congregational
 
 #History

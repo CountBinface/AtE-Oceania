@@ -1,0 +1,21 @@
+# c_pagan
+
+# County Title
+title = c_pagan
+
+# Settlements
+max_settlements = 2
+
+b_shomushon = castle
+#b_alamagan = city
+#b_anatahan = temple
+#b_agrihan = castle
+#b_sarigan = city
+#b_marasu = temple
+#b_bandara = castle
+
+# Misc
+culture = japanese
+religion = shinto
+
+#History

@@ -1,0 +1,21 @@
+# c_bua
+
+# County Title
+title = c_bua
+
+# Settlements
+max_settlements = 3
+
+b_nabouwalu = castle
+#b_ndalomo = city
+#b_votua = temple
+#b_nakawakawa = castle
+#b_nasau_2 = city
+#b_naruwai = temple
+#b_koroinasolo = castle
+
+# Misc
+culture = indo-fijian
+religion = fijian_hindu
+
+#History

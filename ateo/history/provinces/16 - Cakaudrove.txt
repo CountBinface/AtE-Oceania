@@ -1,0 +1,21 @@
+# c_cakaudrove
+
+# County Title
+title = c_cakaudrove
+
+# Settlements
+max_settlements = 4
+
+b_savusavu = castle
+b_somosomo = city
+#b_rabi = temple
+#b_natua = castle
+#b_tukavesi = city
+#b_nagigi = temple
+#b_tacilevu = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

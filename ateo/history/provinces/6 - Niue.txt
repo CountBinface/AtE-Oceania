@@ -1,7 +1,7 @@
-# c_niuo
+# c_niue
 
 # County Title
-title = c_niuo
+title = c_niue
 
 # Settlements
 max_settlements = 2

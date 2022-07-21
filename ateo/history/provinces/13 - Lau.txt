@@ -1,0 +1,21 @@
+# c_lau
+
+# County Title
+title = c_lau
+
+# Settlements
+max_settlements = 3
+
+b_tubou = tribal
+#b_lomaloma = city
+#b_namaku = temple
+#b_vanuavatu = castle
+#b_liku_2 = city
+#b_cakova = temple
+#b_matuku = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

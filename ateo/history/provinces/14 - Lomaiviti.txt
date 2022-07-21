@@ -1,0 +1,21 @@
+# c_lomaiviti
+
+# County Title
+title = c_lomaiviti
+
+# Settlements
+max_settlements = 3
+
+b_levuka = tribal
+#b_vandravandra = city
+#b_dalice = temple
+#b_batiki = castle
+#b_lotoloto = city
+#b_koro = temple
+#b_vuma = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

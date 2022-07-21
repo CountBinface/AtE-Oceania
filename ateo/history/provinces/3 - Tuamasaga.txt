@@ -8,7 +8,7 @@ max_settlements = 5
 
 b_apia = castle
 b_afega = temple
-#b_leulumoega = temple
+b_leulumoega = city
 #b_mulifanua = castle
 #b_maninoa = city
 #b_lefaga = temple

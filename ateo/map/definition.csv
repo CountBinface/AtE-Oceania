@@ -11,8 +11,102 @@ province;red;green;blue;x;x
 10;200;4;30;Tongatapu;x
 11;91;14;148;Uvea;x
 12;124;8;188;Futuna;x
-13;54;102;145;Samoan Sea;x
-14;84;155;252;Sea of Niua;x
-15;36;63;163;North Tongan Sea;x
-16;69;91;193;South Tongan Sea;x
-17;69;138;233;Uvean Sea;x
+13;0;137;208;Lau;x
+14;14;73;154;Lomaiviti;x
+15;69;97;214;Kadavu;x
+16;8;88;163;Cakaudrove;x
+17;66;124;255;Macuata;x
+18;0;66;133;Bua;x
+19;47;56;142;Ra;x
+20;100;100;255;Rewa;x
+21;12;50;135;Serua;x
+22;44;93;205;Nadroga;x
+23;56;31;229;Ba;x
+24;28;53;148;Mamanuca;x
+25;13;83;88;Rotuma;x
+26;12;171;72;Tokelau;x
+27;217;37;72;Rawaki;x
+28;34;154;245;Tuvalu;x
+29;204;229;66;Southern Tungaru;x
+30;226;255;17;Central Tungaru;x
+31;182;192;9;Northern Tungaru;x
+32;20;7;69;Nauru;x
+33;249;136;5;Majuro;x
+34;249;103;7;Jaluit;x
+35;205;90;18;Wotje;x
+36;247;78;2;Kwajalein;x
+37;217;56;5;Rongelap;x
+38;179;80;12;Enewetak;x
+39;22;154;188;Kosrae;x
+40;2;114;76;Pohnpei;x
+41;8;132;144;Nomoi;x
+42;8;170;214;Chuuk;x
+43;7;214;237;Woleai;x
+44;13;137;255;Yap;x
+45;9;21;62;Guam;x
+46;5;18;128;Saipan;x
+47;13;33;168;Pagan;x
+48;7;68;227;Palau;x
+49;54;102;145;Samoan Sea;x
+50;84;155;252;Niuean Sea;x
+51;36;63;163;Sea of Niua;x
+52;69;91;193;Tongan Sea;x
+53;69;138;233;Uvean Sea;x
+54;0;18;78;Koro Sea;x
+55;28;40;176;Vanua Levu Coast;x
+56;25;25;110;Bligh Water;x
+57;37;107;179;Sea of Rotuma;x
+58;55;74;160;Sea of Tokelau;x
+59;37;68;234;South Pacific Ocean;x
+60;44;116;231;South Pacific Ocean #2;x
+61;22;31;192;Tuvaluan Sea;x
+62;58;160;254;Sea of Rawaki;x
+63;17;62;183;South Pacific Ocean #3;x
+64;5;18;154;South Tungaru Sea;x
+65;34;129;201;North Tungaru Sea;x
+66;22;182;242;Sea of Banaba;x
+67;35;28;165;Sea of Nauru;x
+68;50;50;179;Sea of Majuro;x
+69;37;44;116;Sea of Jaluit;x
+70;41;185;198;Sea of Wotje;x
+71;0;66;195;Sea of Kwajalein;x
+72;28;4;154;Sea of Rongelap;x
+73;34;173;220;Sea of Enewetak;x
+74;51;129;180;Pacific Ocean;x
+75;31;25;198;Sea of Kosrae;x
+76;11;9;113;Sea of Pohnpei;x
+77;4;6;180;Sea of Nomoi;x
+78;99;70;248;Sea of Chuuk;x
+79;56;41;232;Sea of Woleai;x
+80;5;23;182;Sea of Yap;x
+81;54;205;233;Sea of Palau;x
+82;1;73;213;Southern Mariana Sea;x
+83;0;127;231;Central Mariana Sea;x
+84;12;81;236;Northern Mariana Sea;x
+85;47;179;242;South Pacific Ocean #4;x
+86;5;144;195;South Pacific Ocean #5;x
+87;12;1;113;South Pacific Ocean #6;x
+88;34;53;179;South Pacific Ocean #7;x
+89;23;7;149;South Pacific Ocean #8;x
+90;21;163;206;South Pacific Ocean #9;x
+91;80;70;243;South Pacific Ocean #10;x
+92;17;17;229;South Pacific Ocean #11;x
+93;23;132;212;South Pacific Ocean #12;x
+94;46;124;238;Pacific Ocean #2;x
+95;5;22;110;Pacific Ocean #3;x
+96;40;110;160;Pacific Ocean #4;x
+97;20;186;192;Pacific Ocean #5;x
+98;19;36;178;Pacific Ocean #6;x
+99;28;96;209;Pacific Ocean #7;x
+100;24;79;171;Pacific Ocean #8;x
+101;14;163;219;Pacific Ocean #9;x
+102;2;53;128;Pacific Ocean #10;x
+103;10;75;196;Pacific Ocean #11;x
+104;0;24;198;Pacific Ocean #12;x
+105;14;126;216;Pacific Ocean #13;x
+106;23;144;177;Pacific Ocean #14;x
+107;7;211;195;Pacific Ocean #15;x
+108;7;66;228;Pacific Ocean #16;x
+109;35;132;198;Pacific Ocean #17;x
+110;29;212;224;Pacific Ocean #18;x
+111;29;81;232;Pacific Ocean #19;x

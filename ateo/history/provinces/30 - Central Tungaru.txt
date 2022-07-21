@@ -1,0 +1,21 @@
+# c_central_tungaru
+
+# County Title
+title = c_central_tungaru
+
+# Settlements
+max_settlements = 3
+
+b_abemama = tribal
+#b_nonouti = city
+#b_maiana = temple
+#b_aranuka = castle
+#b_kuria = city
+#b_tabontebike = temple
+#b_temaraira = castle
+
+# Misc
+culture = i-kiribati
+religion = congregational
+
+#History

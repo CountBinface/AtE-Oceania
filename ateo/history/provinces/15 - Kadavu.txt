@@ -1,0 +1,21 @@
+# c_kadavu
+
+# County Title
+title = c_kadavu
+
+# Settlements
+max_settlements = 3
+
+b_vunisea = tribal
+#b_nasau = city
+#b_talaulia = temple
+#b_nakasaleka = castle
+#b_kadavu = city
+#b_galoa_2 = temple
+#b_naqara = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

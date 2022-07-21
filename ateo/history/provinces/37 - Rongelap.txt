@@ -1,0 +1,21 @@
+# c_rongelap
+
+# County Title
+title = c_rongelap
+
+# Settlements
+max_settlements = 2
+
+b_rongelap = tribal
+#b_bikini = city
+#b_ailinginae = temple
+#b_rongerik = castle
+#b_anjain = city
+#b_matayoshi = temple
+#b_ainri = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

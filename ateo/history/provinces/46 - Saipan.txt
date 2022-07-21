@@ -1,0 +1,21 @@
+# c_saipan
+
+# County Title
+title = c_saipan
+
+# Settlements
+max_settlements = 4
+
+b_garapan = castle
+b_dandan = city
+#b_san_jose = temple
+#b_sinapalu = castle
+#b_kagman = city
+#b_chalan_kanoa = temple
+#b_san_roque = castle
+
+# Misc
+culture = chamorro
+religion = katoliko
+
+#History

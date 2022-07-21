@@ -1,0 +1,21 @@
+# c_guam
+
+# County Title
+title = c_guam
+
+# Settlements
+max_settlements = 5
+
+b_dededo = castle
+b_yigo = city
+b_hagatna = temple
+#b_tamuning = castle
+#b_mangilao = city
+#b_barrigada = temple
+#b_santa_rita = castle
+
+# Misc
+culture = chamorro
+religion = katoliko
+
+#History

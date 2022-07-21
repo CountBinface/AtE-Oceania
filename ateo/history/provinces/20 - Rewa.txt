@@ -1,0 +1,21 @@
+# c_rewa
+
+# County Title
+title = c_rewa
+
+# Settlements
+max_settlements = 6
+
+b_suva = castle
+b_nasinu = city
+b_nausori = temple
+b_lami = castle
+#b_verate = city
+#b_cautata = temple
+#b_naqali = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

@@ -1,0 +1,21 @@
+# c_yap
+
+# County Title
+title = c_yap
+
+# Settlements
+max_settlements = 3
+
+b_colonia = tribal
+#b_tomil = city
+#b_gagil = temple
+#b_ulithi = castle
+#b_maap = city
+#b_ngoof = temple
+#b_wanyaan = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

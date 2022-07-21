@@ -1,0 +1,21 @@
+# c_wotje
+
+# County Title
+title = c_wotje
+
+# Settlements
+max_settlements = 3
+
+b_wotje = tribal
+#b_utirik = city
+#b_likiep = temple
+#b_mejit = castle
+#b_ailuk = city
+#b_ormed = temple
+#b_erikub = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

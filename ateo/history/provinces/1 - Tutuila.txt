@@ -7,7 +7,7 @@ title = c_tutuila
 max_settlements = 4
 
 b_pago_pago = castle
-#b_tafuna = city
+b_tafuna = temple
 #b_leone = temple
 #b_faleniu = castle
 #b_aua = city

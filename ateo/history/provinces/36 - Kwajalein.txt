@@ -1,0 +1,21 @@
+# c_kwajalein
+
+# County Title
+title = c_kwajalein
+
+# Settlements
+max_settlements = 3
+
+b_ebeye = tribal
+#b_kwajalein = city
+#b_namu = temple
+#b_wotho = castle
+#b_ujae = city
+#b_lae = temple
+#b_loi = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

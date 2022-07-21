@@ -1,0 +1,21 @@
+# c_macuata
+
+# County Title
+title = c_macuata
+
+# Settlements
+max_settlements = 5
+
+b_labasa = castle
+b_bulileka = city
+b_naleba = temple
+#b_navoalevu = castle
+#b_nanduri = city
+#b_naravuka = temple
+#b_batiri = castle
+
+# Misc
+culture = indo-fijian
+religion = fijian_hindu
+
+#History

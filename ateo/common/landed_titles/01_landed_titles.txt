@@ -16,6 +16,82 @@ e_pasifika = {
 		capital = 10 # c_tongatapu
 		culture = tongan
 		
+		c_niue = { # 6
+			color={ 248 204 40 }
+			color2={ 255 255 255 }
+			
+			b_alofi = {
+			}
+			b_hakupu = {
+			}
+			b_tamakautoga = {
+			}
+			b_avatele = {
+			}
+			b_vaiea = {
+			}
+			b_tuapa = {
+			}
+			b_mutalau = {
+			}
+		}
+		c_rawaki = { # 27
+			color={ 217 37 72 }
+			color2={ 255 255 255 }
+			
+			b_canton = {
+			}
+			b_enderbury = {
+			}
+			b_manra = {
+			}
+			b_nikumaroro = {
+			}
+			b_orona = {
+			}
+			b_rawaki = {
+			}
+			b_mckean = {
+			}
+		}
+		c_tokelau = { # 26
+			color={ 12 171 72 }
+			color2={ 255 255 255 }
+			
+			b_atafu = {
+			}
+			b_nukunonu = {
+			}
+			b_fenua_fala = {
+			}
+			b_na_taulaga = {
+			}
+			b_na_utua = {
+			}
+			b_te_lafu = {
+			}
+			b_etena = {
+			}
+		}
+		c_tuvalu = { # 28
+			color={ 34 154 245 }
+			color2={ 255 255 255 }
+			
+			b_funafuti = {
+			}
+			b_savave = {
+			}
+			b_motufoua = {
+			}
+			b_teava = {
+			}
+			b_tanrake = {
+			}
+			b_tumaseu = {
+			}
+			b_tokelau = {
+			}
+		}
 		d_tonga = {
 			color={ 210 250 35 }
 			color2={ 255 255 255 }
@@ -23,7 +99,7 @@ e_pasifika = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 province_id = 10 } }
+					any_demesne_province = { OR = { province_id = 8 province_id = 9 province_id = 10 } }
 				}
 			}
 			capital = 10 # c_tongatapu
@@ -66,25 +142,6 @@ e_pasifika = {
 				b_tungua = {
 				}
 			}
-			c_niua = { # 7
-				color={ 233 94 122 }
-				color2={ 255 255 255 }
-				
-				b_hihifo = {
-				}
-				b_sapaata = {
-				}
-				b_vaipoa = {
-				}
-				b_tongamamao = {
-				}
-				b_falehau = {
-				}
-				b_mataaho = {
-				}
-				b_tafahi = {
-				}
-			}
 			c_vavau = { # 8
 				color={ 217 39 75 }
 				color2={ 255 255 255 }
@@ -115,9 +172,9 @@ e_pasifika = {
 					any_demesne_province = { OR = { province_id = 6 } }
 				}
 			}
-			capital = 6 # c_niuo
+			capital = 6 # c_niue
 			
-			c_niuo = { # 6
+			c_niue = { # 6
 				color={ 248 204 40 }
 				color2={ 255 255 255 }
 				
@@ -134,6 +191,76 @@ e_pasifika = {
 				b_tuapa = {
 				}
 				b_mutalau = {
+				}
+			}
+		}
+		d_north_polynesia = {
+			color={ 24 164 240 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 26 province_id = 27 province_id = 28 } }
+				}
+			}
+			capital = 28 # c_tuvalu
+			
+			c_tuvalu = { # 28
+				color={ 34 154 245 }
+				color2={ 255 255 255 }
+				
+				b_funafuti = {
+				}
+				b_savave = {
+				}
+				b_motufoua = {
+				}
+				b_teava = {
+				}
+				b_tanrake = {
+				}
+				b_tumaseu = {
+				}
+				b_tokelau = {
+				}
+			}
+			c_rawaki = { # 27
+				color={ 217 37 72 }
+				color2={ 255 255 255 }
+				
+				b_canton = {
+				}
+				b_enderbury = {
+				}
+				b_manra = {
+				}
+				b_nikumaroro = {
+				}
+				b_orona = {
+				}
+				b_rawaki = {
+				}
+				b_mckean = {
+				}
+			}
+			c_tokelau = { # 26
+				color={ 12 171 72 }
+				color2={ 255 255 255 }
+				
+				b_atafu = {
+				}
+				b_nukunonu = {
+				}
+				b_fenua_fala = {
+				}
+				b_na_taulaga = {
+				}
+				b_na_utua = {
+				}
+				b_te_lafu = {
+				}
+				b_etena = {
 				}
 			}
 		}
@@ -252,7 +379,7 @@ e_pasifika = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 11 province_id = 12 } }
+					any_demesne_province = { OR = { province_id = 7 province_id = 11 province_id = 12 } }
 				}
 			}
 			capital = 11 # c_uvea
@@ -293,6 +420,1412 @@ e_pasifika = {
 				b_alofi_2 = {
 				}
 				b_poi = {
+				}
+			}
+			c_niua = { # 7
+				color={ 233 94 122 }
+				color2={ 255 255 255 }
+				
+				b_hihifo = {
+				}
+				b_sapaata = {
+				}
+				b_vaipoa = {
+				}
+				b_tongamamao = {
+				}
+				b_falehau = {
+				}
+				b_mataaho = {
+				}
+				b_tafahi = {
+				}
+			}
+		}
+	}
+	k_fiji = {
+		color={ 70 130 240 }
+		color2={ 255 255 255 }
+		
+		capital = 20 # c_rewa
+		culture = itaukei
+		
+		c_rewa = { # 20
+			color={ 100 100 255 }
+			color2={ 255 255 255 }
+			
+			b_suva = {
+			}
+			b_nasinu = {
+			}
+			b_nausori = {
+			}
+			b_lami = {
+			}
+			b_verate = {
+			}
+			b_cautata = {
+			}
+			b_naqali = {
+			}
+		}
+		c_ba = { # 23
+			color={ 56 31 229 }
+			color2={ 255 255 255 }
+			
+			b_lautoka = {
+			}
+			b_nadi = {
+			}
+			b_ba = {
+			}
+			b_votualevu = {
+			}
+			b_vatukoula = {
+			}
+			b_lauwaki = {
+			}
+			b_nadi_2 = {
+			}
+		}
+		c_bua = { # 18
+			color={ 0 66 133 }
+			color2={ 255 255 255 }
+			
+			b_nabouwalu = {
+			}
+			b_ndalomo = {
+			}
+			b_votua = {
+			}
+			b_nakawakawa = {
+			}
+			b_nasau_2 = {
+			}
+			b_naruwai = {
+			}
+			b_koroinasolo = {
+			}
+		}
+		c_cakaudrove = { # 16
+			color={ 8 88 163 }
+			color2={ 255 255 255 }
+			
+			b_savusavu = {
+			}
+			b_somosomo = {
+			}
+			b_rabi = {
+			}
+			b_natua = {
+			}
+			b_tukavesi = {
+			}
+			b_nagigi = {
+			}
+			b_tacilevu = {
+			}
+		}
+		c_kadavu = { # 15
+			color={ 69 97 214 }
+			color2={ 255 255 255 }
+			
+			b_vunisea = {
+			}
+			b_nasau = {
+			}
+			b_talaulia = {
+			}
+			b_nakasaleka = {
+			}
+			b_kadavu = {
+			}
+			b_galoa_2 = {
+			}
+			b_naqara = {
+			}
+		}
+		c_lau = { # 13
+			color={ 0 137 208 }
+			color2={ 255 255 255 }
+			
+			b_tubou = {
+			}
+			b_lomaloma = {
+			}
+			b_namaku = {
+			}
+			b_vanuavatu = {
+			}
+			b_liku_2 = {
+			}
+			b_cakova = {
+			}
+			b_matuku = {
+			}
+		}
+		c_lomaiviti = { # 14
+			color={ 14 73 154 }
+			color2={ 255 255 255 }
+			
+			b_levuka = {
+			}
+			b_vandravandra = {
+			}
+			b_dalice = {
+			}
+			b_batiki = {
+			}
+			b_lotoloto = {
+			}
+			b_koro = {
+			}
+			b_vuma = {
+			}
+		}
+		c_macuata = { # 17
+			color={ 66 124 255 }
+			color2={ 255 255 255 }
+			
+			b_labasa = {
+			}
+			b_bulileka = {
+			}
+			b_naleba = {
+			}
+			b_navoalevu = {
+			}
+			b_nanduri = {
+			}
+			b_naravuka = {
+			}
+			b_batiri = {
+			}
+		}
+		c_mamanuca = { # 24
+			color={ 28 53 148 }
+			color2={ 255 255 255 }
+			
+			b_malolo = {
+			}
+			b_marou = {
+			}
+			b_vuake = {
+			}
+			b_nacula = {
+			}
+			b_soso = {
+			}
+			b_yageta = {
+			}
+			b_tamusua = {
+			}
+		}
+		c_nadroga = { # 22
+			color={ 44 93 205 }
+			color2={ 255 255 255 }
+			
+			b_sigatoka = {
+			}
+			b_olosara = {
+			}
+			b_yadua = {
+			}
+			b_voua = {
+			}
+			b_tau = {
+			}
+			b_momi = {
+			}
+			b_nabau = {
+			}
+		}
+		c_ra = { # 19
+			color={ 47 56 142 }
+			color2={ 255 255 255 }
+			
+			b_vaileka = {
+			}
+			b_volivoli = {
+			}
+			b_burenitu = {
+			}
+			b_navolau = {
+			}
+			b_nanukuloa = {
+			}
+			b_delaiyadua = {
+			}
+			b_lawaki = {
+			}
+		}
+		c_rotuma = { # 25
+			color={ 13 83 88 }
+			color2={ 255 255 255 }
+			
+			b_ahau = {
+			}
+			b_oinafa = {
+			}
+			b_motusa = {
+			}
+			b_uanheta = {
+			}
+			b_losa = {
+			}
+			b_noatau = {
+			}
+			b_pepjei = {
+			}
+		}
+		c_serua = { # 21
+			color={ 12 50 135 }
+			color2={ 255 255 255 }
+			
+			b_navua = {
+			}
+			b_pacific_harbour = {
+			}
+			b_galoa = {
+			}
+			b_nabukavesi = {
+			}
+			b_namatakula = {
+			}
+			b_deuba = {
+			}
+			b_numuamua = {
+			}
+		}
+		d_viti_levu = {
+			color={ 90 110 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 19 province_id = 20 province_id = 21 province_id = 22 province_id = 23 province_id = 24 } }
+				}
+			}
+			capital = 20 # c_rewa
+			
+			c_rewa = { # 20
+				color={ 100 100 255 }
+				color2={ 255 255 255 }
+				
+				b_suva = {
+				}
+				b_nasinu = {
+				}
+				b_nausori = {
+				}
+				b_lami = {
+				}
+				b_verate = {
+				}
+				b_cautata = {
+				}
+				b_naqali = {
+				}
+			}
+			c_ba = { # 23
+				color={ 56 31 229 }
+				color2={ 255 255 255 }
+				
+				b_lautoka = {
+				}
+				b_nadi = {
+				}
+				b_ba = {
+				}
+				b_votualevu = {
+				}
+				b_vatukoula = {
+				}
+				b_lauwaki = {
+				}
+				b_nadi_2 = {
+				}
+			}
+			c_mamanuca = { # 24
+				color={ 28 53 148 }
+				color2={ 255 255 255 }
+				
+				b_malolo = {
+				}
+				b_marou = {
+				}
+				b_vuake = {
+				}
+				b_nacula = {
+				}
+				b_soso = {
+				}
+				b_yageta = {
+				}
+				b_tamusua = {
+				}
+			}
+			c_nadroga = { # 22
+				color={ 44 93 205 }
+				color2={ 255 255 255 }
+				
+				b_sigatoka = {
+				}
+				b_olosara = {
+				}
+				b_yadua = {
+				}
+				b_voua = {
+				}
+				b_tau = {
+				}
+				b_momi = {
+				}
+				b_nabau = {
+				}
+			}
+			c_ra = { # 19
+				color={ 47 56 142 }
+				color2={ 255 255 255 }
+				
+				b_vaileka = {
+				}
+				b_volivoli = {
+				}
+				b_burenitu = {
+				}
+				b_navolau = {
+				}
+				b_nanukuloa = {
+				}
+				b_delaiyadua = {
+				}
+				b_lawaki = {
+				}
+			}
+			c_serua = { # 21
+				color={ 12 50 135 }
+				color2={ 255 255 255 }
+				
+				b_navua = {
+				}
+				b_pacific_harbour = {
+				}
+				b_galoa = {
+				}
+				b_nabukavesi = {
+				}
+				b_namatakula = {
+				}
+				b_deuba = {
+				}
+				b_numuamua = {
+				}
+			}
+		}
+		d_koro = {
+			color={ 24 63 159 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 13 province_id = 14 province_id = 15 } }
+				}
+			}
+			capital = 14 # c_lomaiviti
+			
+			c_lomaiviti = { # 14
+				color={ 14 73 154 }
+				color2={ 255 255 255 }
+				
+				b_levuka = {
+				}
+				b_vandravandra = {
+				}
+				b_dalice = {
+				}
+				b_batiki = {
+				}
+				b_lotoloto = {
+				}
+				b_koro = {
+				}
+				b_vuma = {
+				}
+			}
+			c_kadavu = { # 15
+				color={ 69 97 214 }
+				color2={ 255 255 255 }
+				
+				b_vunisea = {
+				}
+				b_nasau = {
+				}
+				b_talaulia = {
+				}
+				b_nakasaleka = {
+				}
+				b_kadavu = {
+				}
+				b_galoa_2 = {
+				}
+				b_naqara = {
+				}
+			}
+			c_lau = { # 13
+				color={ 0 137 208 }
+				color2={ 255 255 255 }
+				
+				b_tubou = {
+				}
+				b_lomaloma = {
+				}
+				b_namaku = {
+				}
+				b_vanuavatu = {
+				}
+				b_liku_2 = {
+				}
+				b_cakova = {
+				}
+				b_matuku = {
+				}
+			}
+		}
+		d_vanua_levu = {
+			color={ 56 134 250 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 16 province_id = 17 province_id = 18 province_id = 25 } }
+				}
+			}
+			capital = 17 # c_macuata
+			
+			c_macuata = { # 17
+				color={ 66 124 255 }
+				color2={ 255 255 255 }
+				
+				b_labasa = {
+				}
+				b_bulileka = {
+				}
+				b_naleba = {
+				}
+				b_navoalevu = {
+				}
+				b_nanduri = {
+				}
+				b_naravuka = {
+				}
+				b_batiri = {
+				}
+			}
+			c_bua = { # 18
+				color={ 0 66 133 }
+				color2={ 255 255 255 }
+				
+				b_nabouwalu = {
+				}
+				b_ndalomo = {
+				}
+				b_votua = {
+				}
+				b_nakawakawa = {
+				}
+				b_nasau_2 = {
+				}
+				b_naruwai = {
+				}
+				b_koroinasolo = {
+				}
+			}
+			c_cakaudrove = { # 16
+				color={ 8 88 163 }
+				color2={ 255 255 255 }
+				
+				b_savusavu = {
+				}
+				b_somosomo = {
+				}
+				b_rabi = {
+				}
+				b_natua = {
+				}
+				b_tukavesi = {
+				}
+				b_nagigi = {
+				}
+				b_tacilevu = {
+				}
+			}
+			c_rotuma = { # 25
+				color={ 13 83 88 }
+				color2={ 255 255 255 }
+				
+				b_ahau = {
+				}
+				b_oinafa = {
+				}
+				b_motusa = {
+				}
+				b_uanheta = {
+				}
+				b_losa = {
+				}
+				b_noatau = {
+				}
+				b_pepjei = {
+				}
+			}
+		}
+	}
+	k_micronesia = {
+		color={ 234 200 199 }
+		color2={ 255 255 255 }
+		
+		capital = 42 # c_chuuk
+		culture = micronesian
+		
+		c_chuuk = { # 42
+			color={ 8 170 214 }
+			color2={ 255 255 255 }
+			
+			b_weno = {
+			}
+			b_tol = {
+			}
+			b_tonowas = {
+			}
+			b_fefan = {
+			}
+			b_uman = {
+			}
+			b_udot = {
+			}
+			b_polle = {
+			}
+		}
+		c_central_tungaru = { # 30
+			color={ 226 255 17 }
+			color2={ 255 255 255 }
+			
+			b_abemama = {
+			}
+			b_nonouti = {
+			}
+			b_maiana = {
+			}
+			b_aranuka = {
+			}
+			b_kuria = {
+			}
+			b_tabontebike = {
+			}
+			b_temaraira = {
+			}
+		}
+		c_enewetak = { # 38
+			color={ 179 80 12 }
+			color2={ 255 255 255 }
+			
+			b_enewetak = {
+			}
+			b_medren = {
+			}
+			b_japtan = {
+			}
+			b_runit = {
+			}
+			b_aomon = {
+			}
+			b_enjebi = {
+			}
+			b_ujelang = {
+			}
+		}
+		c_guam = { # 45
+			color={ 9 21 62 }
+			color2={ 255 255 255 }
+			
+			b_dededo = {
+			}
+			b_yigo = {
+			}
+			b_hagatna = {
+			}
+			b_tamuning = {
+			}
+			b_mangilao = {
+			}
+			b_barrigada = {
+			}
+			b_santa_rita = {
+			}
+		}
+		c_jaluit = { # 34
+			color={ 249 103 7 }
+			color2={ 255 255 255 }
+			
+			b_jaluit = {
+			}
+			b_ailinglaplap = {
+			}
+			b_ebon = {
+			}
+			b_kili = {
+			}
+			b_namorik = {
+			}
+			b_jabor = {
+			}
+			b_bigatyelang = {
+			}
+		}
+		c_kosrae = { # 39
+			color={ 22 154 188 }
+			color2={ 255 255 255 }
+			
+			b_tafunsak = {
+			}
+			b_utwa = {
+			}
+			b_tofol = {
+			}
+			b_lelu = {
+			}
+			b_malem = {
+			}
+			b_okat = {
+			}
+			b_walung = {
+			}
+		}
+		c_kwajalein = { # 36
+			color={ 247 78 2 }
+			color2={ 255 255 255 }
+			
+			b_ebeye = {
+			}
+			b_kwajalein = {
+			}
+			b_namu = {
+			}
+			b_wotho = {
+			}
+			b_ujae = {
+			}
+			b_lae = {
+			}
+			b_loi = {
+			}
+		}
+		c_majuro = { # 33
+			color={ 249 136 5 }
+			color2={ 255 255 255 }
+			
+			b_uliga = {
+			}
+			b_djarrit = {
+			}
+			b_delap = {
+			}
+			b_arno = {
+			}
+			b_ajeltake = {
+			}
+			b_mili = {
+			}
+			b_maloelap = {
+			}
+		}
+		c_nauru = { # 32
+			color={ 20 7 69 }
+			color2={ 255 255 255 }
+			
+			b_denigomodu = {
+			}
+			b_meneng = {
+			}
+			b_aiwo = {
+			}
+			b_boe = {
+			}
+			b_yaren = {
+			}
+			b_buada = {
+			}
+			b_anetan = {
+			}
+		}
+		c_nomoi = { # 41
+			color={ 8 132 144 }
+			color2={ 255 255 255 }
+			
+			b_moch = {
+			}
+			b_lukunor = {
+			}
+			b_satawan = {
+			}
+			b_nama = {
+			}
+			b_etal = {
+			}
+			b_oneop = {
+			}
+			b_namoluk = {
+			}
+		}
+		c_northern_tungaru = { # 31
+			color={ 182 192 9 }
+			color2={ 255 255 255 }
+			
+			b_betio = {
+			}
+			b_bikenibeu = {
+			}
+			b_abaiang = {
+			}
+			b_teaoraereke = {
+			}
+			b_butaritari = {
+			}
+			b_bairiki = {
+			}
+			b_marakei = {
+			}
+		}
+		c_pagan = { # 47
+			color={ 13 33 168 }
+			color2={ 255 255 255 }
+			
+			b_shomushon = {
+			}
+			b_alamagan = {
+			}
+			b_anatahan = {
+			}
+			b_agrihan = {
+			}
+			b_sarigan = {
+			}
+			b_marasu = {
+			}
+			b_bandara = {
+			}
+		}
+		c_palau = { # 48
+			color={ 7 68 227 }
+			color2={ 255 255 255 }
+			
+			b_koror = {
+			}
+			b_klouklubed = {
+			}
+			b_ulimang = {
+			}
+			b_mengellang = {
+			}
+			b_ngchesar = {
+			}
+			b_melekeok = {
+			}
+			b_ngchemiangel = {
+			}
+		}
+		c_pohnpei = { # 40
+			color={ 2 114 76 }
+			color2={ 255 255 255 }
+			
+			b_kolonia = {
+			}
+			b_madolenihmw = {
+			}
+			b_sokehs = {
+			}
+			b_nett = {
+			}
+			b_kitti = {
+			}
+			b_u = {
+			}
+			b_sapwuahfik = {
+			}
+		}
+		c_rongelap = { # 37
+			color={ 217 56 5 }
+			color2={ 255 255 255 }
+			
+			b_rongelap = {
+			}
+			b_bikini = {
+			}
+			b_ailinginae = {
+			}
+			b_rongerik = {
+			}
+			b_anjain = {
+			}
+			b_matayoshi = {
+			}
+			b_ainri = {
+			}
+		}
+		c_saipan = { # 46
+			color={ 5 18 128 }
+			color2={ 255 255 255 }
+			
+			b_garapan = {
+			}
+			b_dandan = {
+			}
+			b_san_jose = {
+			}
+			b_sinapalu = {
+			}
+			b_kagman = {
+			}
+			b_chalan_kanoa = {
+			}
+			b_san_roque = {
+			}
+		}
+		c_southern_tungaru = { # 29
+			color={ 204 229 66 }
+			color2={ 255 255 255 }
+			
+			b_tabiteuea = {
+			}
+			b_beru = {
+			}
+			b_nikunau = {
+			}
+			b_onotoa = {
+			}
+			b_arorae = {
+			}
+			b_tamana = {
+			}
+			b_utiroa = {
+			}
+		}
+		c_woleai = { # 43
+			color={ 7 214 237 }
+			color2={ 255 255 255 }
+			
+			b_woleai = {
+			}
+			b_ifalik = {
+			}
+			b_satawal = {
+			}
+			b_lamotrek = {
+			}
+			b_faraulep = {
+			}
+			b_eauripik = {
+			}
+			b_elato = {
+			}
+		}
+		c_wotje = { # 35
+			color={ 205 90 18 }
+			color2={ 255 255 255 }
+			
+			b_wotje = {
+			}
+			b_utirik = {
+			}
+			b_likiep = {
+			}
+			b_mejit = {
+			}
+			b_ailuk = {
+			}
+			b_ormed = {
+			}
+			b_erikub = {
+			}
+		}
+		c_yap = { # 44
+			color={ 13 137 255 }
+			color2={ 255 255 255 }
+			
+			b_colonia = {
+			}
+			b_tomil = {
+			}
+			b_gagil = {
+			}
+			b_ulithi = {
+			}
+			b_maap = {
+			}
+			b_ngoof = {
+			}
+			b_wanyaan = {
+			}
+		}
+		d_micronesia = {
+			color={ 254 180 209 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 province_id = 42 province_id = 43 province_id = 44 } }
+				}
+			}
+			capital = 42 # c_chuuk
+			
+			c_chuuk = { # 42
+				color={ 8 170 214 }
+				color2={ 255 255 255 }
+				
+				b_weno = {
+				}
+				b_tol = {
+				}
+				b_tonowas = {
+				}
+				b_fefan = {
+				}
+				b_uman = {
+				}
+				b_udot = {
+				}
+				b_polle = {
+				}
+			}
+			c_kosrae = { # 39
+				color={ 22 154 188 }
+				color2={ 255 255 255 }
+				
+				b_tafunsak = {
+				}
+				b_utwa = {
+				}
+				b_tofol = {
+				}
+				b_lelu = {
+				}
+				b_malem = {
+				}
+				b_okat = {
+				}
+				b_walung = {
+				}
+			}
+			c_nomoi = { # 41
+				color={ 8 132 144 }
+				color2={ 255 255 255 }
+				
+				b_moch = {
+				}
+				b_lukunor = {
+				}
+				b_satawan = {
+				}
+				b_nama = {
+				}
+				b_etal = {
+				}
+				b_oneop = {
+				}
+				b_namoluk = {
+				}
+			}
+			c_pohnpei = { # 40
+				color={ 2 114 76 }
+				color2={ 255 255 255 }
+				
+				b_kolonia = {
+				}
+				b_madolenihmw = {
+				}
+				b_sokehs = {
+				}
+				b_nett = {
+				}
+				b_kitti = {
+				}
+				b_u = {
+				}
+				b_sapwuahfik = {
+				}
+			}
+			c_woleai = { # 43
+				color={ 7 214 237 }
+				color2={ 255 255 255 }
+				
+				b_woleai = {
+				}
+				b_ifalik = {
+				}
+				b_satawal = {
+				}
+				b_lamotrek = {
+				}
+				b_faraulep = {
+				}
+				b_eauripik = {
+				}
+				b_elato = {
+				}
+			}
+			c_yap = { # 44
+				color={ 13 137 255 }
+				color2={ 255 255 255 }
+				
+				b_colonia = {
+				}
+				b_tomil = {
+				}
+				b_gagil = {
+				}
+				b_ulithi = {
+				}
+				b_maap = {
+				}
+				b_ngoof = {
+				}
+				b_wanyaan = {
+				}
+			}
+		}
+		d_mariana_islands = {
+			color={ 19 11 67 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 45 province_id = 46 province_id = 47 } }
+				}
+			}
+			capital = 45 # c_guam
+			
+			c_guam = { # 45
+				color={ 9 21 62 }
+				color2={ 255 255 255 }
+				
+				b_dededo = {
+				}
+				b_yigo = {
+				}
+				b_hagatna = {
+				}
+				b_tamuning = {
+				}
+				b_mangilao = {
+				}
+				b_barrigada = {
+				}
+				b_santa_rita = {
+				}
+			}
+			c_pagan = { # 47
+				color={ 13 33 168 }
+				color2={ 255 255 255 }
+				
+				b_shomushon = {
+				}
+				b_alamagan = {
+				}
+				b_anatahan = {
+				}
+				b_agrihan = {
+				}
+				b_sarigan = {
+				}
+				b_marasu = {
+				}
+				b_bandara = {
+				}
+			}
+			c_saipan = { # 46
+				color={ 5 18 128 }
+				color2={ 255 255 255 }
+				
+				b_garapan = {
+				}
+				b_dandan = {
+				}
+				b_san_jose = {
+				}
+				b_sinapalu = {
+				}
+				b_kagman = {
+				}
+				b_chalan_kanoa = {
+				}
+				b_san_roque = {
+				}
+			}
+		}
+		d_marshall_islands = {
+			color={ 239 146 0 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 33 province_id = 34 province_id = 35 province_id = 36 province_id = 37 province_id = 38 } }
+				}
+			}
+			capital = 33 # c_majuro
+			
+			c_majuro = { # 33
+				color={ 249 136 5 }
+				color2={ 255 255 255 }
+				
+				b_uliga = {
+				}
+				b_djarrit = {
+				}
+				b_delap = {
+				}
+				b_arno = {
+				}
+				b_ajeltake = {
+				}
+				b_mili = {
+				}
+				b_maloelap = {
+				}
+			}
+			c_enewetak = { # 38
+				color={ 179 80 12 }
+				color2={ 255 255 255 }
+				
+				b_enewetak = {
+				}
+				b_medren = {
+				}
+				b_japtan = {
+				}
+				b_runit = {
+				}
+				b_aomon = {
+				}
+				b_enjebi = {
+				}
+				b_ujelang = {
+				}
+			}
+			c_jaluit = { # 34
+				color={ 249 103 7 }
+				color2={ 255 255 255 }
+				
+				b_jaluit = {
+				}
+				b_ailinglaplap = {
+				}
+				b_ebon = {
+				}
+				b_kili = {
+				}
+				b_namorik = {
+				}
+				b_jabor = {
+				}
+				b_bigatyelang = {
+				}
+			}
+			c_kwajalein = { # 36
+				color={ 247 78 2 }
+				color2={ 255 255 255 }
+				
+				b_ebeye = {
+				}
+				b_kwajalein = {
+				}
+				b_namu = {
+				}
+				b_wotho = {
+				}
+				b_ujae = {
+				}
+				b_lae = {
+				}
+				b_loi = {
+				}
+			}
+			c_rongelap = { # 37
+				color={ 217 56 5 }
+				color2={ 255 255 255 }
+				
+				b_rongelap = {
+				}
+				b_bikini = {
+				}
+				b_ailinginae = {
+				}
+				b_rongerik = {
+				}
+				b_anjain = {
+				}
+				b_matayoshi = {
+				}
+				b_ainri = {
+				}
+			}
+			c_wotje = { # 35
+				color={ 205 90 18 }
+				color2={ 255 255 255 }
+				
+				b_wotje = {
+				}
+				b_utirik = {
+				}
+				b_likiep = {
+				}
+				b_mejit = {
+				}
+				b_ailuk = {
+				}
+				b_ormed = {
+				}
+				b_erikub = {
+				}
+			}
+		}
+		d_nauru = {
+			color={ 30 253 74 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 32 } }
+				}
+			}
+			capital = 32 # c_nauru
+			
+			c_nauru = { # 32
+				color={ 20 7 69 }
+				color2={ 255 255 255 }
+				
+				b_denigomodu = {
+				}
+				b_meneng = {
+				}
+				b_aiwo = {
+				}
+				b_boe = {
+				}
+				b_yaren = {
+				}
+				b_buada = {
+				}
+				b_anetan = {
+				}
+			}
+		}
+		d_palau = {
+			color={ 17 58 232 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 48 } }
+				}
+			}
+			capital = 48 # c_palau
+			
+			c_palau = { # 48
+				color={ 7 68 227 }
+				color2={ 255 255 255 }
+				
+				b_koror = {
+				}
+				b_klouklubed = {
+				}
+				b_ulimang = {
+				}
+				b_mengellang = {
+				}
+				b_ngchesar = {
+				}
+				b_melekeok = {
+				}
+				b_ngchemiangel = {
+				}
+			}
+		}
+		d_tungaru = {
+			color={ 172 202 4 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 } }
+				}
+			}
+			capital = 31 # c_northern_tungaru
+			
+			c_northern_tungaru = { # 31
+				color={ 182 192 9 }
+				color2={ 255 255 255 }
+				
+				b_betio = {
+				}
+				b_bikenibeu = {
+				}
+				b_abaiang = {
+				}
+				b_teaoraereke = {
+				}
+				b_butaritari = {
+				}
+				b_bairiki = {
+				}
+				b_marakei = {
+				}
+			}
+			c_central_tungaru = { # 30
+				color={ 226 255 17 }
+				color2={ 255 255 255 }
+				
+				b_abemama = {
+				}
+				b_nonouti = {
+				}
+				b_maiana = {
+				}
+				b_aranuka = {
+				}
+				b_kuria = {
+				}
+				b_tabontebike = {
+				}
+				b_temaraira = {
+				}
+			}
+			c_southern_tungaru = { # 29
+				color={ 204 229 66 }
+				color2={ 255 255 255 }
+				
+				b_tabiteuea = {
+				}
+				b_beru = {
+				}
+				b_nikunau = {
+				}
+				b_onotoa = {
+				}
+				b_arorae = {
+				}
+				b_tamana = {
+				}
+				b_utiroa = {
 				}
 			}
 		}

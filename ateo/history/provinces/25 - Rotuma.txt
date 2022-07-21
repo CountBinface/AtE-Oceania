@@ -1,0 +1,21 @@
+# c_rotuma
+
+# County Title
+title = c_rotuma
+
+# Settlements
+max_settlements = 2
+
+b_ahau = tribal
+#b_oinafa = city
+#b_motusa = temple
+#b_uanheta = castle
+#b_losa = city
+#b_noatau = temple
+#b_pepjei = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

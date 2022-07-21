@@ -1,0 +1,21 @@
+# c_northern_tungaru
+
+# County Title
+title = c_northern_tungaru
+
+# Settlements
+max_settlements = 4
+
+b_betio = tribal
+b_bikenibeu = temple
+#b_abaiang = temple
+#b_teaoraereke = castle
+#b_butaritari = city
+#b_bairiki = temple
+#b_marakei = castle
+
+# Misc
+culture = i-kiribati
+religion = congregational
+
+#History

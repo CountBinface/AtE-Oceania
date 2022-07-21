@@ -1,0 +1,21 @@
+# c_jaluit
+
+# County Title
+title = c_jaluit
+
+# Settlements
+max_settlements = 3
+
+b_jaluit = tribal
+#b_ailinglaplap = city
+#b_ebon = temple
+#b_kili = castle
+#b_namorik = city
+#b_jabor = temple
+#b_bigatyelang = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

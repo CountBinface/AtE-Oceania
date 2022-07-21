@@ -1,0 +1,21 @@
+# c_palau
+
+# County Title
+title = c_palau
+
+# Settlements
+max_settlements = 3
+
+b_koror = tribal
+#b_klouklubed = city
+#b_ulimang = temple
+#b_mengellang = castle
+#b_ngchesar = city
+#b_melekeok = temple
+#b_ngchemiangel = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

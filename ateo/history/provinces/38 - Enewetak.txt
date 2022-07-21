@@ -1,0 +1,21 @@
+# c_enewetak
+
+# County Title
+title = c_enewetak
+
+# Settlements
+max_settlements = 2
+
+b_enewetak = tribal
+#b_medren = city
+#b_japtan = temple
+#b_runit = castle
+#b_aomon = city
+#b_enjebi = temple
+#b_ujelang = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

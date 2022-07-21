@@ -3,15 +3,109 @@ PROV2;Atua;Atua;Atua;;;;;;;;;x
 PROV3;Tuamasaga;Tuamasaga;Tuamasaga;;;;;;;;;x
 PROV4;Fa'asaleleaga;Fa'asaleleaga;Fa'asaleleaga;;;;;;;;;x
 PROV5;Palauli;Palauli;Palauli;;;;;;;;;x
-PROV6;Niu?;Niu?;Niu?;;;;;;;;;x
+PROV6;Niue;Niue;Niue;;;;;;;;;x
 PROV7;Niua;Niua;Niua;;;;;;;;;x
 PROV8;Vava'u;Vava'u;Vava'u;;;;;;;;;x
 PROV9;Ha'apai;Ha'apai;Ha'apai;;;;;;;;;x
 PROV10;Tongatapu;Tongatapu;Tongatapu;;;;;;;;;x
 PROV11;'Uvea;'Uvea;'Uvea;;;;;;;;;x
 PROV12;Futuna;Futuna;Futuna;;;;;;;;;x
-PROV13;Samoan Sea;Samoan Sea;Samoan Sea;;;;;;;;;x
-PROV14;Sea of Niua;Sea of Niua;Sea of Niua;;;;;;;;;x
-PROV15;North Tongan Sea;North Tongan Sea;North Tongan Sea;;;;;;;;;x
-PROV16;South Tongan Sea;South Tongan Sea;South Tongan Sea;;;;;;;;;x
-PROV17;'Uvean Sea;'Uvean Sea;'Uvean Sea;;;;;;;;;x
+PROV13;Lau;Lau;Lau;;;;;;;;;x
+PROV14;Lomaiviti;Lomaiviti;Lomaiviti;;;;;;;;;x
+PROV15;Kadavu;Kadavu;Kadavu;;;;;;;;;x
+PROV16;Cakaudrove;Cakaudrove;Cakaudrove;;;;;;;;;x
+PROV17;Macuata;Macuata;Macuata;;;;;;;;;x
+PROV18;Bua;Bua;Bua;;;;;;;;;x
+PROV19;Ra;Ra;Ra;;;;;;;;;x
+PROV20;Rewa;Rewa;Rewa;;;;;;;;;x
+PROV21;Serua;Serua;Serua;;;;;;;;;x
+PROV22;Nadroga;Nadroga;Nadroga;;;;;;;;;x
+PROV23;Ba;Ba;Ba;;;;;;;;;x
+PROV24;Mamanuca;Mamanuca;Mamanuca;;;;;;;;;x
+PROV25;Rotuma;Rotuma;Rotuma;;;;;;;;;x
+PROV26;Tokelau;Tokelau;Tokelau;;;;;;;;;x
+PROV27;Rawaki;Rawaki;Rawaki;;;;;;;;;x
+PROV28;Tuvalu;Tuvalu;Tuvalu;;;;;;;;;x
+PROV29;Southern Tungaru;Southern Tungaru;Southern Tungaru;;;;;;;;;x
+PROV30;Central Tungaru;Central Tungaru;Central Tungaru;;;;;;;;;x
+PROV31;Northern Tungaru;Northern Tungaru;Northern Tungaru;;;;;;;;;x
+PROV32;Nauru;Nauru;Nauru;;;;;;;;;x
+PROV33;Majuro;Majuro;Majuro;;;;;;;;;x
+PROV34;Jaluit;Jaluit;Jaluit;;;;;;;;;x
+PROV35;Wotje;Wotje;Wotje;;;;;;;;;x
+PROV36;Kwajalein;Kwajalein;Kwajalein;;;;;;;;;x
+PROV37;Rongelap;Rongelap;Rongelap;;;;;;;;;x
+PROV38;Enewetak;Enewetak;Enewetak;;;;;;;;;x
+PROV39;Kosrae;Kosrae;Kosrae;;;;;;;;;x
+PROV40;Pohnpei;Pohnpei;Pohnpei;;;;;;;;;x
+PROV41;Nomoi;Nomoi;Nomoi;;;;;;;;;x
+PROV42;Chuuk;Chuuk;Chuuk;;;;;;;;;x
+PROV43;Woleai;Woleai;Woleai;;;;;;;;;x
+PROV44;Yap;Yap;Yap;;;;;;;;;x
+PROV45;Guam;Guam;Guam;;;;;;;;;x
+PROV46;Saipan;Saipan;Saipan;;;;;;;;;x
+PROV47;Pagan;Pagan;Pagan;;;;;;;;;x
+PROV48;Palau;Palau;Palau;;;;;;;;;x
+PROV49;Samoan Sea;Samoan Sea;Samoan Sea;;;;;;;;;x
+PROV50;Niuean Sea;Niuean Sea;Niuean Sea;;;;;;;;;x
+PROV51;Sea of Niua;Sea of Niua;Sea of Niua;;;;;;;;;x
+PROV52;Tongan Sea;Tongan Sea;Tongan Sea;;;;;;;;;x
+PROV53;'Uvean Sea;'Uvean Sea;'Uvean Sea;;;;;;;;;x
+PROV54;Koro Sea;Koro Sea;Koro Sea;;;;;;;;;x
+PROV55;Vanua Levu Coast;Vanua Levu Coast;Vanua Levu Coast;;;;;;;;;x
+PROV56;Bligh Water;Bligh Water;Bligh Water;;;;;;;;;x
+PROV57;Sea of Rotuma;Sea of Rotuma;Sea of Rotuma;;;;;;;;;x
+PROV58;Sea of Tokelau;Sea of Tokelau;Sea of Tokelau;;;;;;;;;x
+PROV59;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV60;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV61;Tuvaluan Sea;Tuvaluan Sea;Tuvaluan Sea;;;;;;;;;x
+PROV62;Sea of Rawaki;Sea of Rawaki;Sea of Rawaki;;;;;;;;;x
+PROV63;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV64;South Tungaru Sea;South Tungaru Sea;South Tungaru Sea;;;;;;;;;x
+PROV65;North Tungaru Sea;North Tungaru Sea;North Tungaru Sea;;;;;;;;;x
+PROV66;Sea of Banaba;Sea of Banaba;Sea of Banaba;;;;;;;;;x
+PROV67;Sea of Nauru;Sea of Nauru;Sea of Nauru;;;;;;;;;x
+PROV68;Sea of Majuro;Sea of Majuro;Sea of Majuro;;;;;;;;;x
+PROV69;Sea of Jaluit;Sea of Jaluit;Sea of Jaluit;;;;;;;;;x
+PROV70;Sea of Wotje;Sea of Wotje;Sea of Wotje;;;;;;;;;x
+PROV71;Sea of Kwajalein;Sea of Kwajalein;Sea of Kwajalein;;;;;;;;;x
+PROV72;Sea of Rongelap;Sea of Rongelap;Sea of Rongelap;;;;;;;;;x
+PROV73;Sea of Enewetak;Sea of Enewetak;Sea of Enewetak;;;;;;;;;x
+PROV74;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV75;Sea of Kosrae;Sea of Kosrae;Sea of Kosrae;;;;;;;;;x
+PROV76;Sea of Pohnpei;Sea of Pohnpei;Sea of Pohnpei;;;;;;;;;x
+PROV77;Sea of Nomoi;Sea of Nomoi;Sea of Nomoi;;;;;;;;;x
+PROV78;Sea of Chuuk;Sea of Chuuk;Sea of Chuuk;;;;;;;;;x
+PROV79;Sea of Woleai;Sea of Woleai;Sea of Woleai;;;;;;;;;x
+PROV80;Sea of Yap;Sea of Yap;Sea of Yap;;;;;;;;;x
+PROV81;Sea of Palau;Sea of Palau;Sea of Palau;;;;;;;;;x
+PROV82;Southern Mariana Sea;Southern Mariana Sea;Southern Mariana Sea;;;;;;;;;x
+PROV83;Central Mariana Sea;Central Mariana Sea;Central Mariana Sea;;;;;;;;;x
+PROV84;Northern Mariana Sea;Northern Mariana Sea;Northern Mariana Sea;;;;;;;;;x
+PROV85;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV86;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV87;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV88;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV89;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV90;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV91;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV92;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV93;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV94;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV95;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV96;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV97;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV98;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV99;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV100;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV101;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV102;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV103;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV104;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV105;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV106;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV107;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV108;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV109;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV110;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x
+PROV111;Pacific Ocean;Pacific Ocean;Pacific Ocean;;;;;;;;;x

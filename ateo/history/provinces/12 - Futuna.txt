@@ -16,6 +16,6 @@ b_ono = tribal
 
 # Misc
 culture = samoan
-religion = methodist
+religion = marist
 
 #History

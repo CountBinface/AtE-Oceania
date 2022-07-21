@@ -1,0 +1,21 @@
+# c_ra
+
+# County Title
+title = c_ra
+
+# Settlements
+max_settlements = 4
+
+b_vaileka = castle
+b_volivoli = temple
+#b_burenitu = temple
+#b_navolau = castle
+#b_nanukuloa = city
+#b_delaiyadua = temple
+#b_lawaki = castle
+
+# Misc
+culture = indo-fijian
+religion = fijian_hindu
+
+#History

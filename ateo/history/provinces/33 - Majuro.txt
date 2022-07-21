@@ -1,0 +1,21 @@
+# c_majuro
+
+# County Title
+title = c_majuro
+
+# Settlements
+max_settlements = 4
+
+b_uliga = tribal
+b_djarrit = temple
+#b_delap = temple
+#b_arno = castle
+#b_ajeltake = city
+#b_mili = temple
+#b_maloelap = castle
+
+# Misc
+culture = marshallese
+religion = congregational
+
+#History

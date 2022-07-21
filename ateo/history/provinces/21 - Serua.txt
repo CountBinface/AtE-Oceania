@@ -1,0 +1,21 @@
+# c_serua
+
+# County Title
+title = c_serua
+
+# Settlements
+max_settlements = 3
+
+b_navua = castle
+#b_pacific_harbour = city
+#b_galoa = temple
+#b_nabukavesi = castle
+#b_namatakula = city
+#b_deuba = temple
+#b_numuamua = castle
+
+# Misc
+culture = itaukei
+religion = methodist
+
+#History

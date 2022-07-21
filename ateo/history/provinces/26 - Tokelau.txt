@@ -1,0 +1,21 @@
+# c_tokelau
+
+# County Title
+title = c_tokelau
+
+# Settlements
+max_settlements = 2
+
+b_atafu = tribal
+#b_nukunonu = city
+#b_fenua_fala = temple
+#b_na_taulaga = castle
+#b_na_utua = city
+#b_te_lafu = temple
+#b_etena = castle
+
+# Misc
+culture = samoan
+religion = congregational
+
+#History

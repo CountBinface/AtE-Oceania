@@ -1,0 +1,21 @@
+# c_pohnpei
+
+# County Title
+title = c_pohnpei
+
+# Settlements
+max_settlements = 4
+
+b_kolonia = tribal
+b_madolenihmw = temple
+#b_sokehs = temple
+#b_nett = castle
+#b_kitti = city
+#b_u = temple
+#b_sapwuahfik = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

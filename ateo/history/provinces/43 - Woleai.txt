@@ -1,0 +1,21 @@
+# c_woleai
+
+# County Title
+title = c_woleai
+
+# Settlements
+max_settlements = 2
+
+b_woleai = tribal
+#b_ifalik = city
+#b_satawal = temple
+#b_lamotrek = castle
+#b_faraulep = city
+#b_eauripik = temple
+#b_elato = castle
+
+# Misc
+culture = micronesian
+religion = katoliko
+
+#History

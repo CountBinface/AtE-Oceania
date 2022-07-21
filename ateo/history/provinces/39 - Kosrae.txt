@@ -1,0 +1,21 @@
+# c_kosrae
+
+# County Title
+title = c_kosrae
+
+# Settlements
+max_settlements = 3
+
+b_tafunsak = tribal
+#b_utwa = city
+#b_tofol = temple
+#b_lelu = castle
+#b_malem = city
+#b_okat = temple
+#b_walung = castle
+
+# Misc
+culture = micronesian
+religion = congregational
+
+#History

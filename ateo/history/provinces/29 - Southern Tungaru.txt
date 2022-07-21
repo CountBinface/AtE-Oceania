@@ -1,0 +1,21 @@
+# c_southern_tungaru
+
+# County Title
+title = c_southern_tungaru
+
+# Settlements
+max_settlements = 3
+
+b_tabiteuea = tribal
+#b_beru = city
+#b_nikunau = temple
+#b_onotoa = castle
+#b_arorae = city
+#b_tamana = temple
+#b_utiroa = castle
+
+# Misc
+culture = i-kiribati
+religion = congregational
+
+#History

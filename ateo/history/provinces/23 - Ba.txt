@@ -1,0 +1,21 @@
+# c_ba
+
+# County Title
+title = c_ba
+
+# Settlements
+max_settlements = 6
+
+b_lautoka = castle
+b_nadi = temple
+b_ba = city
+b_votualevu = castle
+#b_vatukoula = city
+#b_lauwaki = temple
+#b_nadi_2 = castle
+
+# Misc
+culture = indo-fijian
+religion = fijian_hindu
+
+#History
