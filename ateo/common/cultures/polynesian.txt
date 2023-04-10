@@ -1,9 +1,9 @@
 polynesian = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { brownpacificgfx blackpacificgfx muslimgfx }
 	
 	itaukei = {
-		graphical_cultures = { muslimgfx }
-		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		graphical_cultures = { brownpacificgfx }
+		unit_graphical_cultures = { chinesegfx muslimgfx }
 
 		color = { 0.05 0.29 0.6 }
 		
@@ -63,8 +63,8 @@ polynesian = {
 	
 	
 	samoan = {
-		graphical_cultures = { muslimgfx }
-		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		graphical_cultures = { brownpacificgfx }
+		unit_graphical_cultures = { chinesegfx muslimgfx }
 
 		color = { 0.99 0.34 0.33 }
 		
@@ -121,8 +121,8 @@ polynesian = {
 	}
 	
 	tongan = {
-		graphical_cultures = { muslimgfx }
-		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		graphical_cultures = { brownpacificgfx }
+		unit_graphical_cultures = { chinesegfx muslimgfx }
 
 		color = { 0.47 0.06 0.03 }
 		

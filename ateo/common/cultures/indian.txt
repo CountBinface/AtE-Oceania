@@ -3,7 +3,7 @@ indian = {
 	
 	indo-fijian = {
 		graphical_cultures = { southindiangfx indiangfx muslimgfx }
-		#unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
 
 		color = { 1.0 0.6 0.2 }
 		
