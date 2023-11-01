@@ -1,0 +1,21 @@
+# c_penama
+
+# County Title
+title = c_penama
+
+# Settlements
+max_settlements = 4
+
+b_saratamata = castle
+b_longana = temple
+#b_bunlap = temple
+#b_loltong = castle
+#b_baitora = city
+#b_abwatunbuliva = temple
+#b_lonorore = castle
+
+# Misc
+culture = ni-vanuatu
+religion = john_frum_cultist
+
+#History

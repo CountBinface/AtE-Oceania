@@ -1,0 +1,21 @@
+# c_loyalty_islands
+
+# County Title
+title = c_loyalty_islands
+
+# Settlements
+max_settlements = 3
+
+b_lifou = castle
+#b_mare = city
+#b_ouvea = temple
+#b_we = castle
+#b_wiwatoul = city
+#b_nece = temple
+#b_penelo = castle
+
+# Misc
+culture = kanak
+religion = john_frum_cultist
+
+#History

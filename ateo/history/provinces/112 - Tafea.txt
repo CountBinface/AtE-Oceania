@@ -1,0 +1,21 @@
+# c_tafea
+
+# County Title
+title = c_tafea
+
+# Settlements
+max_settlements = 4
+
+b_isangel = castle
+b_sulphur_bay = temple
+#b_lenakel = temple
+#b_ipota = castle
+#b_whitesands = city
+#b_ipikil = temple
+#b_yenarpon = castle
+
+# Misc
+culture = ni-vanuatu
+religion = john_frum_cultist
+
+#History

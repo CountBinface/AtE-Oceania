@@ -1,0 +1,21 @@
+# c_malampa
+
+# County Title
+title = c_malampa
+
+# Settlements
+max_settlements = 4
+
+b_norsup = castle
+b_lakatoro = temple
+#b_lamap = temple
+#b_brenwe = castle
+#b_endu_pahakol = city
+#b_craig_cove = temple
+#b_roghumbo = castle
+
+# Misc
+culture = ni-vanuatu
+religion = presbyterian
+
+#History

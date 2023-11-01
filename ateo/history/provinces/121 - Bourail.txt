@@ -1,0 +1,17 @@
+# c_bourail
+
+# County Title
+title = c_bourail
+
+# Settlements
+max_settlements = 3
+
+b_bourail = castle
+#b_bourail_2 = city
+#b_bourail_3 = temple
+
+# Misc
+culture = caledonian
+religion = marist
+
+#History

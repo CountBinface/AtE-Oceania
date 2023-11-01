@@ -1,0 +1,21 @@
+# c_shefa
+
+# County Title
+title = c_shefa
+
+# Settlements
+max_settlements = 5
+
+b_port_vila = castle
+b_port_havannah = city
+b_eton = temple
+#b_baofatu = castle
+#b_mangaliliu = city
+#b_nikaura = temple
+#b_valesdir = castle
+
+# Misc
+culture = ni-vanuatu
+religion = john_frum_cultist
+
+#History

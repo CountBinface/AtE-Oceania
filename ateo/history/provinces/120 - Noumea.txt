@@ -1,0 +1,19 @@
+# c_noumea
+
+# County Title
+title = c_noumea
+
+# Settlements
+max_settlements = 5
+
+b_noumea = castle
+b_le_mont_dore = city
+b_dumbea = temple
+#b_paita = castle
+#b_noumea_2 = city
+
+# Misc
+culture = caledonian
+religion = marist
+
+#History

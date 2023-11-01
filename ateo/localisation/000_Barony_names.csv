@@ -3,6 +3,12 @@ b_abaiang;Abaiang;Abaiang;Abaiang;;Abaiang;;;;;;;;;x
 b_abaiang_adj;Abaiangian;;abaianger;;;;;;;;;;;x
 b_abemama;Abemama;Abemama;Abemama;;Abemama;;;;;;;;;x
 b_abemama_adj;Abemaman;;abemamer;;;;;;;;;;;x
+b_ablow;Ablow;Ablow;Ablow;;Ablow;;;;;;;;;x
+b_ablow_adj;Ablowian;;ablower;;;;;;;;;;;x
+b_abnetare;Abnetare;Abnetare;Abnetare;;Abnetare;;;;;;;;;x
+b_abnetare_adj;Abnetarean;;abnetarer;;;;;;;;;;;x
+b_abwatunbuliva;Abwatunbuliva;Abwatunbuliva;Abwatunbuliva;;Abwatunbuliva;;;;;;;;;x
+b_abwatunbuliva_adj;Abwatunbulivan;;abwatunbuliver;;;;;;;;;;;x
 b_afega;Afega;Afega;Afega;;Afega;;;;;;;;;x
 b_afega_adj;Afegan;;afeger;;;;;;;;;;;x
 b_agrihan;Agrihan;Agrihan;Agrihan;;Agrihan;;;;;;;;;x
@@ -57,12 +63,18 @@ b_aua;Aua;Aua;Aua;;Aua;;;;;;;;;x
 b_aua_adj;Auan;;er;;;;;;;;;;;x
 b_avatele;Avatele;Avatele;Avatele;;Avatele;;;;;;;;;x
 b_avatele_adj;Avatelean;;avateler;;;;;;;;;;;x
+b_avire;Avire;Avire;Avire;;Avire;;;;;;;;;x
+b_avire_adj;Avirean;;avirer;;;;;;;;;;;x
 b_ba;Ba;Ba;Ba;;Ba;;;;;;;;;x
 b_ba_adj;Ban;;ber;;;;;;;;;;;x
 b_bairiki;Bairiki;Bairiki;Bairiki;;Bairiki;;;;;;;;;x
 b_bairiki_adj;Bairikian;;bairiker;;;;;;;;;;;x
+b_baitora;Baitora;Baitora;Baitora;;Baitora;;;;;;;;;x
+b_baitora_adj;Baitoran;;baitorer;;;;;;;;;;;x
 b_bandara;Bandara;Bandara;Bandara;;Bandara;;;;;;;;;x
 b_bandara_adj;Bandaran;;bandarer;;;;;;;;;;;x
+b_baofatu;Baofatu;Baofatu;Baofatu;;Baofatu;;;;;;;;;x
+b_baofatu_adj;Baofatian;;baofater;;;;;;;;;;;x
 b_barrigada;Barrigada;Barrigada;Barrigada;;Barrigada;;;;;;;;;x
 b_barrigada_adj;Barrigadan;;barrigader;;;;;;;;;;;x
 b_batiki;Batiki;Batiki;Batiki;;Batiki;;;;;;;;;x
@@ -81,14 +93,26 @@ b_bikini;Bikini;Bikini;Bikini;;Bikini;;;;;;;;;x
 b_bikini_adj;Bikinian;;bikiner;;;;;;;;;;;x
 b_boe;Boe;Boe;Boe;;Boe;;;;;;;;;x
 b_boe_adj;Boean;;ber;;;;;;;;;;;x
+b_bourail;Bourail;Bourail;Bourail;;Bourail;;;;;;;;;x
+b_bourail_adj;Bourailian;;bourailer;;;;;;;;;;;x
+b_bourail_2;Bourail;Bourail;Bourail;;Bourail;;;;;;;;;x
+b_bourail_2_adj;Bourailian;;bourailer;;;;;;;;;;;x
+b_bourail_3;Bourail;Bourail;Bourail;;Bourail;;;;;;;;;x
+b_bourail_3_adj;Bourailian;;bourailer;;;;;;;;;;;x
+b_brenwe;Brenwe;Brenwe;Brenwe;;Brenwe;;;;;;;;;x
+b_brenwe_adj;Brenwean;;brenwer;;;;;;;;;;;x
 b_buada;Buada;Buada;Buada;;Buada;;;;;;;;;x
 b_buada_adj;Buadan;;buader;;;;;;;;;;;x
 b_bulileka;Bulileka;Bulileka;Bulileka;;Bulileka;;;;;;;;;x
 b_bulileka_adj;Bulilekan;;bulileker;;;;;;;;;;;x
+b_bunlap;Bunlap;Bunlap;Bunlap;;Bunlap;;;;;;;;;x
+b_bunlap_adj;Bunlapian;;bunlaper;;;;;;;;;;;x
 b_burenitu;Burenitu;Burenitu;Burenitu;;Burenitu;;;;;;;;;x
 b_burenitu_adj;Burenitian;;bureniter;;;;;;;;;;;x
 b_butaritari;Butaritari;Butaritari;Butaritari;;Butaritari;;;;;;;;;x
 b_butaritari_adj;Butaritarian;;butaritarer;;;;;;;;;;;x
+b_butmas;Butmas;Butmas;Butmas;;Butmas;;;;;;;;;x
+b_butmas_adj;Butmasian;;butmaser;;;;;;;;;;;x
 b_cakova;Cakova;Cakova;Cakova;;Cakova;;;;;;;;;x
 b_cakova_adj;Cakovan;;cakover;;;;;;;;;;;x
 b_canton;Canton;Canton;Canton;;Canton;;;;;;;;;x
@@ -99,6 +123,8 @@ b_chalan_kanoa;Chalan Kanoa;Chalan Kanoa;Chalan Kanoa;;Chalan Kanoa;;;;;;;;;x
 b_chalan_kanoa_adj;Chalan Kanoan;;Chalan Kaner;;;;;;;;;;;x
 b_colonia;Colonia;Colonia;Colonia;;Colonia;;;;;;;;;x
 b_colonia_adj;Colonian;;coloner;;;;;;;;;;;x
+b_craig_cove;Craig Cove;Craig Cove;Craig Cove;;Craig Cove;;;;;;;;;x
+b_craig_cove_adj;Craig Covean;;Craig Cover;;;;;;;;;;;x
 b_dalice;Dalice;Dalice;Dalice;;Dalice;;;;;;;;;x
 b_dalice_adj;Dalicean;;dalicer;;;;;;;;;;;x
 b_dandan;Dandan;Dandan;Dandan;;Dandan;;;;;;;;;x
@@ -113,8 +139,12 @@ b_denigomodu;Denigomodu;Denigomodu;Denigomodu;;Denigomodu;;;;;;;;;x
 b_denigomodu_adj;Denigomodian;;denigomoder;;;;;;;;;;;x
 b_deuba;Deuba;Deuba;Deuba;;Deuba;;;;;;;;;x
 b_deuba_adj;Deuban;;deuber;;;;;;;;;;;x
+b_divers_bay;Divers Bay;Divers Bay;Divers Bay;;Divers Bay;;;;;;;;;x
+b_divers_bay_adj;Divers Baian;;Divers Baer;;;;;;;;;;;x
 b_djarrit;Djarrit;Djarrit;Djarrit;;Djarrit;;;;;;;;;x
 b_djarrit_adj;Djarritian;;djarriter;;;;;;;;;;;x
+b_dumbea;Dumbéa;Dumbéa;Dumbéa;;Dumbéa;;;;;;;;;x
+b_dumbea_adj;Dumbéan;;dumbéer;;;;;;;;;;;x
 b_eauripik;Eauripik;Eauripik;Eauripik;;Eauripik;;;;;;;;;x
 b_eauripik_adj;Eauripikian;;eauripiker;;;;;;;;;;;x
 b_ebeye;Ebeye;Ebeye;Ebeye;;Ebeye;;;;;;;;;x
@@ -125,6 +155,8 @@ b_elato;Elato;Elato;Elato;;Elato;;;;;;;;;x
 b_elato_adj;Elatian;;elater;;;;;;;;;;;x
 b_enderbury;Enderbury;Enderbury;Enderbury;;Enderbury;;;;;;;;;x
 b_enderbury_adj;Enderburian;;enderburer;;;;;;;;;;;x
+b_endu_pahakol;Endu Pahakol;Endu Pahakol;Endu Pahakol;;Endu Pahakol;;;;;;;;;x
+b_endu_pahakol_adj;Endu Pahakolian;;Endu Pahakoler;;;;;;;;;;;x
 b_enewetak;Enewetak;Enewetak;Enewetak;;Enewetak;;;;;;;;;x
 b_enewetak_adj;Enewetakian;;enewetaker;;;;;;;;;;;x
 b_enjebi;Enjebi;Enjebi;Enjebi;;Enjebi;;;;;;;;;x
@@ -135,6 +167,8 @@ b_etal;Etal;Etal;Etal;;Etal;;;;;;;;;x
 b_etal_adj;Etalian;;etaler;;;;;;;;;;;x
 b_etena;Etena;Etena;Etena;;Etena;;;;;;;;;x
 b_etena_adj;Etenan;;etener;;;;;;;;;;;x
+b_eton;Eton;Eton;Eton;;Eton;;;;;;;;;x
+b_eton_adj;Etonian;;etoner;;;;;;;;;;;x
 b_fagatogo;Fagatogo;Fagatogo;Fagatogo;;Fagatogo;;;;;;;;;x
 b_fagatogo_adj;Fagatogian;;fagatoger;;;;;;;;;;;x
 b_fakakakai;Fakakakai;Fakakakai;Fakakakai;;Fakakakai;;;;;;;;;x
@@ -175,12 +209,20 @@ b_hakupu;Hakupu;Hakupu;Hakupu;;Hakupu;;;;;;;;;x
 b_hakupu_adj;Hakupian;;hakuper;;;;;;;;;;;x
 b_hihifo;Hihifo;Hihifo;Hihifo;;Hihifo;;;;;;;;;x
 b_hihifo_adj;Hihifian;;hihifer;;;;;;;;;;;x
+b_hog_harbour;Hog Harbour;Hog Harbour;Hog Harbour;;Hog Harbour;;;;;;;;;x
+b_hog_harbour_adj;Hog Harbourian;;Hog Harbourer;;;;;;;;;;;x
 b_holonga;Holonga;Holonga;Holonga;;Holonga;;;;;;;;;x
 b_holonga_adj;Holongan;;holonger;;;;;;;;;;;x
 b_houma;Houma;Houma;Houma;;Houma;;;;;;;;;x
 b_houma_adj;Houman;;houmer;;;;;;;;;;;x
 b_ifalik;Ifalik;Ifalik;Ifalik;;Ifalik;;;;;;;;;x
 b_ifalik_adj;Ifalikian;;ifaliker;;;;;;;;;;;x
+b_ipikil;Ipikil;Ipikil;Ipikil;;Ipikil;;;;;;;;;x
+b_ipikil_adj;Ipikilian;;ipikiler;;;;;;;;;;;x
+b_ipota;Ipota;Ipota;Ipota;;Ipota;;;;;;;;;x
+b_ipota_adj;Ipotan;;ipoter;;;;;;;;;;;x
+b_isangel;Isangel;Isangel;Isangel;;Isangel;;;;;;;;;x
+b_isangel_adj;Isangelian;;isangeler;;;;;;;;;;;x
 b_jabor;Jabor;Jabor;Jabor;;Jabor;;;;;;;;;x
 b_jabor_adj;Jaborian;;jaborer;;;;;;;;;;;x
 b_jaluit;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
@@ -201,6 +243,12 @@ b_kolia;Kolia;Kolia;Kolia;;Kolia;;;;;;;;;x
 b_kolia_adj;Kolian;;koler;;;;;;;;;;;x
 b_kolonia;Kolonia;Kolonia;Kolonia;;Kolonia;;;;;;;;;x
 b_kolonia_adj;Kolonian;;koloner;;;;;;;;;;;x
+b_kone;Kone;Kone;Kone;;Kone;;;;;;;;;x
+b_kone_adj;Konean;;koner;;;;;;;;;;;x
+b_kone_2;Kone;Kone;Kone;;Kone;;;;;;;;;x
+b_kone_2_adj;Konean;;koner;;;;;;;;;;;x
+b_kone_3;Kone;Kone;Kone;;Kone;;;;;;;;;x
+b_kone_3_adj;Konean;;koner;;;;;;;;;;;x
 b_koro;Koro;Koro;Koro;;Koro;;;;;;;;;x
 b_koro_adj;Korian;;korer;;;;;;;;;;;x
 b_koroinasolo;Koroinasolo;Koroinasolo;Koroinasolo;;Koroinasolo;;;;;;;;;x
@@ -217,8 +265,12 @@ b_labasa;Labasa;Labasa;Labasa;;Labasa;;;;;;;;;x
 b_labasa_adj;Labasan;;labaser;;;;;;;;;;;x
 b_lae;Lae;Lae;Lae;;Lae;;;;;;;;;x
 b_lae_adj;Laean;;ler;;;;;;;;;;;x
+b_lakatoro;Lakatoro;Lakatoro;Lakatoro;;Lakatoro;;;;;;;;;x
+b_lakatoro_adj;Lakatorian;;lakatorer;;;;;;;;;;;x
 b_lalomanu;Lalomanu;Lalomanu;Lalomanu;;Lalomanu;;;;;;;;;x
 b_lalomanu_adj;Lalomanian;;lalomaner;;;;;;;;;;;x
+b_lamap;Lamap;Lamap;Lamap;;Lamap;;;;;;;;;x
+b_lamap_adj;Lamapian;;lamaper;;;;;;;;;;;x
 b_lami;Lami;Lami;Lami;;Lami;;;;;;;;;x
 b_lami_adj;Lamian;;lamer;;;;;;;;;;;x
 b_lamotrek;Lamotrek;Lamotrek;Lamotrek;;Lamotrek;;;;;;;;;x
@@ -231,6 +283,8 @@ b_lauwaki;Lauwaki;Lauwaki;Lauwaki;;Lauwaki;;;;;;;;;x
 b_lauwaki_adj;Lauwakian;;lauwaker;;;;;;;;;;;x
 b_lawaki;Lawaki;Lawaki;Lawaki;;Lawaki;;;;;;;;;x
 b_lawaki_adj;Lawakian;;lawaker;;;;;;;;;;;x
+b_le_mont_dore;Le-Mont-Dore;Le-Mont-Dore;Le-Mont-Dore;;Le-Mont-Dore;;;;;;;;;x
+b_le_mont_dore_adj;Le-Mont-Dorean;;le-mont-dorer;;;;;;;;;;;x
 b_leava;Leava;Leava;Leava;;Leava;;;;;;;;;x
 b_leava_adj;Leavan;;leaver;;;;;;;;;;;x
 b_lefaga;Lefaga;Lefaga;Lefaga;;Lefaga;;;;;;;;;x
@@ -239,12 +293,16 @@ b_leimatua;Leimatua;Leimatua;Leimatua;;Leimatua;;;;;;;;;x
 b_leimatua_adj;Leimatuan;;leimater;;;;;;;;;;;x
 b_lelu;Lelu;Lelu;Lelu;;Lelu;;;;;;;;;x
 b_lelu_adj;Lelian;;leler;;;;;;;;;;;x
+b_lenakel;Lenakel;Lenakel;Lenakel;;Lenakel;;;;;;;;;x
+b_lenakel_adj;Lenakelian;;lenakeler;;;;;;;;;;;x
 b_leone;Leone;Leone;Leone;;Leone;;;;;;;;;x
 b_leone_adj;Leonean;;leoner;;;;;;;;;;;x
 b_leulumoega;Leulumoega;Leulumoega;Leulumoega;;Leulumoega;;;;;;;;;x
 b_leulumoega_adj;Leulumoegan;;leulumoeger;;;;;;;;;;;x
 b_levuka;Levuka;Levuka;Levuka;;Levuka;;;;;;;;;x
 b_levuka_adj;Levukan;;levuker;;;;;;;;;;;x
+b_lifou;Lifou;Lifou;Lifou;;Lifou;;;;;;;;;x
+b_lifou_adj;Lifian;;lifer;;;;;;;;;;;x
 b_likiep;Likiep;Likiep;Likiep;;Likiep;;;;;;;;;x
 b_likiep_adj;Likiepian;;likieper;;;;;;;;;;;x
 b_liku;Liku;Liku;Liku;;Liku;;;;;;;;;x
@@ -253,8 +311,18 @@ b_liku_2;Liku;Liku;Liku;;Liku;;;;;;;;;x
 b_liku_2_adj;Likian;;liker;;;;;;;;;;;x
 b_loi;Loi;Loi;Loi;;Loi;;;;;;;;;x
 b_loi_adj;Lian;;ler;;;;;;;;;;;x
+b_loltong;Loltong;Loltong;Loltong;;Loltong;;;;;;;;;x
+b_loltong_adj;Loltongian;;loltonger;;;;;;;;;;;x
 b_lomaloma;Lomaloma;Lomaloma;Lomaloma;;Lomaloma;;;;;;;;;x
 b_lomaloma_adj;Lomaloman;;lomalomer;;;;;;;;;;;x
+b_longana;Longana;Longana;Longana;;Longana;;;;;;;;;x
+b_longana_adj;Longanan;;longaner;;;;;;;;;;;x
+b_longtal;Longtal;Longtal;Longtal;;Longtal;;;;;;;;;x
+b_longtal_adj;Longtalian;;longtaler;;;;;;;;;;;x
+b_lonorore;Lonorore;Lonorore;Lonorore;;Lonorore;;;;;;;;;x
+b_lonorore_adj;Lonororean;;lonororer;;;;;;;;;;;x
+b_lorevilko;Lorevilko;Lorevilko;Lorevilko;;Lorevilko;;;;;;;;;x
+b_lorevilko_adj;Lorevilkian;;lorevilker;;;;;;;;;;;x
 b_losa;Losa;Losa;Losa;;Losa;;;;;;;;;x
 b_losa_adj;Losan;;loser;;;;;;;;;;;x
 b_lotofaga;Lotofaga;Lotofaga;Lotofaga;;Lotofaga;;;;;;;;;x
@@ -267,6 +335,8 @@ b_luatuanuu;Luatuanu'u;Luatuanu'u;Luatuanu'u;;Luatuanu'u;;;;;;;;;x
 b_luatuanuu_adj;Luatuanu'ian;;luatuanu'er;;;;;;;;;;;x
 b_lufilufi;Lufilufi;Lufilufi;Lufilufi;;Lufilufi;;;;;;;;;x
 b_lufilufi_adj;Lufilufian;;lufilufer;;;;;;;;;;;x
+b_luganville;Luganville;Luganville;Luganville;;Luganville;;;;;;;;;x
+b_luganville_adj;Luganvillean;;luganviller;;;;;;;;;;;x
 b_lukunor;Lukunor;Lukunor;Lukunor;;Lukunor;;;;;;;;;x
 b_lukunor_adj;Lukunorian;;lukunorer;;;;;;;;;;;x
 b_maap;Maap;Maap;Maap;;Maap;;;;;;;;;x
@@ -281,6 +351,8 @@ b_maloelap;Maloelap;Maloelap;Maloelap;;Maloelap;;;;;;;;;x
 b_maloelap_adj;Maloelapian;;maloelaper;;;;;;;;;;;x
 b_malolo;Malolo;Malolo;Malolo;;Malolo;;;;;;;;;x
 b_malolo_adj;Malolian;;maloler;;;;;;;;;;;x
+b_mangaliliu;Mangaliliu;Mangaliliu;Mangaliliu;;Mangaliliu;;;;;;;;;x
+b_mangaliliu_adj;Mangalilian;;mangaliler;;;;;;;;;;;x
 b_mangilao;Mangilao;Mangilao;Mangilao;;Mangilao;;;;;;;;;x
 b_mangilao_adj;Mangilian;;mangiler;;;;;;;;;;;x
 b_maninoa;Maninoa;Maninoa;Maninoa;;Maninoa;;;;;;;;;x
@@ -293,6 +365,8 @@ b_marakei;Marakei;Marakei;Marakei;;Marakei;;;;;;;;;x
 b_marakei_adj;Marakian;;maraker;;;;;;;;;;;x
 b_marasu;Marasu;Marasu;Marasu;;Marasu;;;;;;;;;x
 b_marasu_adj;Marasian;;maraser;;;;;;;;;;;x
+b_mare;Maré;Maré;Maré;;Maré;;;;;;;;;x
+b_mare_adj;Maréian;;maréer;;;;;;;;;;;x
 b_marou;Marou;Marou;Marou;;Marou;;;;;;;;;x
 b_marou_adj;Marian;;marer;;;;;;;;;;;x
 b_mataaho;Mata'aho;Mata'aho;Mata'aho;;Mata'aho;;;;;;;;;x
@@ -317,6 +391,8 @@ b_meneng;Meneng;Meneng;Meneng;;Meneng;;;;;;;;;x
 b_meneng_adj;Menengian;;menenger;;;;;;;;;;;x
 b_mengellang;Mengellang;Mengellang;Mengellang;;Mengellang;;;;;;;;;x
 b_mengellang_adj;Mengellangian;;mengellanger;;;;;;;;;;;x
+b_metoma;Metoma;Metoma;Metoma;;Metoma;;;;;;;;;x
+b_metoma_adj;Metoman;;metomer;;;;;;;;;;;x
 b_mili;Mili;Mili;Mili;;Mili;;;;;;;;;x
 b_mili_adj;Milian;;miler;;;;;;;;;;;x
 b_moch;Moch;Moch;Moch;;Moch;;;;;;;;;x
@@ -397,6 +473,8 @@ b_navua;Navua;Navua;Navua;;Navua;;;;;;;;;x
 b_navua_adj;Navuan;;naver;;;;;;;;;;;x
 b_ndalomo;Ndalomo;Ndalomo;Ndalomo;;Ndalomo;;;;;;;;;x
 b_ndalomo_adj;Ndalomian;;ndalomer;;;;;;;;;;;x
+b_nece;Nece;Nece;Nece;;Nece;;;;;;;;;x
+b_nece_adj;Necean;;necer;;;;;;;;;;;x
 b_neiafa;Neiafa;Neiafa;Neiafa;;Neiafa;;;;;;;;;x
 b_neiafa_adj;Neiafan;;neiafer;;;;;;;;;;;x
 b_nett;Nett;Nett;Nett;;Nett;;;;;;;;;x
@@ -407,6 +485,8 @@ b_ngchesar;Ngchesar;Ngchesar;Ngchesar;;Ngchesar;;;;;;;;;x
 b_ngchesar_adj;Ngchesarian;;ngchesarer;;;;;;;;;;;x
 b_ngoof;Ngoof;Ngoof;Ngoof;;Ngoof;;;;;;;;;x
 b_ngoof_adj;Ngoofian;;ngoofer;;;;;;;;;;;x
+b_nikaura;Nikaura;Nikaura;Nikaura;;Nikaura;;;;;;;;;x
+b_nikaura_adj;Nikauran;;nikaurer;;;;;;;;;;;x
 b_nikumaroro;Nikumaroro;Nikumaroro;Nikumaroro;;Nikumaroro;;;;;;;;;x
 b_nikumaroro_adj;Nikumarorian;;nikumarorer;;;;;;;;;;;x
 b_nikunau;Nikunau;Nikunau;Nikunau;;Nikunau;;;;;;;;;x
@@ -417,6 +497,12 @@ b_nomuka;Nomuka;Nomuka;Nomuka;;Nomuka;;;;;;;;;x
 b_nomuka_adj;Nomukan;;nomuker;;;;;;;;;;;x
 b_nonouti;Nonouti;Nonouti;Nonouti;;Nonouti;;;;;;;;;x
 b_nonouti_adj;Nonoutian;;nonouter;;;;;;;;;;;x
+b_norsup;Norsup;Norsup;Norsup;;Norsup;;;;;;;;;x
+b_norsup_adj;Norsupian;;norsuper;;;;;;;;;;;x
+b_noumea;Nouméa;Nouméa;Nouméa;;Nouméa;;;;;;;;;x
+b_noumea_adj;Nouméan;;nouméer;;;;;;;;;;;x
+b_noumea_2;Noumea;Noumea;Noumea;;Noumea;;;;;;;;;x
+b_noumea_2_adj;Noumean;;noumer;;;;;;;;;;;x
 b_nukualofa;Nuku'alofa;Nuku'alofa;Nuku'alofa;;Nuku'alofa;;;;;;;;;x
 b_nukualofa_adj;Nuku'alofan;;nuku'alofer;;;;;;;;;;;x
 b_nukunonu;Nukunonu;Nukunonu;Nukunonu;;Nukunonu;;;;;;;;;x
@@ -443,24 +529,44 @@ b_ormed;Ormed;Ormed;Ormed;;Ormed;;;;;;;;;x
 b_ormed_adj;Ormedian;;ormeder;;;;;;;;;;;x
 b_orona;Orona;Orona;Orona;;Orona;;;;;;;;;x
 b_orona_adj;Oronan;;oroner;;;;;;;;;;;x
+b_ouvea;Ouvea;Ouvea;Ouvea;;Ouvea;;;;;;;;;x
+b_ouvea_adj;Ouvean;;ouver;;;;;;;;;;;x
 b_pacific_harbour;Pacific Harbour;Pacific Harbour;Pacific Harbour;;Pacific Harbour;;;;;;;;;x
 b_pacific_harbour_adj;Pacific Harbourian;;Pacific Harbourer;;;;;;;;;;;x
 b_pago_pago;Pago Pago;Pago Pago;Pago Pago;;Pago Pago;;;;;;;;;x
 b_pago_pago_adj;Pago Pagian;;Pago Pager;;;;;;;;;;;x
+b_paita;Paita;Paita;Paita;;Paita;;;;;;;;;x
+b_paita_adj;Paitan;;paiter;;;;;;;;;;;x
 b_pangai;Pangai;Pangai;Pangai;;Pangai;;;;;;;;;x
 b_pangai_adj;Pangian;;panger;;;;;;;;;;;x
 b_patamea;Patamea;Patamea;Patamea;;Patamea;;;;;;;;;x
 b_patamea_adj;Patamean;;patamer;;;;;;;;;;;x
+b_penelo;Penelo;Penelo;Penelo;;Penelo;;;;;;;;;x
+b_penelo_adj;Penelian;;peneler;;;;;;;;;;;x
 b_pepjei;Pepjei;Pepjei;Pepjei;;Pepjei;;;;;;;;;x
 b_pepjei_adj;Pepjian;;pepjer;;;;;;;;;;;x
 b_poi;Poi;Poi;Poi;;Poi;;;;;;;;;x
 b_poi_adj;Pian;;per;;;;;;;;;;;x
+b_poindimie;Poindimie;Poindimie;Poindimie;;Poindimie;;;;;;;;;x
+b_poindimie_adj;Poindimiean;;poindimer;;;;;;;;;;;x
+b_poindimie_2;Poindimie;Poindimie;Poindimie;;Poindimie;;;;;;;;;x
+b_poindimie_2_adj;Poindimiean;;poindimer;;;;;;;;;;;x
+b_poindimie_3;Poindimie;Poindimie;Poindimie;;Poindimie;;;;;;;;;x
+b_poindimie_3_adj;Poindimiean;;poindimer;;;;;;;;;;;x
 b_polle;Polle;Polle;Polle;;Polle;;;;;;;;;x
 b_polle_adj;Pollean;;poller;;;;;;;;;;;x
+b_port_havannah;Port Havannah;Port Havannah;Port Havannah;;Port Havannah;;;;;;;;;x
+b_port_havannah_adj;Port Havannahian;;Port Havannaher;;;;;;;;;;;x
+b_port_olry;Port Olry;Port Olry;Port Olry;;Port Olry;;;;;;;;;x
+b_port_olry_adj;Port Olrian;;Port Olrer;;;;;;;;;;;x
+b_port_vila;Port Vila;Port Vila;Port Vila;;Port Vila;;;;;;;;;x
+b_port_vila_adj;Port Vilan;;Port Viler;;;;;;;;;;;x
 b_rabi;Rabi;Rabi;Rabi;;Rabi;;;;;;;;;x
 b_rabi_adj;Rabian;;raber;;;;;;;;;;;x
 b_rawaki;Rawaki;Rawaki;Rawaki;;Rawaki;;;;;;;;;x
 b_rawaki_adj;Rawakian;;rawaker;;;;;;;;;;;x
+b_roghumbo;Roghumbo;Roghumbo;Roghumbo;;Roghumbo;;;;;;;;;x
+b_roghumbo_adj;Roghumbian;;roghumber;;;;;;;;;;;x
 b_rongelap;Rongelap;Rongelap;Rongelap;;Rongelap;;;;;;;;;x
 b_rongelap_adj;Rongelapian;;rongelaper;;;;;;;;;;;x
 b_rongerik;Rongerik;Rongerik;Rongerik;;Rongerik;;;;;;;;;x
@@ -487,6 +593,8 @@ b_sapaata;Sapa'ata;Sapa'ata;Sapa'ata;;Sapa'ata;;;;;;;;;x
 b_sapaata_adj;Sapa'atan;;sapa'ater;;;;;;;;;;;x
 b_sapwuahfik;Sapwuahfik;Sapwuahfik;Sapwuahfik;;Sapwuahfik;;;;;;;;;x
 b_sapwuahfik_adj;Sapwuahfikian;;sapwuahfiker;;;;;;;;;;;x
+b_saratamata;Saratamata;Saratamata;Saratamata;;Saratamata;;;;;;;;;x
+b_saratamata_adj;Saratamatan;;saratamater;;;;;;;;;;;x
 b_sarigan;Sarigan;Sarigan;Sarigan;;Sarigan;;;;;;;;;x
 b_sarigan_adj;Sariganian;;sariganer;;;;;;;;;;;x
 b_satapuala;Satapuala;Satapuala;Satapuala;;Satapuala;;;;;;;;;x
@@ -511,12 +619,16 @@ b_sinapalu;Sinapalu;Sinapalu;Sinapalu;;Sinapalu;;;;;;;;;x
 b_sinapalu_adj;Sinapalian;;sinapaler;;;;;;;;;;;x
 b_sokehs;Sokehs;Sokehs;Sokehs;;Sokehs;;;;;;;;;x
 b_sokehs_adj;Sokehsian;;sokehser;;;;;;;;;;;x
+b_sola;Sola;Sola;Sola;;Sola;;;;;;;;;x
+b_sola_adj;Solan;;soler;;;;;;;;;;;x
 b_solosolo;Solosolo;Solosolo;Solosolo;;Solosolo;;;;;;;;;x
 b_solosolo_adj;Solosolian;;solosoler;;;;;;;;;;;x
 b_somosomo;Somosomo;Somosomo;Somosomo;;Somosomo;;;;;;;;;x
 b_somosomo_adj;Somosomian;;somosomer;;;;;;;;;;;x
 b_soso;Soso;Soso;Soso;;Soso;;;;;;;;;x
 b_soso_adj;Sosian;;soser;;;;;;;;;;;x
+b_sulphur_bay;Sulphur Bay;Sulphur Bay;Sulphur Bay;;Sulphur Bay;;;;;;;;;x
+b_sulphur_bay_adj;Sulphur Baian;;Sulphur Baer;;;;;;;;;;;x
 b_suva;Suva;Suva;Suva;;Suva;;;;;;;;;x
 b_suva_adj;Suvan;;suver;;;;;;;;;;;x
 b_taanea;Ta'anea;Ta'anea;Ta'anea;;Ta'anea;;;;;;;;;x
@@ -563,6 +675,12 @@ b_tefisi;Tefisi;Tefisi;Tefisi;;Tefisi;;;;;;;;;x
 b_tefisi_adj;Tefisian;;tefiser;;;;;;;;;;;x
 b_temaraira;Temaraira;Temaraira;Temaraira;;Temaraira;;;;;;;;;x
 b_temaraira_adj;Temarairan;;temarairer;;;;;;;;;;;x
+b_thio;Thio;Thio;Thio;;Thio;;;;;;;;;x
+b_thio_adj;Thian;;ther;;;;;;;;;;;x
+b_thio_2;Thio;Thio;Thio;;Thio;;;;;;;;;x
+b_thio_2_adj;Thian;;ther;;;;;;;;;;;x
+b_thio_3;Thio;Thio;Thio;;Thio;;;;;;;;;x
+b_thio_3_adj;Thian;;ther;;;;;;;;;;;x
 b_tofol;Tofol;Tofol;Tofol;;Tofol;;;;;;;;;x
 b_tofol_adj;Tofolian;;tofoler;;;;;;;;;;;x
 b_tokelau;Tokelau;Tokelau;Tokelau;;Tokelau;;;;;;;;;x
@@ -629,6 +747,8 @@ b_vaitoomuli;Vaito'omuli;Vaito'omuli;Vaito'omuli;;Vaito'omuli;;;;;;;;;x
 b_vaitoomuli_adj;Vaito'omulian;;vaito'omuler;;;;;;;;;;;x
 b_vaitupu;Vaitupu;Vaitupu;Vaitupu;;Vaitupu;;;;;;;;;x
 b_vaitupu_adj;Vaitupian;;vaituper;;;;;;;;;;;x
+b_valesdir;Valesdir;Valesdir;Valesdir;;Valesdir;;;;;;;;;x
+b_valesdir_adj;Valesdirian;;valesdirer;;;;;;;;;;;x
 b_vandravandra;Vandravandra;Vandravandra;Vandravandra;;Vandravandra;;;;;;;;;x
 b_vandravandra_adj;Vandravandran;;vandravandrer;;;;;;;;;;;x
 b_vanuavatu;Vanuavatu;Vanuavatu;Vanuavatu;;Vanuavatu;;;;;;;;;x
@@ -637,6 +757,8 @@ b_vatukoula;Vatukoula;Vatukoula;Vatukoula;;Vatukoula;;;;;;;;;x
 b_vatukoula_adj;Vatukoulan;;vatukouler;;;;;;;;;;;x
 b_verate;Verate;Verate;Verate;;Verate;;;;;;;;;x
 b_verate_adj;Veratean;;verater;;;;;;;;;;;x
+b_veverao;Veverao;Veverao;Veverao;;Veverao;;;;;;;;;x
+b_veverao_adj;Veverian;;veverer;;;;;;;;;;;x
 b_volivoli;Volivoli;Volivoli;Volivoli;;Volivoli;;;;;;;;;x
 b_volivoli_adj;Volivolian;;volivoler;;;;;;;;;;;x
 b_votua;Votua;Votua;Votua;;Votua;;;;;;;;;x
@@ -655,8 +777,14 @@ b_walung;Walung;Walung;Walung;;Walung;;;;;;;;;x
 b_walung_adj;Walungian;;walunger;;;;;;;;;;;x
 b_wanyaan;Wanyaan;Wanyaan;Wanyaan;;Wanyaan;;;;;;;;;x
 b_wanyaan_adj;Wanyaanian;;wanyaaner;;;;;;;;;;;x
+b_we;We;We;We;;We;;;;;;;;;x
+b_we_adj;Wean;;wer;;;;;;;;;;;x
 b_weno;Weno;Weno;Weno;;Weno;;;;;;;;;x
 b_weno_adj;Wenian;;wener;;;;;;;;;;;x
+b_whitesands;Whitesands;Whitesands;Whitesands;;Whitesands;;;;;;;;;x
+b_whitesands_adj;Whitesandsian;;whitesandser;;;;;;;;;;;x
+b_wiwatoul;Wiwatoul;Wiwatoul;Wiwatoul;;Wiwatoul;;;;;;;;;x
+b_wiwatoul_adj;Wiwatoulian;;wiwatouler;;;;;;;;;;;x
 b_woleai;Woleai;Woleai;Woleai;;Woleai;;;;;;;;;x
 b_woleai_adj;Wolian;;woler;;;;;;;;;;;x
 b_wotho;Wotho;Wotho;Wotho;;Wotho;;;;;;;;;x
@@ -669,5 +797,9 @@ b_yageta;Yageta;Yageta;Yageta;;Yageta;;;;;;;;;x
 b_yageta_adj;Yagetan;;yageter;;;;;;;;;;;x
 b_yaren;Yaren;Yaren;Yaren;;Yaren;;;;;;;;;x
 b_yaren_adj;Yarenian;;yarener;;;;;;;;;;;x
+b_yenarpon;Yenarpon;Yenarpon;Yenarpon;;Yenarpon;;;;;;;;;x
+b_yenarpon_adj;Yenarponian;;yenarponer;;;;;;;;;;;x
 b_yigo;Yigo;Yigo;Yigo;;Yigo;;;;;;;;;x
 b_yigo_adj;Yigian;;yiger;;;;;;;;;;;x
+b_yogwye;Yogwye;Yogwye;Yogwye;;Yogwye;;;;;;;;;x
+b_yogwye_adj;Yogwyean;;yogwer;;;;;;;;;;;x

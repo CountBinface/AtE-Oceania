@@ -1,0 +1,17 @@
+# c_kone
+
+# County Title
+title = c_kone
+
+# Settlements
+max_settlements = 3
+
+b_kone = castle
+#b_kone_2 = city
+#b_kone_3 = temple
+
+# Misc
+culture = kanak
+religion = marist
+
+#History

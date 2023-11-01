@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_caledonia;Caledonia;Caledonia;Caledonia;;Caledonia;;;;;;;;;x
+d_caledonia_adj;Caledonian;;caledoner;;;;;;;;;;;x
 d_koro;Koro;Koro;Koro;;Koro;;;;;;;;;x
 d_koro_adj;Korian;;korer;;;;;;;;;;;x
 d_mariana_islands;Mariana Islands;Mariana Islands;Mariana Islands;;Mariana Islands;;;;;;;;;x
@@ -25,5 +27,7 @@ d_uvea_mo_futuna;'Uvea mo Futuna;'Uvea mo Futuna;'Uvea mo Futuna;;'Uvea mo Futun
 d_uvea_mo_futuna_adj;'Uvea mo Futunan;;'Uvea mo Futuner;;;;;;;;;;;x
 d_vanua_levu;Vanua Levu;Vanua Levu;Vanua Levu;;Vanua Levu;;;;;;;;;x
 d_vanua_levu_adj;Vanua Levian;;Vanua Lever;;;;;;;;;;;x
+d_vanuatu;Vanuatu;Vanuatu;Vanuatu;;Vanuatu;;;;;;;;;x
+d_vanuatu_adj;Vanuatian;;vanuater;;;;;;;;;;;x
 d_viti_levu;Viti Levu;Viti Levu;Viti Levu;;Viti Levu;;;;;;;;;x
 d_viti_levu_adj;Viti Levian;;Viti Lever;;;;;;;;;;;x

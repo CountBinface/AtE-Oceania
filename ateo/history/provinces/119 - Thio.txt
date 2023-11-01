@@ -1,0 +1,17 @@
+# c_thio
+
+# County Title
+title = c_thio
+
+# Settlements
+max_settlements = 3
+
+b_thio = castle
+#b_thio_2 = city
+#b_thio_3 = temple
+
+# Misc
+culture = caledonian
+religion = marist
+
+#History

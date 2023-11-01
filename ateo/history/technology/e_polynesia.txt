@@ -1,0 +1,23 @@
+#POLYNESIA
+technology = {
+	titles = {
+		d_koro
+		d_niue
+		d_north_polynesia
+		d_samoa
+		d_tonga
+		d_uvea_mo_futuna
+		d_vanua_levu
+		d_viti_levu
+	}
+	2666 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2937 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

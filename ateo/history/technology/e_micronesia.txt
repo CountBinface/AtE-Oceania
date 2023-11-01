@@ -1,0 +1,21 @@
+#MICRONESIA
+technology = {
+	titles = {
+		d_mariana_islands
+		d_marshall_islands
+		d_micronesia
+		d_nauru
+		d_palau
+		d_tungaru
+	}
+	2666 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+	2937 = {
+		military = 5.0
+		economy = 5.0
+		culture = 5.0
+	}
+}

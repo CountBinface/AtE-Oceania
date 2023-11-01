@@ -1,0 +1,21 @@
+# c_sanma
+
+# County Title
+title = c_sanma
+
+# Settlements
+max_settlements = 4
+
+b_luganville = castle
+b_port_olry = city
+#b_hog_harbour = temple
+#b_longtal = castle
+#b_abnetare = city
+#b_butmas = temple
+#b_lorevilko = castle
+
+# Misc
+culture = ni-vanuatu
+religion = prince_philip_cultist
+
+#History
