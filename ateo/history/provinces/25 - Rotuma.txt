@@ -15,7 +15,7 @@ b_ahau = tribal
 #b_pepjei = castle
 
 # Misc
-culture = itaukei
+culture = samoan
 religion = methodist
 
 #History

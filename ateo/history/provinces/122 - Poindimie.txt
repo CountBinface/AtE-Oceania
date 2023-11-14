@@ -7,11 +7,15 @@ title = c_poindimie
 max_settlements = 3
 
 b_poindimie = castle
-#b_poindimie_2 = city
-#b_poindimie_3 = temple
+#b_ouegoa = city
+#b_pouebo = temple
+#b_tiari = castle
+#b_ponerihouen = city
+#b_touho = temple
+#b_kouaoua = castle
 
 # Misc
-culture = kanak
+culture = kanadonien
 religion = marist
 
 #History

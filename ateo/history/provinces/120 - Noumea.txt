@@ -10,10 +10,12 @@ b_noumea = castle
 b_le_mont_dore = city
 b_dumbea = temple
 #b_paita = castle
-#b_noumea_2 = city
+#b_tamoa = city
+#b_la_coulee = temple
+#b_prony = castle
 
 # Misc
-culture = caledonian
+culture = kanadonien
 religion = marist
 
 #History

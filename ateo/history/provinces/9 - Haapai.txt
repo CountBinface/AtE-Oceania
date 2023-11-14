@@ -16,6 +16,6 @@ b_pangai = castle
 
 # Misc
 culture = tongan
-religion = wesleyan
+religion = mormon
 
 #History

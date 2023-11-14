@@ -15,7 +15,7 @@ b_shomushon = castle
 #b_bandara = castle
 
 # Misc
-culture = japanese
+culture = bonin
 religion = shinto
 
 #History

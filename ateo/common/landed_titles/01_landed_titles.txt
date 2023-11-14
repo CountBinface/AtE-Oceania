@@ -16,7 +16,6 @@ e_melanesia = {
 		capital = 113 # c_shefa
 		culture = ni-vanuatu
 		
-		
 		d_vanuatu = {
 			color={ 16 122 8 }
 			color2={ 255 255 255 }
@@ -168,7 +167,11 @@ e_melanesia = {
 				}
 				b_paita = {
 				}
-				b_noumea_2 = {
+				b_tamoa = {
+				}
+				b_la_coulee = {
+				}
+				b_prony = {
 				}
 			}
 			c_bourail = { # 121
@@ -177,9 +180,17 @@ e_melanesia = {
 				
 				b_bourail = {
 				}
-				b_bourail_2 = {
+				b_tomo = {
 				}
-				b_bourail_3 = {
+				b_bouloupari = {
+				}
+				b_la_foa = {
+				}
+				b_mouidou = {
+				}
+				b_nessadiou = {
+				}
+				b_nandai = {
 				}
 			}
 			c_kone = { # 123
@@ -188,9 +199,17 @@ e_melanesia = {
 				
 				b_kone = {
 				}
-				b_kone_2 = {
+				b_koumac = {
 				}
-				b_kone_3 = {
+				b_poum = {
+				}
+				b_kaala_gomen = {
+				}
+				b_nepoui = {
+				}
+				b_voh = {
+				}
+				b_tiabet = {
 				}
 			}
 			c_loyalty_islands = { # 118
@@ -218,9 +237,17 @@ e_melanesia = {
 				
 				b_poindimie = {
 				}
-				b_poindimie_2 = {
+				b_ouegoa = {
 				}
-				b_poindimie_3 = {
+				b_pouebo = {
+				}
+				b_tiari = {
+				}
+				b_ponerihouen = {
+				}
+				b_touho = {
+				}
+				b_kouaoua = {
 				}
 			}
 			c_thio = { # 119
@@ -229,9 +256,17 @@ e_melanesia = {
 				
 				b_thio = {
 				}
-				b_thio_2 = {
+				b_yate = {
 				}
-				b_thio_3 = {
+				b_mamie = {
+				}
+				b_vao = {
+				}
+				b_canala = {
+				}
+				b_goro = {
+				}
+				b_st_philippe_ii = {
 				}
 			}
 		}
@@ -740,7 +775,7 @@ e_polynesia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 8 province_id = 9 province_id = 10 } }
+					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 province_id = 10 } }
 				}
 			}
 			capital = 10 # c_tongatapu
@@ -781,6 +816,25 @@ e_polynesia = {
 				b_nomuka = {
 				}
 				b_tungua = {
+				}
+			}
+			c_niua = { # 7
+				color={ 233 94 122 }
+				color2={ 255 255 255 }
+				
+				b_hihifo = {
+				}
+				b_sapaata = {
+				}
+				b_vaipoa = {
+				}
+				b_tongamamao = {
+				}
+				b_falehau = {
+				}
+				b_mataaho = {
+				}
+				b_tafahi = {
 				}
 			}
 			c_vavau = { # 8
@@ -1020,7 +1074,7 @@ e_polynesia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 7 province_id = 11 province_id = 12 } }
+					any_demesne_province = { OR = { province_id = 11 province_id = 12 } }
 				}
 			}
 			capital = 11 # c_uvea
@@ -1061,25 +1115,6 @@ e_polynesia = {
 				b_alofi_2 = {
 				}
 				b_poi = {
-				}
-			}
-			c_niua = { # 7
-				color={ 233 94 122 }
-				color2={ 255 255 255 }
-				
-				b_hihifo = {
-				}
-				b_sapaata = {
-				}
-				b_vaipoa = {
-				}
-				b_tongamamao = {
-				}
-				b_falehau = {
-				}
-				b_mataaho = {
-				}
-				b_tafahi = {
 				}
 			}
 		}

@@ -16,6 +16,6 @@ b_hihifo = tribal
 
 # Misc
 culture = samoan
-religion = mormon
+religion = wesleyan
 
 #History

@@ -7,11 +7,15 @@ title = c_thio
 max_settlements = 3
 
 b_thio = castle
-#b_thio_2 = city
-#b_thio_3 = temple
+#b_yate = city
+#b_mamie = temple
+#b_vao = castle
+#b_canala = city
+#b_goro = temple
+#b_st_philippe_ii = castle
 
 # Misc
-culture = caledonian
+culture = kanadonien
 religion = marist
 
 #History

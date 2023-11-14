@@ -7,11 +7,15 @@ title = c_bourail
 max_settlements = 3
 
 b_bourail = castle
-#b_bourail_2 = city
-#b_bourail_3 = temple
+#b_tomo = city
+#b_bouloupari = temple
+#b_la_foa = castle
+#b_mouidou = city
+#b_nessadiou = temple
+#b_nandai = castle
 
 # Misc
-culture = caledonian
+culture = kanadonien
 religion = marist
 
 #History

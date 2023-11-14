@@ -15,7 +15,7 @@ b_lifou = castle
 #b_penelo = castle
 
 # Misc
-culture = kanak
-religion = john_frum_cultist
+culture = kanadonien
+religion = presbyterian
 
 #History

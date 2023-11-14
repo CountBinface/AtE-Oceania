@@ -16,6 +16,6 @@ b_port_olry = city
 
 # Misc
 culture = ni-vanuatu
-religion = prince_philip_cultist
+religion = john_frum_cultist
 
 #History

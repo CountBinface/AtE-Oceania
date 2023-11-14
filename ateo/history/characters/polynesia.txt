@@ -1,0 +1,349 @@
+11001={#Chief of Tutuila
+	name="Ioane"
+	dynasty=103
+	culture=samoan
+	religion=congregational
+	martial=15
+	diplomacy=10
+	trait=grey_eminence
+	trait=strong
+	trait=kind
+	trait=ambitious
+	trait=gregarious
+	father=11002
+	mother=11003
+	2642.1.1={birth=yes}
+}
+
+11002={#former Chief of Tutuila
+	name="Ropati"
+	dynasty=103
+	culture=samoan
+	religion=congregational
+	trait=strong
+	2614.8.24={birth=yes}
+	2641.1.1={add_spouse=11003}
+	2661.1.1={death=yes}
+}
+
+11003={#mother of Ioane
+	name="Ana"
+	female=yes
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	father=11005
+	2625.1.1={birth=yes}
+	2641.1.1={add_spouse=11002}
+}
+
+11004={#first High Chief of Samoa
+	name="Aneteru"
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	2584.1.1={birth=yes}
+	2641.1.1={death=yes}
+}
+
+11005={#second High Chief of Samoa
+	name="Petelo"
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	father=11004
+	2607.1.1={birth=yes}
+	2652.1.1={death=yes}
+}
+
+11006={#High Chief of Samoa
+	name="Arona"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11004
+	2612.1.1={birth=yes}
+}
+
+11007={#eldest son of Arona
+	name="Samu"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11006
+	2633.1.1={birth=yes}
+}
+
+11008={#second son of Arona
+	name="Loto"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11006
+	2641.1.1={birth=yes}
+}
+
+11009={#third son of Arona
+	name="Manu"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11006
+	2654.1.1={birth=yes}
+}
+
+11010={#daughter of Arona
+	name="Moana"
+	female=yes
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	father=11006
+	2637.1.1={birth=yes}
+	2657.1.1={add_spouse=11034}
+}
+
+11011={#son of Samu
+	name="Laki"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11007
+	2662.1.1={birth=yes}
+}
+
+11012={#third son of Aneteru
+	name="Fala"
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	father=11004
+	2613.1.1={birth=yes}
+	2640.1.1={death=yes}
+}
+
+11013={#son of Fala
+	name="Ropati"
+	dynasty=120
+	culture=samoan
+	religion=congregational
+	father=11012
+	2636.1.1={birth=yes}
+}
+
+11014={#fourth son of Aneteru
+	name="Siaki"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11004
+	2615.1.1={birth=yes}
+}
+
+11015={#eldest son of Siaki
+	name="Malakai"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11014
+	2640.1.1={birth=yes}
+}
+
+11016={#second son of Siaki
+	name="Iosefa"
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11014
+	2655.1.1={birth=yes}
+}
+
+11017={#daughter of Aneteru
+	name="Elisapeta"
+	female=yes
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	secret_religion=congregational
+	father=11004
+	2617.1.1={birth=yes}
+	2633.1.1={add_spouse=11018}
+}
+
+11018={#Chief of Palauli
+	name="Fetu"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	secret_religion=congregational
+	2615.1.1={birth=yes}
+	2633.1.1={add_spouse=11017}
+}
+
+11019={#eldest son of Fetu
+	name="Fetu"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	trait=twin
+	father=11018
+	mother=11017
+	2635.1.1={birth=yes}
+}
+
+11020={#second son of Fetu
+	name="Samu"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	trait=twin
+	father=11018
+	mother=11017
+	2635.1.1={birth=yes}
+}
+
+11021={#third son of Fetu
+	name="Eteuati"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	father=11018
+	mother=11017
+	2643.1.1={birth=yes}
+}
+
+11022={#son of Fetu Jr
+	name="Iakopo"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	father=11019
+	2662.1.1={birth=yes}
+}
+
+11023={#eldest son of Samu Faaosofia
+	name="Ionatana"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	trait=twin
+	father=11020
+	2655.1.1={birth=yes}
+}
+
+11024={#second son of Samu Faaosofia
+	name="Iosua"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	trait=twin
+	father=11020
+	2655.1.1={birth=yes}
+}
+
+11025={#third son of Samu Faaosofia
+	name="Iosefa"
+	dynasty=114
+	culture=samoan
+	religion=mormon
+	father=11020
+	2663.1.1={birth=yes}
+}
+
+11026={#historical King of Tonga
+	name="Siaosi"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=ambitious
+	1797.12.4={birth=yes}
+	1893.2.18={death=yes}
+}
+
+11027={#historical Prince of Tonga
+	name="Tevita"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=legit_bastard
+	trait=one_eyed
+	father=11026
+	1824.1.1={birth=yes}
+	1879.12.18={death=yes}
+}
+
+11028={#historical Princess of Tonga
+	name="Fusipala"
+	female=yes
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	father=11027
+	1850.5.18={birth=yes}
+	1889.9.1={death=yes}
+}
+
+11029={#historical King of Tonga
+	name="Siaosi"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	mother=11028
+	1874.6.18={birth=yes}
+	1918.4.5={death=yes}
+}
+
+11030={#historical Queen of Tonga
+	name="Salote"
+	female=yes
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=giant
+	father=11029
+	1900.3.13={birth=yes}
+	1965.12.16={death=yes}
+}
+
+11031={#historical King of Tonga
+	name="Taufa'ahau"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=giant
+	mother=11030
+	1918.7.4={birth=yes}
+	2006.9.10={death=yes}
+}
+
+11032={#historical King of Tonga
+	name="Siaosi"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=giant
+	father=11031
+	1948.5.4={birth=yes}
+	2012.3.18={death=yes}
+}
+
+11033={#historical King of Tonga
+	name="'Aho'eitu"
+	dynasty=203
+	culture=tongan
+	religion=wesleyan
+	trait=giant
+	father=11031
+	1959.7.12={birth=yes}
+	2023.1.1={death=yes}
+}
+
+11034={#Chief of Tokelau
+	name="Fereti"
+	dynasty=130
+	culture=samoan
+	religion=congregational
+	2633.1.1={birth=yes}
+	2657.1.1={add_spouse=11010}
+}
+

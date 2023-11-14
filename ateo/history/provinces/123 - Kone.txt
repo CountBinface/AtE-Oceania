@@ -7,11 +7,15 @@ title = c_kone
 max_settlements = 3
 
 b_kone = castle
-#b_kone_2 = city
-#b_kone_3 = temple
+#b_koumac = city
+#b_poum = temple
+#b_kaala_gomen = castle
+#b_nepoui = city
+#b_voh = temple
+#b_tiabet = castle
 
 # Misc
-culture = kanak
+culture = kanadonien
 religion = marist
 
 #History

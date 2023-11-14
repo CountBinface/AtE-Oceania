@@ -16,6 +16,6 @@ b_lakatoro = temple
 
 # Misc
 culture = ni-vanuatu
-religion = presbyterian
+religion = john_frum_cultist
 
 #History

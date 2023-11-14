@@ -1,8 +1,21 @@
-# e_pasifika
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+1845.12.4={
+	holder=11026
 }
-800.1.1={
-	liege=k_polynesia
+1893.2.18={
+	holder=11029
+}
+1918.4.5={
+	holder=11030
+}
+1965.12.16={
+	holder=11031
+}
+2006.9.10={
+	holder=11032
+}
+2012.3.18={
+	holder=11033
+}
+2023.1.1={
+	holder=0
 }
