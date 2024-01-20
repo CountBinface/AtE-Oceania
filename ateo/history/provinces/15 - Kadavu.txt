@@ -6,7 +6,7 @@ title = c_kadavu
 # Settlements
 max_settlements = 3
 
-b_vunisea = tribal
+b_vunisea = castle
 #b_nasau = city
 #b_talaulia = temple
 #b_nakasaleka = castle

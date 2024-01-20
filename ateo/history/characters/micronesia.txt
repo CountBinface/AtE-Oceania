@@ -1,0 +1,158 @@
+31001={#High Chief of Tungaru
+	name="Bauro"
+	dynasty=508
+	culture=i-kiribati
+	religion=congregational
+	father=31003
+	2615.1.1={birth=yes}
+}
+
+31002={#son of Bauro
+	name="Betero"
+	dynasty=508
+	culture=i-kiribati
+	religion=congregational
+	father=31001
+	2638.1.1={birth=yes}
+}
+
+31003={#former High Chief of Tungaru
+	name="Arekantara"
+	dynasty=508
+	culture=i-kiribati
+	religion=congregational
+	2592.1.1={birth=yes}
+	2653.1.1={death=yes}
+}
+
+31004={#Chief of Central Tungaru
+	name="Eneri"
+	dynasty=508
+	trait=bastard
+	culture=i-kiribati
+	religion=congregational
+	father=31003
+	2611.1.1={birth=yes}
+}
+
+31005={#Chief of Southern Tungaru
+	name="Kiritoba"
+	dynasty=524
+	culture=i-kiribati
+	religion=congregational
+	2625.1.1={birth=yes}
+}
+
+31006={#daughter of Kiritoba
+	name="Tobia"
+	female=yes
+	dynasty=524
+	culture=i-kiribati
+	religion=congregational
+	father=31005
+	2646.1.1={birth=yes}
+}
+
+31007={#son of Kiritoba
+	name="Mareko"
+	dynasty=524
+	culture=i-kiribati
+	religion=congregational
+	father=31005
+	2650.1.1={birth=yes}
+}
+
+31008={#daughter of Kiritoba
+	name="Ruitia"
+	female=yes
+	dynasty=524
+	culture=i-kiribati
+	religion=congregational
+	father=31005
+	2654.1.1={birth=yes}
+}
+
+31009={#Chief of Nauru
+	name="Antonio"
+	dynasty=555
+	culture=i-kiribati
+	religion=congregational
+	father=31011
+	2629.1.1={birth=yes}
+}
+
+31010={#daughter of
+	name="Meri"
+	female=yes
+	dynasty=555
+	culture=i-kiribati
+	religion=congregational
+	father=31011
+	2626.1.1={birth=yes}
+}
+
+31011={#former Chief of Nauru
+	name="Timon"
+	dynasty=555
+	culture=i-kiribati
+	religion=congregational
+	2605.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+
+31012={#Chief of Kwajalein
+	name="Francis"
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	father=31014
+	2640.1.1={birth=yes}
+}
+
+31013={#Chief of Jaluit
+	name="Peterson"
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	father=31014
+	2636.1.1={birth=yes}
+}
+
+31014={#former Chief of Jaluit and Kwajalein
+	name="Bill"
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	2611.1.1={birth=yes}
+	2657.1.1={death=yes}
+}
+
+31015={#daughter of Bill
+	name="Grace"
+	female=yes
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	father=31014
+	2633.1.1={birth=yes}
+}
+
+31016={#daughter of Bill
+	name="Judy"
+	female=yes
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	father=31014
+	2638.1.1={birth=yes}
+}
+
+31017={#daughter of Bill
+	name="Sharon"
+	female=yes
+	dynasty=607
+	culture=marshallese
+	religion=congregational
+	father=31014
+	2643.1.1={birth=yes}
+}

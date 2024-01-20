@@ -6,7 +6,7 @@ title = c_niua
 # Settlements
 max_settlements = 2
 
-b_hihifo = tribal
+b_hihifo = castle
 #b_sapaata = city
 #b_vaipoa = temple
 #b_tongamamao = castle
@@ -15,7 +15,7 @@ b_hihifo = tribal
 #b_tafahi = castle
 
 # Misc
-culture = samoan
+culture = tongan
 religion = wesleyan
 
 #History

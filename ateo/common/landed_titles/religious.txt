@@ -1,0 +1,108 @@
+d_franco-catholique = {
+	color={ 71 3 121 }
+	color2={ 255 255 255 }
+	
+	capital = 120 # Noumea
+	
+	title = "MAJOR_ARCHBISHOP"
+	foa = "ARCHBISHOP_FOA"
+	
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = franco-catholique
+	
+	religion = franco-catholique
+	
+	culture = kanadonien
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_john_frum_cultist = {
+	color={ 50 75 5 }
+	color2={ 255 255 255 }
+	
+	capital = 112 # Tafea
+	
+	title = "PRESIDENT"
+	title_female = "PRESIDENT"
+	foa = "ARCHBISHOP_FOA"
+	
+	short_name = yes
+	
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = john_frum_cultist
+	
+	religion = john_frum_cultist
+	
+	culture = ni-vanuatu
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_methodist = {
+	color={ 65 110 244 }
+	color2={ 255 255 255 }
+	
+	capital = 20 # Rewa
+	
+	title = "PRESIDENT"
+	foa = "ARCHBISHOP_FOA"
+	
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = methodist
+	
+	religion = methodist
+	
+	culture = itaukei
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
+d_mormon = {
+	color = { 31 69 224 }
+	color2= { 225 255 255 }
+
+	capital = 10 # Tongatapu
+	
+	title = "PRESIDENT"
+	foa = "ARCHBISHOP_FOA"
+
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = mormon
+	
+	religion = mormon
+	
+	culture = tongan
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}

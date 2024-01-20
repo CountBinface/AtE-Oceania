@@ -1,4 +1,4 @@
-11001={#Chief of Tutuila
+11001={#Count of Tutuila
 	name="Ioane"
 	dynasty=103
 	culture=samoan
@@ -15,7 +15,7 @@
 	2642.1.1={birth=yes}
 }
 
-11002={#former Chief of Tutuila
+11002={#former Count of Tutuila
 	name="Ropati"
 	dynasty=103
 	culture=samoan
@@ -37,7 +37,7 @@
 	2641.1.1={add_spouse=11002}
 }
 
-11004={#first High Chief of Samoa
+11004={#first King of Samoa
 	name="Aneteru"
 	dynasty=120
 	culture=samoan
@@ -46,7 +46,7 @@
 	2641.1.1={death=yes}
 }
 
-11005={#second High Chief of Samoa
+11005={#second King of Samoa
 	name="Petelo"
 	dynasty=120
 	culture=samoan
@@ -56,7 +56,7 @@
 	2652.1.1={death=yes}
 }
 
-11006={#High Chief of Samoa
+11006={#King of Samoa
 	name="Arona"
 	dynasty=120
 	culture=samoan
@@ -72,6 +72,7 @@
 	religion=mormon
 	father=11006
 	2633.1.1={birth=yes}
+	2655.1.1={add_spouse=11042}
 }
 
 11008={#second son of Arona
@@ -109,6 +110,7 @@
 	culture=samoan
 	religion=mormon
 	father=11007
+	mother=11042
 	2662.1.1={birth=yes}
 }
 
@@ -170,7 +172,7 @@
 	2633.1.1={add_spouse=11018}
 }
 
-11018={#Chief of Palauli
+11018={#Count of Palauli
 	name="Fetu"
 	dynasty=114
 	culture=samoan
@@ -335,7 +337,7 @@
 	trait=giant
 	father=11031
 	1959.7.12={birth=yes}
-	2023.1.1={death=yes}
+	2025.1.1={death=yes}
 }
 
 11034={#Chief of Tokelau
@@ -346,4 +348,856 @@
 	2633.1.1={birth=yes}
 	2657.1.1={add_spouse=11010}
 }
+
+11035={#first Fonou Duke of Tonga
+	name="Tevita"
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	2535.1.1={birth=yes}
+	2591.1.1={death=yes}
+}
+
+11036={#second Fonou Duke of Tonga
+	name="Siona"
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	father=11035
+	2559.1.1={birth=yes}
+	2623.1.1={death=yes}
+}
+
+11037={#third Fonou Duke of Tonga
+	name="Manu"
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	father=11036
+	2581.1.1={birth=yes}
+	2625.1.1={death=yes}
+}
+
+11038={#fourth Fonou Duke of Tonga
+	name="Semisi"
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	father=11037
+	2605.1.1={birth=yes}
+	2631.1.1={add_spouse=12013}
+	2637.1.1={employer=12011}
+}
+
+11039={#first Latu Duke of Tonga
+	name="'Alipate"
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	trait=peasant_leader
+	2596.1.1={birth=yes}
+	2654.1.1={death=yes}
+}
+
+11040={#Duke of Tonga
+	name="Sifa"
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	father=11039
+	2632.1.1={birth=yes}
+	2655.1.1={add_spouse=11043}
+}
+
+11041={#eldest daughter of 'Alipate
+	name="'Ema"
+	female=yes
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	father=11039
+	2635.1.1={birth=yes}
+	2651.1.1={add_spouse=11056}
+}
+
+11042={#second daughter of 'Alipate
+	name="Fane"
+	female=yes
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	father=11039
+	2639.1.1={birth=yes}
+	2655.1.1={add_spouse=11007}
+}
+
+11043={#daughter of Arona
+	name="Ianeta"
+	female=yes
+	dynasty=120
+	culture=samoan
+	religion=mormon
+	father=11006
+	2639.1.1={birth=yes}
+	2655.1.1={add_spouse=11040}
+}
+
+11044={#son of Sifa
+	name="'Alipate"
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	father=11040
+	mother=11043
+	2660.1.1={birth=yes}
+}
+
+11045={#Count of Vava'u
+	name="Heneli"
+	dynasty=233
+	culture=tongan
+	religion=mormon
+	father=11039
+	2642.1.1={birth=yes}
+}
+
+11046={#King of Niue
+	name="Peni"
+	dynasty=234
+	culture=tongan
+	religion=congregational
+	father=11047
+	2646.1.1={birth=yes}
+}
+
+11047={#former King of Niue
+	name="Maikolo"
+	dynasty=234
+	culture=tongan
+	religion=congregational
+	father=11048
+	2622.1.1={birth=yes}
+	2664.1.1={death=yes}
+}
+
+11048={#former King of Niue
+	name="Viliami"
+	dynasty=234
+	culture=tongan
+	religion=congregational
+	2598.1.1={birth=yes}
+	2653.1.1={death=yes}
+}
+
+11049={#son of Viliami
+	name="Lopeti"
+	dynasty=234
+	culture=tongan
+	religion=congregational
+	father=11048
+	2628.1.1={birth=yes}
+}
+
+11050={#daughter of Manu
+	name="Salote"
+	female=yes
+	dynasty=205
+	culture=tongan
+	religion=mormon
+	secret_religion=wesleyan
+	father=11037
+	2602.1.1={birth=yes}
+	2618.1.1={add_spouse=11051}
+	2659.1.1={death=yes}
+}
+
+11051={#former Count of Niua
+	name="Viliami"
+	dynasty=221
+	culture=tongan
+	religion=mormon
+	secret_religion=wesleyan
+	2600.1.1={birth=yes}
+	2618.1.1={add_spouse=11050}
+	2661.1.1={death=yes}
+}
+
+11052={#Count of Niua
+	name="Sekope"
+	dynasty=221
+	culture=tongan
+	religion=mormon
+	secret_religion=wesleyan
+	father=11051
+	mother=11050
+	2640.1.1={birth=yes}
+}
+
+11053={#daughter of Viliami
+	name="Salote"
+	female=yes
+	dynasty=221
+	culture=tongan
+	religion=mormon
+	secret_religion=wesleyan
+	father=11051
+	mother=11050
+	2633.1.1={birth=yes}
+}
+
+11054={#daughter of Viliami
+	name="Fifita"
+	female=yes
+	dynasty=221
+	culture=tongan
+	religion=mormon
+	secret_religion=wesleyan
+	father=11051
+	mother=11050
+	2627.1.1={birth=yes}
+}
+
+11055={#Count of Ha'apai
+	name="'Inoke"
+	dynasty=207
+	culture=tongan
+	religion=mormon
+	trait=peasant_leader
+	2601.1.1={birth=yes}
+}
+
+11056={#son of 'Inoke
+	name="Solomone"
+	dynasty=207
+	culture=tongan
+	religion=mormon
+	father=11055
+	2625.1.1={birth=yes}
+	2651.1.1={add_spouse=11041}
+}
+
+11057={#son of Solomone
+	name="Manase"
+	dynasty=207
+	culture=tongan
+	religion=mormon
+	father=11056
+	mother=11041
+	2658.1.1={birth=yes}
+}
+
+11058={#daughter of Solomone
+	name="Sela"
+	female=yes
+	dynasty=207
+	culture=tongan
+	religion=mormon
+	father=11056
+	mother=11041
+	2656.1.1={birth=yes}
+}
+
+11059={#daughter of Fereti
+	name="Agelu"
+	female=yes
+	dynasty=130
+	culture=samoan
+	religion=congregational
+	father=11034
+	mother=11010
+	2660.1.1={birth=yes}
+}
+
+11060={#son of Fereti
+	name="Samu"
+	dynasty=130
+	culture=samoan
+	religion=congregational
+	father=11034
+	mother=11010
+	2663.1.1={birth=yes}
+}
+
+11061={#son of Semisi
+	name="Tevita"
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	father=11038
+	mother=12013
+	2633.1.1={birth=yes}
+	2637.1.1={employer=12011}
+}
+
+11062={#daughter of Semisi
+	name="Seini"
+	female=yes
+	dynasty=205
+	culture=tongan
+	religion=wesleyan
+	father=11038
+	mother=12013
+	2639.1.1={birth=yes}
+	2639.1.1={employer=12011}
+}
+
+11063={#Count of Futuna
+	name="Aneteru"
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	2621.1.1={birth=yes}
+	2637.1.1={add_spouse=21007}
+}
+
+11064={#son of Aneteru
+	name="Mikaele"
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	father=11063
+	mother=21007
+	2646.1.1={birth=yes}
+}
+
+11065={#son of Aneteru
+	name="Ioelu"
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	father=11063
+	mother=21007
+	2648.1.1={birth=yes}
+}
+
+11066={#daughter of Aneteru
+	name="Alofa"
+	female=yes
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	father=11063
+	mother=21007
+	2651.1.1={birth=yes}
+}
+
+11067={#Countess of 'Uvea
+	name="Sefina"
+	female=yes
+	dynasty=163
+	culture=samoan
+	religion=marist
+	2619.1.1={birth=yes}
+}
+
+11068={#daughter of Sefina
+	name="Amelia"
+	female=yes
+	dynasty=163
+	culture=samoan
+	religion=marist
+	mother=11067
+	2642.1.1={birth=yes}
+}
+
+11069={#son of Sefina
+	name="Isaako"
+	dynasty=163
+	culture=samoan
+	religion=marist
+	mother=11067
+	2646.1.1={birth=yes}
+}
+
+11070={#Chief of Tuvalu
+	name="Elisala"
+	dynasty=166
+	culture=samoan
+	religion=congregational
+	father=11071
+	2630.1.1={birth=yes}
+}
+
+11071={#former Chief of Tuvalu
+	name="Ionatana"
+	dynasty=166
+	culture=samoan
+	religion=congregational
+	2603.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+
+11072={#daughter of Ionatana
+	name="Iuni"
+	female=yes
+	dynasty=166
+	culture=samoan
+	religion=congregational
+	father=11071
+	2636.1.1={birth=yes}
+}
+
+11073={#Chief of Rawaki
+	name="Etuati"
+	dynasty=539
+	culture=i-kiribati
+	religion=congregational
+	2637.1.1={birth=yes}
+	2656.1.1={add_spouse=11074}
+}
+
+11074={#daughter of High Chief of Tarawa
+	name="Iona"
+	female=yes
+	dynasty=508
+	culture=i-kiribati
+	religion=congregational
+	father=31001
+	2640.1.1={birth=yes}
+	2656.1.1={add_spouse=11073}
+}
+
+11075={#son of Etuati
+	name="Tiaare"
+	dynasty=539
+	culture=i-kiribati
+	religion=congregational
+	father=11073
+	mother=11074
+	2662.1.1={birth=yes}
+}
+
+11076={#daughter of Etuati
+	name="Ameria"
+	female=yes
+	dynasty=539
+	culture=i-kiribati
+	religion=congregational
+	father=11073
+	mother=11074
+	2664.1.1={birth=yes}
+}
+
+12001={#historical King of Fiji
+	name="Epenisa"
+	dynasty=316
+	culture=itaukei
+	religion=methodist
+	1815.1.1={birth=yes}
+	1883.2.1={death=yes}
+}
+
+12002={#former King of Fiji
+	name="Sakiusa"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	2508.1.1={birth=yes}
+	2576.1.1={death=yes}
+}
+
+12003={#former King of Fiji
+	name="Taito"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12002
+	2542.1.1={birth=yes}
+	2608.1.1={death=yes}
+}
+
+12004={#former King of Fiji
+	name="Josateki"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12003
+	2571.1.1={birth=yes}
+	2620.1.1={death=yes}
+}
+
+12005={#former Count of Lomaiviti
+	name="Sakiusa"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12004
+	2598.1.1={birth=yes}
+	2656.1.1={death=yes}
+}
+
+12006={#Count of Lomaiviti
+	name="Timoci"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12005
+	2624.1.1={birth=yes}
+}
+
+12007={#daughter of Timoci
+	name="Aliti"
+	female=yes
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12006
+	2643.1.1={birth=yes}
+}
+
+12008={#son of Timoci
+	name="Taito"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12006
+	2645.1.1={birth=yes}
+}
+
+12009={#daughter of Timoci
+	name="Luisa"
+	female=yes
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12006
+	2648.1.1={birth=yes}
+}
+
+12010={#son of Timoci
+	name="Josefa"
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12006
+	2650.1.1={birth=yes}
+}
+
+12011={#Count of Lau
+	name="Jeremaia"
+	dynasty=320
+	culture=itaukei
+	religion=methodist
+	father=12014
+	2612.1.1={birth=yes}
+}
+
+12012={#son of Jeremaia
+	name="Josaia"
+	dynasty=320
+	culture=itaukei
+	religion=methodist
+	father=12011
+	2636.1.1={birth=yes}
+}
+
+12013={#sister of Jeremaia
+	name="Josivini"
+	female=yes
+	dynasty=320
+	culture=itaukei
+	religion=methodist
+	father=12014
+	2615.1.1={birth=yes}
+	2631.1.1={add_spouse=11038}
+	2637.1.1={employer=12011}
+}
+
+12014={#former Count of Lau
+	name="Jone"
+	dynasty=320
+	culture=itaukei
+	religion=methodist
+	2582.1.1={birth=yes}
+	2637.1.1={death=yes}
+}
+
+12016={#Count of Kadavu
+	name="Epeli"
+	dynasty=331
+	culture=itaukei
+	religion=methodist
+	2620.1.1={birth=yes}
+	2636.1.1={add_spouse=12017}
+}
+
+12017={#daughter of Sakiusa
+	name="Sovaia"
+	female=yes
+	dynasty=333
+	culture=itaukei
+	religion=methodist
+	father=12005
+	2620.1.1={birth=yes}
+	2636.1.1={add_spouse=12016}
+}
+
+12018={#daughter of Epeli
+	name="Litia"
+	female=yes
+	dynasty=331
+	culture=itaukei
+	religion=methodist
+	father=12016
+	mother=12017
+	2640.1.1={birth=yes}
+}
+
+12019={#son of Epeli
+	name="Viliame"
+	dynasty=331
+	culture=itaukei
+	religion=methodist
+	father=12016
+	mother=12017
+	2644.1.1={birth=yes}
+}
+
+12020={#daughter of Epeli
+	name="Talei"
+	female=yes
+	dynasty=331
+	culture=itaukei
+	religion=methodist
+	father=12016
+	mother=12017
+	2649.1.1={birth=yes}
+}
+
+12021={#former Duke of Viti Levu
+	name="Ravinesh"
+	dynasty=402
+	culture=indo-fijian
+	religion=fijian_hindu
+	trait=peasant_leader
+	2586.1.1={birth=yes}
+	2639.1.1={death=yes}
+}
+
+12022={#former Duke of Viti Levu
+	name="Ajit"
+	dynasty=402
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12021
+	2605.1.1={birth=yes}
+	2662.1.1={death=yes}
+}
+
+12023={#Duke of Viti Levu
+	name="Vijay"
+	dynasty=402
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12022
+	2628.1.1={birth=yes}
+}
+
+12024={#Count of Ra
+	name="Sanjay"
+	dynasty=402
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12022
+	2632.1.1={birth=yes}
+}
+
+12025={#Count of Ba and Nadroga
+	name="Sunil"
+	dynasty=453
+	culture=indo-fijian
+	religion=fijian_hindu
+	2610.1.1={birth=yes}
+	2628.1.1={add_spouse=12039}
+}
+
+12026={#son of Sunil
+	name="Nilesh"
+	dynasty=453
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12025
+	mother=12039
+	2632.1.1={birth=yes}
+}
+
+12027={#son of Sunil
+	name="Paresh"
+	dynasty=453
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12025
+	mother=12039
+	2637.1.1={birth=yes}
+}
+
+12028={#daughter of Ajit
+	name="Lalita"
+	female=yes
+	dynasty=402
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12022
+	2636.1.1={birth=yes}
+}
+
+12029={#former Duke of Vanua Levu
+	name="Hari"
+	dynasty=412
+	culture=indo-fijian
+	religion=fijian_hindu
+	2591.1.1={birth=yes}
+	2652.1.1={death=yes}
+}
+
+12030={#Duke of Vanua Levu
+	name="Ashneel"
+	dynasty=412
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12029
+	2612.1.1={birth=yes}
+}
+
+12031={#Count of Cakaudrove
+	name="Dayanand"
+	dynasty=425
+	culture=indo-fijian
+	religion=fijian_hindu
+	2618.1.1={birth=yes}
+}
+
+12032={#son of Ashneel
+	name="Mahendra"
+	dynasty=412
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12030
+	2637.1.1={birth=yes}
+}
+
+12033={#daughter of Ashneel
+	name="Sangeeta"
+	female=yes
+	dynasty=412
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12030
+	2641.1.1={birth=yes}
+}
+
+12034={#daughter of Dayanand
+	name="Ashika"
+	female=yes
+	dynasty=425
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12031
+	2640.1.1={birth=yes}
+}
+
+12035={#son of Dayanand
+	name="Abdul"
+	dynasty=425
+	culture=indo-fijian
+	religion=fijian_hindu
+	father=12031
+	2645.1.1={birth=yes}
+}
+
+12036={#Count of Mamanuca
+	name="Tomasi"
+	dynasty=317
+	culture=itaukei
+	religion=methodist
+	father=12038
+	2623.1.1={birth=yes}
+}
+
+12037={#son of Tomasi
+	name="Viliame"
+	dynasty=317
+	culture=itaukei
+	religion=methodist
+	father=12038
+	2642.1.1={birth=yes}
+}
+
+12038={#former Count of Mamanuca
+	name="Joeli"
+	dynasty=317
+	culture=itaukei
+	religion=methodist
+	2600.1.1={birth=yes}
+	2662.1.1={death=yes}
+}
+
+12039={#wife of Sunil
+	name="Suman"
+	female=yes
+	dynasty=0
+	culture=indo-fijian
+	religion=traditionalist
+	2612.1.1={birth=yes}
+	2628.1.1={add_spouse=12025}
+}
+
+12040={#Chief of Rotuma
+	name="Tanielu"
+	dynasty=161
+	culture=samoan
+	religion=methodist
+	father=12041
+	2639.1.1={birth=yes}
+}
+
+12041={#former Chief of Rotuma
+	name="Fereti"
+	dynasty=161
+	culture=samoan
+	religion=methodist
+	father=12042
+	2615.1.1={birth=yes}
+	2662.1.1={death=yes}
+}
+
+12042={#former Chief of Rotuma
+	name="Iopu"
+	dynasty=161
+	culture=samoan
+	religion=methodist
+	2589.1.1={birth=yes}
+	2648.1.1={death=yes}
+}
+
+12043={#son of Iopu
+	name="Peni"
+	dynasty=161
+	culture=samoan
+	father=12042
+	religion=methodist
+	2619.1.1={birth=yes}
+	2660.1.1={death=yes}
+}
+
+12044={#son of Peni
+	name="Paulo"
+	dynasty=161
+	culture=samoan
+	religion=methodist
+	father=12043
+	2641.1.1={birth=yes}
+}
+
+12045={#daughter of Peni
+	name="Sefina"
+	female=yes
+	dynasty=161
+	culture=samoan
+	religion=methodist
+	father=12043
+	2643.1.1={birth=yes}
+}
+
+
 

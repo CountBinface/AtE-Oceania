@@ -1,8 +1,11 @@
-# e_pasifika
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+2600.1.1={
+	liege=d_viti_levu
 }
-800.1.1={
-	liege=k_fiji
+
+2620.1.1={
+	holder=12021
+}
+
+2639.1.1={
+	holder=12025
 }

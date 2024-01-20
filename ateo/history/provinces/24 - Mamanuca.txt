@@ -6,7 +6,7 @@ title = c_mamanuca
 # Settlements
 max_settlements = 2
 
-b_malolo = tribal
+b_malolo = castle
 #b_marou = city
 #b_vuake = temple
 #b_nacula = castle

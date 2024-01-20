@@ -16,6 +16,6 @@ b_kone = castle
 
 # Misc
 culture = kanadonien
-religion = marist
+religion = franco-catholique
 
 #History

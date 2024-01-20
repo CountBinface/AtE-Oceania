@@ -15,7 +15,7 @@ b_nabouwalu = castle
 #b_koroinasolo = castle
 
 # Misc
-culture = indo-fijian
-religion = fijian_hindu
+culture = itaukei
+religion = methodist
 
 #History

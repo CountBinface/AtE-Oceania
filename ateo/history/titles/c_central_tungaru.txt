@@ -1,3 +1,11 @@
-800.1.1={
-	liege=k_micronesia
+2600.1.1={
+	liege=d_tungaru
+}
+
+2624.1.1={
+	holder=31003
+}
+
+2641.1.1={
+	holder=31004
 }

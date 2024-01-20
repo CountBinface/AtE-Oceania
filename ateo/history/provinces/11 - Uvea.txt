@@ -6,7 +6,7 @@ title = c_uvea
 # Settlements
 max_settlements = 3
 
-b_matautu = tribal
+b_matautu = castle
 #b_liku = city
 #b_alele = temple
 #b_falaleu = castle

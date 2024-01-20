@@ -56,6 +56,17 @@
 156 = { name="Sua" culture=samoan }
 157 = { name="Fong" culture=samoan }
 158 = { name="Lee" culture=samoan }
+159 = { name="Vegi" culture=samoan }
+160 = { name="Kanimoa" culture=samoan }
+161 = { name="Hanisi" culture=samoan }
+162 = { name="Leleivai" culture=samoan }
+163 = { name="Uatini" culture=samoan }
+164 = { name="Iloai" culture=samoan }
+165 = { name="Kalolo" culture=samoan }
+166 = { name="Apinelu" culture=samoan }
+167 = { name="Pita" culture=samoan }
+168 = { name="Paeniu" culture=samoan }
+169 = { name="Homasi" culture=samoan }
 
 201 = { name="Fifita" culture=tongan }
 202 = { name="Finau" culture=tongan }
@@ -90,6 +101,14 @@
 231 = { name="Vaitohi" culture=tongan }
 232 = { name="Fatani" culture=tongan }
 233 = { name="Latu" culture=tongan }
+234 = { name="Talagi" culture=tongan }
+235 = { name="Funaki" culture=tongan }
+236 = { name="Vakaafi" culture=tongan }
+237 = { name="Varea" culture=tongan }
+238 = { name="Wang" culture=tongan }
+239 = { name="Cocker" culture=tongan }
+240 = { name="Jackson" culture=tongan }
+241 = { name="Lin" culture=tongan }
 
 301 = { name="Cavubati" culture=itaukei }
 302 = { name="Naevo" culture=itaukei }
@@ -235,6 +254,11 @@
 548 = { name="Kaake" culture=i-kiribati }
 549 = { name="Uan" culture=i-kiribati }
 550 = { name="Tannang" culture=i-kiribati }
+551 = { name="Scotty" culture=i-kiribati }
+552 = { name="Harris" culture=i-kiribati }
+553 = { name="Olsson" culture=i-kiribati }
+554 = { name="Bill" culture=i-kiribati }
+555 = { name="Deireragea" culture=i-kiribati }
 
 601 = { name="John" culture=marshallese }
 602 = { name="de Brum" culture=marshallese }

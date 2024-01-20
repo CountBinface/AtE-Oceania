@@ -16,6 +16,6 @@ b_thio = castle
 
 # Misc
 culture = kanadonien
-religion = marist
+religion = franco-catholique
 
 #History

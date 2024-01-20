@@ -1,3 +1,11 @@
-800.1.1={
-	liege=k_polynesia
+2600.1.1={
+	liege=d_tonga
+}
+
+2622.1.1={
+	holder=11051
+}
+
+2661.1.1={
+	holder=11052
 }

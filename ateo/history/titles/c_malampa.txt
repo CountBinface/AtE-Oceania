@@ -1,8 +1,11 @@
-# e_melanesia
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+2600.1.1={
+	liege=d_vanuatu
 }
-800.1.1={
-	liege=k_melanesia
+
+2619.1.1={
+	holder=21051
+}
+
+2645.1.1={
+	holder=21049
 }

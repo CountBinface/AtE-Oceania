@@ -1,0 +1,622 @@
+21001={#Duke of Caledonia
+	name="Michel"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	2592.1.1={birth=yes}
+	2608.1.1={add_spouse=21002}
+}
+
+21002={#wife of Michel
+	name="Louise"
+	female=yes
+	dynasty=0
+	culture=kanadonien
+	religion=franco-catholique
+	2590.1.1={birth=yes}
+	2608.1.1={add_spouse=21001}
+}
+
+21003={#daughter of Michel
+	name="Marie-Anne"
+	female=yes
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21001
+	mother=21002
+	2612.1.1={birth=yes}
+	2628.1.1={add_spouse=21042}
+}
+
+21004={#daughter of Michel
+	name="Catherine"
+	female=yes
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21001
+	mother=21002
+	2613.1.1={birth=yes}
+	2630.1.1={add_spouse=21015}
+}
+
+21005={#son of Michel
+	name="Franck"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21001
+	mother=21002
+	2616.1.1={birth=yes}
+}
+
+21006={#son of Michel
+	name="Philippe"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21001
+	mother=21002
+	2618.1.1={birth=yes}
+	2635.1.1={add_spouse=21022}
+}
+
+21007={#daughter of Michel
+	name="Veronique"
+	female=yes
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21001
+	mother=21002
+	2621.1.1={birth=yes}
+	2637.1.1={add_spouse=11063}
+}
+
+21008={#son of Franck
+	name="Pascal"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21005
+	2640.1.1={birth=yes}
+}
+
+21009={#son of Franck
+	name="Thomas"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21005
+	2642.1.1={birth=yes}
+}
+
+21010={#son of Franck
+	name="Bernard"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21005
+	2644.1.1={birth=yes}
+}
+
+21011={#daughter of Franck
+	name="Anne"
+	female=yes
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21005
+	2647.1.1={birth=yes}
+}
+
+21012={#son of Franck
+	name="Jean"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21005
+	mother=21021
+	2658.1.1={birth=yes}
+}
+
+21013={#daughter of Philippe
+	name="Therese"
+	female=yes
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21006
+	mother=21022
+	2646.1.1={birth=yes}
+}
+
+21014={#son of Philippe
+	name="Sebastien"
+	dynasty=1126
+	culture=kanadonien
+	religion=franco-catholique
+	father=21006
+	mother=21022
+	2649.1.1={birth=yes}
+}
+
+21015={#Count of Kone
+	name="Jean-Pierre"
+	dynasty=1135
+	culture=kanadonien
+	religion=franco-catholique
+	2614.1.1={birth=yes}
+	2630.1.1={add_spouse=21004}
+}
+
+21016={#daughter of Jean-Pierre
+	name="Elise"
+	female=yes
+	dynasty=1135
+	culture=kanadonien
+	religion=franco-catholique
+	father=21015
+	mother=21004
+	2638.1.1={birth=yes}
+	2655.1.1={add_spouse=21020}
+}
+
+21017={#daughter of Jean-Pierre
+	name="Estelle"
+	female=yes
+	dynasty=1135
+	culture=kanadonien
+	religion=franco-catholique
+	father=21015
+	mother=21004
+	2640.1.1={birth=yes}
+}
+
+21018={#son of Jean-Pierre
+	name="Stephane"
+	dynasty=1135
+	culture=kanadonien
+	religion=franco-catholique
+	father=21015
+	mother=21004
+	trait=twin
+	2644.1.1={birth=yes}
+}
+
+21019={#daughter of Jean-Pierre
+	name="Sophie"
+	female=yes
+	dynasty=1135
+	culture=kanadonien
+	religion=franco-catholique
+	father=21015
+	mother=21004
+	trait=twin
+	2644.1.1={birth=yes}
+}
+
+21020={#Count of Thio
+	name="Georges"
+	dynasty=1134
+	culture=kanadonien
+	religion=franco-catholique
+	2639.1.1={birth=yes}
+	2655.1.1={add_spouse=21016}
+}
+
+21021={#wife of Franck
+	name="Nathalie"
+	female=yes
+	dynasty=0
+	culture=kanadonien
+	religion=franco-catholique
+	2628.1.1={birth=yes}
+	2655.1.1={add_spouse=21005}
+}
+
+21022={#wife of Philippe
+	name="Christine"
+	female=yes
+	dynasty=0
+	culture=kanadonien
+	religion=franco-catholique
+	2619.1.1={birth=yes}
+	2635.1.1={add_spouse=21006}
+}
+
+21023={#Count of Poindimie
+	name="Paul"
+	dynasty=1110
+	culture=kanadonien
+	religion=franco-catholique
+	father=21025
+	2643.1.1={birth=yes}
+}
+
+21024={#daughter of Laurent
+	name="Alice"
+	female=yes
+	dynasty=1110
+	culture=kanadonien
+	religion=franco-catholique
+	father=21025
+	2645.1.1={birth=yes}
+}
+
+21025={#former Count of Poindimie
+	name="Laurent"
+	dynasty=1110
+	culture=kanadonien
+	religion=franco-catholique
+	2617.1.1={birth=yes}
+	2663.1.1={death=yes}
+}
+
+21026={#Count of Loyalty Islands
+	name="Claude"
+	dynasty=1101
+	culture=kanadonien
+	religion=franco-catholique
+	2615.1.1={birth=yes}
+	2634.1.1={add_spouse=21030}
+}
+
+21027={#daughter of Claude
+	name="Caroline"
+	female=yes
+	dynasty=1101
+	culture=kanadonien
+	religion=franco-catholique
+	father=21026
+	mother=21030
+	2639.1.1={birth=yes}
+}
+
+21028={#daughter of Claude
+	name="Aurelie"
+	female=yes
+	dynasty=1101
+	culture=kanadonien
+	religion=franco-catholique
+	father=21026
+	mother=21030
+	2641.1.1={birth=yes}
+}
+
+21029={#daughter of Claude
+	name="Sylvie"
+	female=yes
+	dynasty=1101
+	culture=kanadonien
+	religion=franco-catholique
+	father=21026
+	mother=21030
+	2644.1.1={birth=yes}
+}
+
+21030={#wife of Claude
+	name="Monique"
+	female=yes
+	dynasty=0
+	culture=kanadonien
+	religion=franco-catholique
+	2618.1.1={birth=yes}
+	2634.1.1={add_spouse=21026}
+}
+
+21031={#Count of Tafea
+	name="Jerry"
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21032
+	2606.1.1={birth=yes}
+	2625.1.1={add_spouse=21057}
+}
+
+21032={#former Count of Tafea
+	name="Sam"
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	2582.1.1={birth=yes}
+	2626.1.1={death=yes}
+}
+
+21033={#daughter of Sam
+	name="Anna"
+	female=yes
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21032
+	2609.1.1={birth=yes}
+}
+
+21034={#son of Sam
+	name="Daniel"
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21032
+	2613.1.1={birth=yes}
+	2629.1.1={add_spouse=21039}
+}
+
+21035={#son of Jerry
+	name="Roger"
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21031
+	mother=21057
+	2632.1.1={birth=yes}
+}
+
+21036={#son of Daniel
+	name="Willie"
+	dynasty=1022
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21034
+	mother=21039
+	2636.1.1={birth=yes}
+}
+
+21037={#Count of Penama
+	name="Charles"
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21038
+	2610.1.1={birth=yes}
+}
+
+21038={#former Count of Penama
+	name="Junior"
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	2588.1.1={birth=yes}
+	2643.1.1={death=yes}
+}
+
+21039={#daughter of Junior
+	name="Linda"
+	female=yes
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21038
+	2613.1.1={birth=yes}
+	2629.1.1={add_spouse=21034}
+}
+
+21040={#son of Junior
+	name="Donald"
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21038
+	2621.1.1={birth=yes}
+	2641.1.1={add_spouse=21052}
+}
+
+21041={#daughter of Junior
+	name="Emma"
+	female=yes
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21038
+	2625.1.1={birth=yes}
+	2641.1.1={add_spouse=21058}
+}
+
+21042={#former Count of Sanma
+	name="Ian"
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	2610.1.1={birth=yes}
+	2628.1.1={add_spouse=21003}
+	2663.1.1={death=yes}
+}
+
+21043={#Countess of Sanma
+	name="Samantha"
+	female=yes
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21042
+	mother=21003
+	2631.1.1={birth=yes}
+}
+
+21044={#daughter of Ian
+	name="Nancy"
+	female=yes
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21042
+	mother=21003
+	2635.1.1={birth=yes}
+}
+
+21045={#daughter of Samantha
+	name="Julie"
+	female=yes
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	mother=21043
+	2658.1.1={birth=yes}
+}
+
+21046={#son of Samantha
+	name="Edward"
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	mother=21043
+	2661.1.1={birth=yes}
+}
+
+21047={#daughter of Samantha
+	name="Grace"
+	female=yes
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	mother=21043
+	2663.1.1={birth=yes}
+}
+
+21048={#daughter of Nancy
+	name="Louise"
+	female=yes
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	trait=bastard
+	mother=21044
+	2664.1.1={birth=yes}
+}
+
+21049={#King of Vanuatu
+	name="Eric"
+	dynasty=1010
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	trait=kinslayer
+	father=21051
+	2621.1.1={birth=yes}
+}
+
+21050={#former King of Vanuatu
+	name="David"
+	dynasty=1010
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21051
+	2616.1.1={birth=yes}
+	2648.1.1={death={death_reason=death_murder
+		killer=21049}}
+}
+
+21051={#former King of Vanuatu
+	name="Richard"
+	dynasty=1010
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	2586.1.1={birth=yes}
+	2645.1.1={death=yes}
+}
+
+21052={#daughter of Richard
+	name="Valerie"
+	female=yes
+	dynasty=1010
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21051
+	2625.1.1={birth=yes}
+	2641.1.1={add_spouse=21040}
+}
+
+21053={#daughter of Donald
+	name="Jessica"
+	female=yes
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21040
+	mother=21052
+	2647.1.1={birth=yes}
+}
+
+21054={#son of Donald
+	name="Jason"
+	dynasty=1005
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21040
+	mother=21052
+	2651.1.1={birth=yes}
+}
+
+21055={#former Count of Torba
+	name="Henry"
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	2583.1.1={birth=yes}
+	2646.1.1={death=yes}
+}
+
+21056={#Count of Torba
+	name="Henry"
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21055
+	2602.1.1={birth=yes}
+}
+
+21057={#daughter of Henry I
+	name="Florence"
+	female=yes
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21055
+	2609.1.1={birth=yes}
+	2625.1.1={add_spouse=21031}
+}
+
+21058={#son of Henry II
+	name="Simon"
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21056
+	2624.1.1={birth=yes}
+	2641.1.1={add_spouse=21041}
+}
+
+21059={#son of Simon
+	name="Henry"
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21058
+	mother=21041
+	2646.1.1={birth=yes}
+}
+
+21060={#daughter of Simon
+	name="Agnes"
+	female=yes
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21058
+	mother=21041
+	2651.1.1={birth=yes}
+}
+
+21061={#bastard son of David
+	name="Alfred"
+	dynasty=1010
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	trait=bastard
+	father=21050
+	2635.1.1={birth=yes}
+}
+
+

@@ -1,0 +1,25 @@
+d_manu_samoa_composition = {
+	levy_size = 1
+	heavy_infantry = 250
+	light_infantry = 250
+	archers = 100
+}
+
+d_sea_eagles_composition = {
+	levy_size = 1
+	light_infantry = 300
+	archers = 100
+}
+
+d_flying_fijians_composition = {
+	levy_size = 1
+	heavy_infantry = 300
+	light_infantry = 300
+	archers = 200
+}
+
+## Must exist or else dynamic mercenary band might fail for nomads!
+default_culture_band_composition = {
+	levy_size = 1
+	light_infantry = 100
+}

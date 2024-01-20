@@ -6,7 +6,7 @@ title = c_torba
 # Settlements
 max_settlements = 3
 
-b_sola = tribal
+b_sola = castle
 #b_avire = city
 #b_veverao = temple
 #b_ablow = castle

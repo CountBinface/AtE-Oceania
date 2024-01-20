@@ -16,6 +16,6 @@ b_dumbea = temple
 
 # Misc
 culture = kanadonien
-religion = marist
+religion = franco-catholique
 
 #History

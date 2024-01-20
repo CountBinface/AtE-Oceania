@@ -1,0 +1,71 @@
+c_tuamasaga = { # 3
+	holy_site = congregational
+	holy_site = methodist
+	holy_site = mormon
+}
+
+c_niue = { # 6
+	holy_site = congregational
+}
+
+c_tongatapu = { # 10
+	holy_site = methodist
+	holy_site = mormon
+}
+
+c_uvea = { # 11
+	holy_site = franco-catholique
+}
+
+c_macuata = { # 17
+	holy_site = fijian_hindu
+}
+
+c_rewa = { # 20
+	holy_site = fijian_hindu
+	holy_site = methodist
+}
+
+c_ba = { # 23
+	holy_site = fijian_hindu
+	holy_site = john_frum_cultist
+}
+
+c_tuvalu = { # 28
+	holy_site = congregational
+}
+
+c_northern_tungaru = { # 31
+	holy_site = franco-catholique
+	holy_site = mormon
+}
+
+c_nauru = { # 32
+	holy_site = congregational
+}
+
+c_majuro = { # 33
+	holy_site = congregational
+	holy_site = mormon
+}
+
+c_chuuk = { # 42
+	holy_site = franco-catholique
+}
+
+c_guam = { # 45
+	holy_site = mormon
+}
+
+c_tafea = { # 112
+	holy_site = john_frum_cultist
+}
+
+c_shefa = { # 113
+	holy_site = franco-catholique
+	holy_site = john_frum_cultist
+}
+
+c_noumea = { # 120
+	holy_site = franco-catholique
+}

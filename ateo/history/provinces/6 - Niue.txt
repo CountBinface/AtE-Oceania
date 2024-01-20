@@ -6,7 +6,7 @@ title = c_niue
 # Settlements
 max_settlements = 2
 
-b_alofi = tribal
+b_alofi = castle
 #b_hakupu = city
 #b_tamakautoga = temple
 #b_avatele = castle

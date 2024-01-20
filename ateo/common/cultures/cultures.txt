@@ -16,7 +16,7 @@ indian = {
 			Ghananand
 			Hari Harish
 			Jai
-			Kamlesh Krishneel Kundan
+			Kamlesh Kiran Krishneel Kundan
 			Mahendra Manoj Mo Mohammed_Muhammad
 			Nilesh
 			Paresh
@@ -25,9 +25,9 @@ indian = {
 			Vijay Vinay Vishal
 		}
 		female_names = {
-			Adi Anita Asha Ashika
+			Asha Ashika
 			Gita
-			Kiran Kundan
+			Kundan
 			Lalita Lakshmi Laxmi
 			Madhu Manju Mina
 			Nalini
@@ -88,7 +88,7 @@ melanesian = {
 			Vincent_Vincent
 		}
 		female_names = {
-			Anne_Anna Audrey_Audrey Aurelie_Aurelia
+			Alice_Alice Anne_Anna Audrey_Audrey Aurelie_Aurelia
 			Beatrice_Beatrice Brigitte_Bridgette
 			Caroline_Caroline Catherine_Catherine Cecile_Cecilia Chantal_Chantal Christine_Christina Corinne_Corina
 			Estelle_Stella Elise_Lisa Evelyne_Evelyn
@@ -98,10 +98,11 @@ melanesian = {
 			Jacqueline_Jacqueline Jeanne_Joan Julie_Julia
 			Karine_Karen
 			Louise_Louise
-			Marie_Mary Martine_Martina Monique_Monica
+			Marie_Mary Marie-Anne_Marianne Martine_Martina Monique_Monica
 			Nathalie_Natalie Nicole_Nicole
 			Pascale_Pascale Patricia_Patricia
 			Sandrine_Cassandra Sonia_Sonia Sophie_Sophia Stephanie_Stephanie Sylvie_Silvia
+			Therese_Teresa
 			Valerie_Valerie Vanessa_Vanessa Veronique_Veronica Virginie_Virginia
 		}
 
@@ -132,22 +133,40 @@ melanesian = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Andrew_Andrew
-			David_David
+			Alex_Alexander Alfred_Alfred Allan_Alan Andrew_Andrew
+			Brian_Brian
+			Charles_Charles Christopher_Christopher
+			Daniel_Daniel David_David Donald_Donald
+			Edward_Edward Eric_Eric
+			Frank_Francis Fred_Frederick
 			George_George
-			James_James John_John Joseph_Joseph
+			Henry_Henry
+			Ian
+			Jack_Jack James_James Jason_Jason Jerry_Jerry John_John Joseph_Joseph Joshua_Joshua Junior_Junior
+			Kevin_Kevin
 			Mark_Mark Michael_Michael
-			Paul_Paul Peter_Peter
-			Richard_Richard Robert_Robert
-			Simon_Simon
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip
+			Richard_Richard Robert_Robert Roger_Roger
+			Sam_Samuel Simon_Simon Steven_Stephen
+			Thomas_Thomas Tony_Anthony
 			Willie_William
 		}
 		female_names = {
-			Anna_Anna
-			Esther_Esther
-			Jennifer_Jennifer Jessica_Jessica
-			Linda_Melinda
-			Marie_Mary
+			Agnes_Agnes Alice_Alice Amanda_Amanda Angela_Angela Anna_Anna
+			Caroline_Caroline Catherine_Catherine Christine_Christina
+			Diana_Diane
+			Elizabeth_Elizabeth Emma_Emma Esther_Esther
+			Fiona Florence_Florence
+			Georgina_Georgina Grace
+			Helen_Helen
+			Janet_Janet Jennifer_Jennifer Jessica_Jessica Joana_Joan Julie_Julia
+			Linda_Melinda Louise_Louise
+			Marie_Mary Martha_Martha Melanie_Melanie Melissa_Melissa Michelle_Michelle
+			Nancy_Nancy
+			Patricia_Patricia
+			Rebecca_Rebecca Rose_Rose Ruth_Ruth
+			Samantha_Samantha Sandra_Cassandra Sharon Shirley Sonia_Sonia Stephanie_Stephanie Susan_Susan
+			Valerie_Valerie Vanessa_Vanessa
 		}
 
 		from_dynasty_prefix = "de "
@@ -155,21 +174,21 @@ melanesian = {
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
+		pat_grf_name_chance = 30
 		mat_grf_name_chance = 15
-		father_name_chance = 15
+		father_name_chance = 20
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
+		pat_grm_name_chance = 30
 		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		mother_name_chance = 20
 		
 		seafarer = yes
 		modifier = default_culture_modifier
 	}
 }
 
-micronesian = {
+greater_micronesian = {
 	graphical_cultures = { brownpacificgfx blackpacificgfx muslimgfx }
 	
 	chamorro = {
@@ -243,20 +262,27 @@ micronesian = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Anote Arekantara_Alexander Ata
-			Bauro_Paul Beniamina_Benjamin Betero_Peter
-			Eria
-			Ieremia_Jeremiah Ioane_John Ionatan_Jonathan Ioteba_Joseph
-			Mikaere_Michael
-			Tabare Taneti_Daniel Tiaon Timon_Timothy Tito_Titus
+			Anterea_Andrew Antonio_Anthony Arekantara_Alexander Arobati_Albert
+			B'arotorome_Bartholomew Baraniko_Francis Bateriki_Patrick Bauro_Paul Beniamina_Benjamin Betero_Peter Biribo_Philip
+			Eneri_Henry Eria_Elias Etuati_Edward
+			Kiritoba_Christopher
+			Ionatan_Jonathan Ioteba_Joseph Iuriuti_Julius
+			Mareko_Mark Mataio_Matthew Mikaere_Michael Mote_Moses
+			Natan_Nathan Nikora_Nicholas
+			Rui_Louis
+			Taomati_Thomas Tawita_David Tebano_Stephen Tiaare_Charles Tiaon_John Tiemti_James Timon_Timothy Tioti_George Tito_Titus
+			Uriam_William
+			Waoreta_Walter
 		}
 		female_names = {
-			Ameria_Amelia Arekantara_Alexandra
-			Emeri_Emily Eria
-			Iona_Joan
-			Mareta_Martha
-			Rui
-			Tavita_Tabitha Timea
+			Akineti_Agnes Ameria_Amelia Anna_Anna
+			Beatirike_Beatrice
+			Emeri_Emily Eritabeta_Elizabeth
+			Iona_Joan Itabera_Isabella Iuriana_Juliana
+			Karorina_Caroline
+			Marekerita_Margaret Mareta_Martha Matarena_Magdalene Meri_Mary
+			Ruitia_Louise Ruti_Lucy
+			Tara_Sarah Teretia_Teresa Tien_Jane Tobia_Sophia Torotea_Dorothy Tuutana_Susan
 		}
 
 		from_dynasty_prefix = "ma "
@@ -294,7 +320,7 @@ micronesian = {
 			Francis_Francis
 			George_George
 			Harry_Harold Henry_Henry
-			Jack_Jack Jackson_Jackson James_James Jason_Jason Jeffery_Jeffrey Jerry_Gerald John_John Joseph_Joseph Junior_Junior
+			Jack_Jack Jackson_Jackson James_James Jason_Jason Jeffery_Jeffrey Jerry_Jerry John_John Joseph_Joseph Junior_Junior
 			Mack_Mac Michael_Michael
 			Patrick_Patrick Paul_Paul Peter_Peter Peterson
 			Stanley_Stanley
@@ -316,7 +342,7 @@ micronesian = {
 			Martha_Martha Mary_Mary Maryann_Marianne Mercy Mina
 			Nancy_Nancy
 			Rina_Rina Rose_Rose Roselynn_Rosaline Ruby_Ruby Ruth_Ruth
-			Salome_Salome Sandy_Cassandra Sharon_Sharon Susan_Susan
+			Salome_Salome Sandy_Cassandra Sharon Susan_Susan
 			Veronica_Veronica
 		}
 
@@ -467,12 +493,12 @@ polynesian = {
 			Cakobau
 			Emosi Epeli Epenisa_Ebenezer Eroni
 			Filipe_Philip Finau
-			Inoke Isoa
-			Joeli_Joel Jone_John Jonetani_Jonathan Jope_Job Josaia_Josiah Josateki Josefa_Joseph
+			Inoke_Enoch Isoa
+			Jeremaia_Jeremiah Joeli_Joel Jone_John Jonetani_Jonathan Jope_Job Josaia_Josiah Josateki Josefa_Joseph
 			Lorima
-			Maciu_Matthew Manasa_Manasseh Marika Mosese_Moses
+			Maciu_Matthew Manasa_Manasseh Marika Meli Mosese_Moses
 			Nete_Edward
-			Penaia Peni_Benjamin Peniamina_Benjamin Petero_Peter
+			Penaia Peni_Benjamin Petero_Peter
 			Sakiusa_Zachary Samuela_Samuel Savenaca Semi_James Seru Sitiveni Solomone_Solomon
 			Taito_Titus Tevita_David Timoci_Timothy Tomasi_Thomas
 			Unaisi
@@ -487,7 +513,7 @@ polynesian = {
 			Joana_Joan Josivini_Josephine
 			Karalaini_Caroline Katarina_Catherine Kelera
 			Lagi Lani Laisa Lavenia_Lavinia Leona_Leona Liliana_Lillian Litia_Lydia Losalini_Rosaline Luisa_Louisa Luse_Lucy
-			Makelesi_Makaleti Matila_Matilda Mere_Mary Mereana_Marianne Mereia_Mary
+			Makelesi_Makaleti Marica Matila_Matilda Mere_Mary Mereana_Marianne
 			Nanise_Nancy Naomi_Naiomi Nikola_Nicole
 			Olivia_Olivia
 			Rosi_Rose
@@ -523,7 +549,7 @@ polynesian = {
 
 		male_names = {
 			Aneteru_Andrew Alama_Alema Aleki_Alexander Aputi Arona_Aaron Atamu_Adam
-			Efaraima_Ephraim Elia_Elijah Enele Esela Eteuati Eti
+			Efaraima_Ephraim Elia_Elijah Elisala Enele Esela Eteuati Eti
 			Fala Farani_Francis Fereti_Frederick Fetu Filipo_Philip Fonoti
 			Haych Henare_Henry
 			Iakopo_Jacob Ieremia_Jeremiah Ioane_John Ioelu_Joel Ionatana_Jonathan Iopu_Job Iosefa_Joseph Iosua_Joshua Isaako_Isaac Isaia_Isaiah
@@ -589,7 +615,7 @@ polynesian = {
 			Lisiate_Richard Lopeti_Robert Lui_Louis
 			Maikolo_Michael Malakai_Malachi Manase_Manasseh Manu Mosese_Moses
 			Paea Paula_Paul Peni_Benjamin Pita_Peter
-			Salesi_Charles Samiuela_Samuel Sekope_Jacob Semisi_James Siaosi_George Sifa_Joseph Simione_Simon Sio_Joseph Siona_Jonah Sione_John Sioeli_Joel Siua_Joshua Soane_John Solomone_Solomon Songi Suni
+			Salesi_Charles Samiuela_Samuel Sekope_Jacob Semisi_James Siaosi_George Sifa_Joseph Simione_Simon Siona_Jonah Sione_John Sioeli_Joel Siua_Joshua Soane_John Solomone_Solomon Songi Suni
 			Taitusi_Titus Taniela_Daniel Taufa Tevita_David Tupou
 			Vaea Viliami_William
 		}

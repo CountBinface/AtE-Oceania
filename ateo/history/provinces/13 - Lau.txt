@@ -6,7 +6,7 @@ title = c_lau
 # Settlements
 max_settlements = 3
 
-b_tubou = tribal
+b_tubou = castle
 #b_lomaloma = city
 #b_namaku = temple
 #b_vanuavatu = castle

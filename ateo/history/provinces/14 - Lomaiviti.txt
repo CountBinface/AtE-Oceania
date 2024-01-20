@@ -6,7 +6,7 @@ title = c_lomaiviti
 # Settlements
 max_settlements = 3
 
-b_levuka = tribal
+b_levuka = castle
 #b_vandravandra = city
 #b_dalice = temple
 #b_batiki = castle

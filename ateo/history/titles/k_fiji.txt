@@ -1,5 +1,22 @@
-# k_fiji
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+1871.6.5={
+	holder=12001
+}
+1874.10.10={
+	holder=0
+}
+
+2552.1.1={
+	holder=12002
+}
+
+2576.1.1={
+	holder=12003
+}
+
+2608.1.1={
+	holder=12004
+}
+
+2620.1.1={
+	holder=0
 }
