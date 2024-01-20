@@ -1,3 +1,69 @@
+american = {
+	graphical_cultures = { chinesepacificgfx brownpacificgfx whitepacificgfx mongolgfx muslimgfx }
+	
+	hawaiian = {
+		graphical_cultures = { chinesepacificgfx }
+		unit_graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+
+		color = { 0.16 0.26 0.53 }
+		
+		male_names = {
+			Ace Aiden_Aiden Alexander_Alexander Asher Atlas
+			Benjamin_Benjamin
+			Caleb_Caleb Carter
+			Daniel_Daniel David_David
+			Elias_Elias Elijah_Elijah Ethan_Ethan Ezekiel_Ezekiel Ezra
+			Gabriel_Gabriel Grayson_Grayson
+			Henry_Henry Hunter
+			Isaiah_Isaiah
+			Jace_Jason Jack_Jack Jacob_Jacob James_James Jaxon_Jackson Jeremiah_Jeremiah Joshua_Joshua Josiah_Josiah
+			Kai Keanu Kingston
+			Leo_Leo Levi Liam Logan Luca_Lucas
+			Makoa Mason Mateo_Matthew Maverick Micah_Michael
+			Noah_Noah
+			Oliver_Oliver
+			Roman Ryder
+			Samuel_Samuel
+			Theodore_Theodore
+			William_William
+			Xavier_Xavier
+			Zion
+		}
+		female_names = {
+			Alana_Alana Anela Aria_Aria Amelia_Amelia Aurora_Aurora Ava_Eva Avery
+			Charlotte_Charlotte Chloe_Chloe
+			Delilah_Delilah
+			Eleanor_Eleanor Elizabeth_Elizabeth Ellie_Ellie Eliana_Eliana Emily_Emily Emma_Emma Evelyn_Evelyn
+			Gianna_Joan Grace
+			Halia Harper Hazel Hope
+			Isabella_Isabella Isla Ivy
+			Kaia Kailani Kalea Kira
+			Leia_Leah Leila_Layla Leilani Lily_Lilly Lucy_Lucy Luna
+			Mahina Malia_Malia Maya Mia Mila
+			Naomi_Naomi Nora Nova
+			Olivia_Olivia
+			Penelope
+			Sophia_Sophia Stella_Stella
+			Violet_Violet
+		}
+
+		from_dynasty_prefix = "of "
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+		
+		used_for_random = no
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}
+
 indian = {
 	graphical_cultures = { southindiangfx indiangfx muslimgfx }
 	
@@ -58,7 +124,7 @@ indian = {
 }
 
 melanesian = {
-	graphical_cultures = {whitepacificgfx brownpacificgfx blackpacificgfx muslimgfx }
+	graphical_cultures = {brownpacificgfx whitepacificgfx muslimgfx }
 	
 	kanadonien = {
 		graphical_cultures = { brownpacificgfx }
@@ -189,7 +255,7 @@ melanesian = {
 }
 
 greater_micronesian = {
-	graphical_cultures = { brownpacificgfx blackpacificgfx muslimgfx }
+	graphical_cultures = { brownpacificgfx muslimgfx }
 	
 	chamorro = {
 		graphical_cultures = { brownpacificgfx }

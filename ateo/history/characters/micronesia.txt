@@ -156,3 +156,80 @@
 	father=31014
 	2643.1.1={birth=yes}
 }
+
+31018={#former Chief of Wotje
+	name="Carlson"
+	dynasty=618
+	culture=marshallese
+	religion=congregational
+	2609.1.1={birth=yes}
+	2662.1.1={death=yes}
+}
+
+31019={#Chief of Wotje
+	name="Danny"
+	dynasty=618
+	culture=marshallese
+	religion=congregational
+	father=31018
+	2642.1.1={birth=yes}
+}
+
+31020={#daughter of Carlson
+	name="Alice"
+	female=yes
+	dynasty=618
+	culture=marshallese
+	religion=congregational
+	father=31018
+	2644.1.1={birth=yes}
+}
+
+31021={#exiled Hawaiian nobleman
+	name="Jace"
+	dynasty=1214
+	culture=hawaiian
+	religion=cetic
+	trait=strong
+	2627.1.1={birth=yes}
+	2645.1.1={add_spouse=31022}
+	2664.1.1={employer=31019}
+}
+
+31022={#wife of Jace
+	name="Gianna"
+	female=yes
+	dynasty=1220
+	culture=hawaiian
+	religion=cetic
+	trait=quick
+	trait=fair
+	2629.1.1={birth=yes}
+	2645.1.1={add_spouse=31021}
+	2664.1.1={employer=31019}
+}
+
+31023={#son of Jace
+	name="Keanu"
+	dynasty=1214
+	culture=hawaiian
+	religion=cetic
+	trait=fair
+	father=31021
+	mother=31022
+	2646.1.1={birth=yes}
+	2664.1.1={employer=31019}
+}
+
+31024={#daughter of Jace
+	name="Alana"
+	female=yes
+	dynasty=1214
+	culture=hawaiian
+	religion=cetic
+	trait=quick
+	father=31021
+	mother=31022
+	2649.1.1={birth=yes}
+	2664.1.1={employer=31019}
+}
