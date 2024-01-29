@@ -1,0 +1,170 @@
+american = {
+	graphical_cultures = { westerngfx chinesegfx }
+	
+	hawaiian = {
+		graphical_cultures = { chinesegfx westerngfx }
+		unit_graphical_cultures = { westerngfx chinesegfx }
+
+		color = { 0.16 0.26 0.53 }
+		
+		male_names = {
+			Ace Aiden_Aiden Alexander_Alexander Asher Atlas
+			Benjamin_Benjamin
+			Caleb_Caleb Carter
+			Daniel_Daniel David_David
+			Elias_Elias Elijah_Elijah Ethan_Ethan Ezekiel_Ezekiel Ezra
+			Gabriel_Gabriel Grayson_Grayson
+			Henry_Henry Hunter
+			Isaiah_Isaiah
+			Jace_Jason Jack_Jack Jacob_Jacob James_James Jaxon_Jackson Jeremiah_Jeremiah Joshua_Joshua Josiah_Josiah
+			Kai Keanu Kingston
+			Leo_Leo Levi Liam Logan Luca_Lucas
+			Makoa Mason Mateo_Matthew Maverick Micah_Michael
+			Noah_Noah
+			Oliver_Oliver
+			Roman Ryder
+			Samuel_Samuel
+			Theodore_Theodore
+			William_William
+			Xavier_Xavier
+			Zion
+		}
+		female_names = {
+			Alana_Alana Anela Aria_Aria Amelia_Amelia Aurora_Aurora Ava_Eva Avery
+			Charlotte_Charlotte Chloe_Chloe
+			Delilah_Delilah
+			Eleanor_Eleanor Elizabeth_Elizabeth Ellie_Ellie Eliana_Eliana Emily_Emily Emma_Emma Evelyn_Evelyn
+			Gianna_Joan Grace
+			Halia Harper Hazel Hope
+			Isabella_Isabella Isla Ivy
+			Kaia Kailani Kalea Kira
+			Leia_Leah Leila_Layla Leilani Lily_Lilly Lucy_Lucy Luna
+			Mahina Malia_Malia Maya Mia Mila
+			Naomi_Naomi Nora Nova
+			Olivia_Olivia
+			Penelope
+			Sophia_Sophia Stella_Stella
+			Violet_Violet
+		}
+
+		from_dynasty_prefix = "of "
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+		
+		used_for_random = no
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}
+
+indian = {
+	graphical_cultures = { indiangfx muslimgfx }
+	
+	indo-fijian = {
+		graphical_cultures = { indiangfx muslimgfx }
+
+		color = { 1.0 0.6 0.2 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Abdul Adi Ajit Ali Anand Anil Ashneel Ashok Avinesh
+			Babu Brahma Brij
+			Dayanand
+			Ghananand
+			Hari Harish
+			Jai
+			Kamlesh Kiran Krishneel Kundan
+			Mahendra Manoj Mo Mohammed_Muhammad
+			Nilesh
+			Paresh
+			Rajen Rajesh Ram Ramesh Raojibhai Ravinesh Rishi Ritesh
+			Sanjay Santosh Shivlal Sri Sunil Suresh
+			Vijay Vinay Vishal
+		}
+		female_names = {
+			Asha Ashika
+			Gita
+			Kundan
+			Lalita Lakshmi Laxmi
+			Madhu Manju Mina
+			Nalini
+			Prerna Priya Pushpa
+			Radha Rekha Rita
+			Sangeeta Sarojini Shanti Sita Suman Sunita Sushila
+			Tulsi
+			Urmila Usha
+		}
+
+		from_dynasty_prefix = "se "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}
+
+nihonjin = {
+	graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+	
+	bonin = {
+		graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+
+		dynasty_name_first = yes
+		
+		color = { 0.8 0.75 0.8 }
+		
+		male_names = {
+			Akira
+			Hideo Hiroshi
+			Kazuo Kenji Kiyoshi Koichi Koji
+			Masao
+			Tadashi Takashi Takeshi Toshio
+			Yoshio Yukio
+		}
+
+		female_names = {
+			Fumiko
+			Hiroko Hiromi Hisako
+			Katsumi Keiko Kenji
+			Masako Michiko
+			Sachiko Shigeru
+			Toshiko
+			Yoko Yoshiko Yoshimi
+		}
+
+		from_dynasty_prefix = ""
+
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 10
+		father_name_chance = 20
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 10
+		
+		used_for_random = no
+
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}

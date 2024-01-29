@@ -1,265 +1,9 @@
-american = {
-	graphical_cultures = { chinesepacificgfx brownpacificgfx whitepacificgfx mongolgfx muslimgfx }
-	
-	hawaiian = {
-		graphical_cultures = { chinesepacificgfx }
-		unit_graphical_cultures = { chinesegfx mongolgfx muslimgfx }
-
-		color = { 0.16 0.26 0.53 }
-		
-		male_names = {
-			Ace Aiden_Aiden Alexander_Alexander Asher Atlas
-			Benjamin_Benjamin
-			Caleb_Caleb Carter
-			Daniel_Daniel David_David
-			Elias_Elias Elijah_Elijah Ethan_Ethan Ezekiel_Ezekiel Ezra
-			Gabriel_Gabriel Grayson_Grayson
-			Henry_Henry Hunter
-			Isaiah_Isaiah
-			Jace_Jason Jack_Jack Jacob_Jacob James_James Jaxon_Jackson Jeremiah_Jeremiah Joshua_Joshua Josiah_Josiah
-			Kai Keanu Kingston
-			Leo_Leo Levi Liam Logan Luca_Lucas
-			Makoa Mason Mateo_Matthew Maverick Micah_Michael
-			Noah_Noah
-			Oliver_Oliver
-			Roman Ryder
-			Samuel_Samuel
-			Theodore_Theodore
-			William_William
-			Xavier_Xavier
-			Zion
-		}
-		female_names = {
-			Alana_Alana Anela Aria_Aria Amelia_Amelia Aurora_Aurora Ava_Eva Avery
-			Charlotte_Charlotte Chloe_Chloe
-			Delilah_Delilah
-			Eleanor_Eleanor Elizabeth_Elizabeth Ellie_Ellie Eliana_Eliana Emily_Emily Emma_Emma Evelyn_Evelyn
-			Gianna_Joan Grace
-			Halia Harper Hazel Hope
-			Isabella_Isabella Isla Ivy
-			Kaia Kailani Kalea Kira
-			Leia_Leah Leila_Layla Leilani Lily_Lilly Lucy_Lucy Luna
-			Mahina Malia_Malia Maya Mia Mila
-			Naomi_Naomi Nora Nova
-			Olivia_Olivia
-			Penelope
-			Sophia_Sophia Stella_Stella
-			Violet_Violet
-		}
-
-		from_dynasty_prefix = "of "
-
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 10
-		father_name_chance = 20
-
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 20
-		mother_name_chance = 10
-		
-		used_for_random = no
-		
-		seafarer = yes
-		modifier = default_culture_modifier
-	}
-}
-
-indian = {
-	graphical_cultures = { southindiangfx indiangfx muslimgfx }
-	
-	indo-fijian = {
-		graphical_cultures = { southindiangfx indiangfx muslimgfx }
-		unit_graphical_cultures = { chinesegfx mongolgfx indiangfx muslimgfx }
-
-		color = { 1.0 0.6 0.2 }
-		
-		dukes_called_kings = yes
-
-		male_names = {
-			Abdul Adi Ajit Ali Anand Anil Ashneel Ashok Avinesh
-			Babu Brahma Brij
-			Dayanand
-			Ghananand
-			Hari Harish
-			Jai
-			Kamlesh Kiran Krishneel Kundan
-			Mahendra Manoj Mo Mohammed_Muhammad
-			Nilesh
-			Paresh
-			Rajen Rajesh Ram Ramesh Raojibhai Ravinesh Rishi Ritesh
-			Sanjay Santosh Shivlal Sri Sunil Suresh
-			Vijay Vinay Vishal
-		}
-		female_names = {
-			Asha Ashika
-			Gita
-			Kundan
-			Lalita Lakshmi Laxmi
-			Madhu Manju Mina
-			Nalini
-			Prerna Priya Pushpa
-			Radha Rekha Rita
-			Sangeeta Sarojini Shanti Sita Suman Sunita Sushila
-			Tulsi
-			Urmila Usha
-		}
-
-		from_dynasty_prefix = "se "
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 15
-		mat_grf_name_chance = 15
-		father_name_chance = 15
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 15
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
-		
-		seafarer = yes
-		modifier = default_culture_modifier
-	}
-}
-
-melanesian = {
-	graphical_cultures = {brownpacificgfx whitepacificgfx muslimgfx }
-	
-	kanadonien = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { westerngfx chinesegfx muslimgfx }
-
-		color = { 0.3 0.05 0.6 }
-		
-		dukes_called_kings = yes
-
-		male_names = {
-			Alain_Alan Alexandre_Alexander Andre_Andrew
-			Bernard_Bernard Bruno
-			Christian_Christian Christophe_Christopher Claude_Claud
-			Daniel_Daniel David_David Didier Dominique_Dominic
-			Eric_Eric
-			Franck_Francis Frederic_Frederick
-			Georges_George Gilles_Giles
-			Jacques_Jack Jean_John Jean-Claude_John-Claud Jean-Pierre_John-Peter Jerome_Jerome Joseph_Joseph Julien_Julian
-			Laurent_Lawrence
-			Marc_Mark Michel_Michael
-			Nicolas_Nicholas
-			Olivier_Oliver
-			Pascal_Pascal Patrick_Patrick Paul_Paul Philippe_Philip Pierre_Peter
-			Richard_Richard
-			Sebastien_Sebastian Stephane_Stephen
-			Thierry_Terry Thomas_Thomas
-			Vincent_Vincent
-		}
-		female_names = {
-			Alice_Alice Anne_Anna Audrey_Audrey Aurelie_Aurelia
-			Beatrice_Beatrice Brigitte_Bridgette
-			Caroline_Caroline Catherine_Catherine Cecile_Cecilia Chantal_Chantal Christine_Christina Corinne_Corina
-			Estelle_Stella Elise_Lisa Evelyne_Evelyn
-			Fabienne_Fabienne Florence_Florence Francoise_Francesca
-			Helene_Helen
-			Isabelle_Isabella
-			Jacqueline_Jacqueline Jeanne_Joan Julie_Julia
-			Karine_Karen
-			Louise_Louise
-			Marie_Mary Marie-Anne_Marianne Martine_Martina Monique_Monica
-			Nathalie_Natalie Nicole_Nicole
-			Pascale_Pascale Patricia_Patricia
-			Sandrine_Cassandra Sonia_Sonia Sophie_Sophia Stephanie_Stephanie Sylvie_Silvia
-			Therese_Teresa
-			Valerie_Valerie Vanessa_Vanessa Veronique_Veronica Virginie_Virginia
-		}
-
-		from_dynasty_prefix = "de "
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 15
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
-		
-		seafarer = yes
-		modifier = default_culture_modifier
-	}
-	
-	ni-vanuatu = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
-
-		color = { 0.25 0.65 0.1 }
-		
-		dukes_called_kings = yes
-
-		male_names = {
-			Alex_Alexander Alfred_Alfred Allan_Alan Andrew_Andrew
-			Brian_Brian
-			Charles_Charles Christopher_Christopher
-			Daniel_Daniel David_David Donald_Donald
-			Edward_Edward Eric_Eric
-			Frank_Francis Fred_Frederick
-			George_George
-			Henry_Henry
-			Ian
-			Jack_Jack James_James Jason_Jason Jerry_Jerry John_John Joseph_Joseph Joshua_Joshua Junior_Junior
-			Kevin_Kevin
-			Mark_Mark Michael_Michael
-			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip
-			Richard_Richard Robert_Robert Roger_Roger
-			Sam_Samuel Simon_Simon Steven_Stephen
-			Thomas_Thomas Tony_Anthony
-			Willie_William
-		}
-		female_names = {
-			Agnes_Agnes Alice_Alice Amanda_Amanda Angela_Angela Anna_Anna
-			Caroline_Caroline Catherine_Catherine Christine_Christina
-			Diana_Diane
-			Elizabeth_Elizabeth Emma_Emma Esther_Esther
-			Fiona Florence_Florence
-			Georgina_Georgina Grace
-			Helen_Helen
-			Janet_Janet Jennifer_Jennifer Jessica_Jessica Joana_Joan Julie_Julia
-			Linda_Melinda Louise_Louise
-			Marie_Mary Martha_Martha Melanie_Melanie Melissa_Melissa Michelle_Michelle
-			Nancy_Nancy
-			Patricia_Patricia
-			Rebecca_Rebecca Rose_Rose Ruth_Ruth
-			Samantha_Samantha Sandra_Cassandra Sharon Shirley Sonia_Sonia Stephanie_Stephanie Susan_Susan
-			Valerie_Valerie Vanessa_Vanessa
-		}
-
-		from_dynasty_prefix = "de "
-		
-		prefix = no # The patronym is added as a suffix
-		
-		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 20
-		
-		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 20
-		
-		seafarer = yes
-		modifier = default_culture_modifier
-	}
-}
-
 greater_micronesian = {
-	graphical_cultures = { brownpacificgfx muslimgfx }
+	graphical_cultures = { muslimgfx }
 	
 	chamorro = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.03 0.1 0.3 }
 		
@@ -320,8 +64,8 @@ greater_micronesian = {
 	}
 	
 	i-kiribati = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.88 1.0 0.06 }
 		
@@ -370,8 +114,8 @@ greater_micronesian = {
 	}
 	
 	marshallese = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.82 0.42 0.1 }
 		
@@ -431,8 +175,8 @@ greater_micronesian = {
 	}
 	
 	micronesian = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx}
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.05 0.63 0.8 }
 		
@@ -495,59 +239,143 @@ greater_micronesian = {
 	}
 }
 
-nihonjin = {
-	graphical_cultures = { chinesepacificgfx brownpacificgfx whitepacificgfx mongolgfx muslimgfx }
+melanesian = {
+	graphical_cultures = { muslimgfx }
 	
-	bonin = {
-		graphical_cultures = { chinesepacificgfx }
-		unit_graphical_cultures = { chinesegfx mongolgfx muslimgfx }
+	kanadonien = {
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { frankishgfx westerngfx }
 
-		dynasty_name_first = yes
+		color = { 0.3 0.05 0.6 }
 		
-		color = { 0.8 0.75 0.8 }
-		
+		dukes_called_kings = yes
+
 		male_names = {
-			Akira
-			Hideo Hiroshi
-			Kazuo Kenji Kiyoshi Koichi Koji
-			Masao
-			Tadashi Takashi Takeshi Toshio
-			Yoshio Yukio
+			Alain_Alan Alexandre_Alexander Andre_Andrew
+			Bernard_Bernard Bruno
+			Christian_Christian Christophe_Christopher Claude_Claud
+			Daniel_Daniel David_David Didier Dominique_Dominic
+			Eric_Eric
+			Franck_Francis Frederic_Frederick
+			Georges_George Gilles_Giles
+			Jacques_Jack Jean_John Jean-Claude_John-Claud Jean-Pierre_John-Peter Jerome_Jerome Joseph_Joseph Julien_Julian
+			Laurent_Lawrence
+			Marc_Mark Michel_Michael
+			Nicolas_Nicholas
+			Olivier_Oliver
+			Pascal_Pascal Patrick_Patrick Paul_Paul Philippe_Philip Pierre_Peter
+			Richard_Richard
+			Sebastien_Sebastian Stephane_Stephen
+			Thierry_Terry Thomas_Thomas
+			Vincent_Vincent
 		}
-
 		female_names = {
-			Fumiko
-			Hiroko Hiromi Hisako
-			Katsumi Keiko Kenji
-			Masako Michiko
-			Sachiko Shigeru
-			Toshiko
-			Yoko Yoshiko Yoshimi
+			Alice_Alice Anne_Anna Audrey_Audrey Aurelie_Aurelia
+			Beatrice_Beatrice Brigitte_Bridgette
+			Caroline_Caroline Catherine_Catherine Cecile_Cecilia Chantal_Chantal Christine_Christina Corinne_Corina
+			Estelle_Stella Elise_Lisa Evelyne_Evelyn
+			Fabienne_Fabienne Florence_Florence Francoise_Francesca
+			Helene_Helen
+			Isabelle_Isabella
+			Jacqueline_Jacqueline Jeanne_Joan Julie_Julia
+			Karine_Karen
+			Louise_Louise
+			Marie_Mary Marie-Anne_Marianne Martine_Martina Monique_Monica
+			Nathalie_Natalie Nicole_Nicole
+			Pascale_Pascale Patricia_Patricia
+			Sandrine_Cassandra Sonia_Sonia Sophie_Sophia Stephanie_Stephanie Sylvie_Silvia
+			Therese_Teresa
+			Valerie_Valerie Vanessa_Vanessa Veronique_Veronica Virginie_Virginia
 		}
 
-		from_dynasty_prefix = ""
-
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 20
-		mat_grf_name_chance = 10
+		mat_grf_name_chance = 15
+		father_name_chance = 15
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 15
+		mother_name_chance = 15
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	ni-vanuatu = {
+		graphical_cultures = { arabicgfxgfx muslimgfx }
+		unit_graphical_cultures = { frankishgfx westerngfx }
+
+		color = { 0.25 0.65 0.1 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alex_Alexander Alfred_Alfred Allan_Alan Andrew_Andrew
+			Brian_Brian
+			Charles_Charles Christopher_Christopher
+			Daniel_Daniel David_David Donald_Donald
+			Edward_Edward Eric_Eric
+			Frank_Francis Fred_Frederick
+			George_George
+			Henry_Henry
+			Ian
+			Jack_Jack James_James Jason_Jason Jerry_Jerry John_John Joseph_Joseph Joshua_Joshua Junior_Junior
+			Kevin_Kevin
+			Mark_Mark Michael_Michael
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip
+			Richard_Richard Robert_Robert Roger_Roger
+			Sam_Samuel Simon_Simon Steven_Stephen
+			Thomas_Thomas Tony_Anthony
+			Willie_William
+		}
+		female_names = {
+			Agnes_Agnes Alice_Alice Amanda_Amanda Angela_Angela Anna_Anna
+			Caroline_Caroline Catherine_Catherine Christine_Christina
+			Diana_Diane
+			Elizabeth_Elizabeth Emma_Emma Esther_Esther
+			Fiona Florence_Florence
+			Georgina_Georgina Grace
+			Helen_Helen
+			Janet_Janet Jennifer_Jennifer Jessica_Jessica Joana_Joan Julie_Julia
+			Linda_Melinda Louise_Louise
+			Marie_Mary Martha_Martha Melanie_Melanie Melissa_Melissa Michelle_Michelle
+			Nancy_Nancy
+			Patricia_Patricia
+			Rebecca_Rebecca Rose_Rose Ruth_Ruth
+			Samantha_Samantha Sandra_Cassandra Sharon Shirley Sonia_Sonia Stephanie_Stephanie Susan_Susan
+			Valerie_Valerie Vanessa_Vanessa
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
 		father_name_chance = 20
 		
-		pat_grm_name_chance = 20
-		mat_grm_name_chance = 20
-		mother_name_chance = 10
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
 		
-		used_for_random = no
-
 		seafarer = yes
 		modifier = default_culture_modifier
 	}
 }
 
 polynesian = {
-	graphical_cultures = { brownpacificgfx blackpacificgfx muslimgfx }
+	graphical_cultures = { muslimgfx }
 	
 	itaukei = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx}
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.05 0.29 0.6 }
 		
@@ -606,8 +434,8 @@ polynesian = {
 	}
 	
 	samoan = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.99 0.34 0.33 }
 		
@@ -664,8 +492,8 @@ polynesian = {
 	}
 	
 	tongan = {
-		graphical_cultures = { brownpacificgfx }
-		unit_graphical_cultures = { chinesegfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.47 0.06 0.03 }
 		
