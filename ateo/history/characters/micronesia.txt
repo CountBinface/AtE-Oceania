@@ -233,3 +233,76 @@
 	2649.1.1={birth=yes}
 	2664.1.1={employer=31019}
 }
+
+31025={#Chief of Rongelap
+	name="Robert"
+	dynasty=650
+	culture=marshallese
+	religion=congregational
+	trait=fortune_builder
+	trait=diligent
+	trait=content
+	trait=gregarious
+	trait=honest
+	trait=trusting
+	2645.1.1={birth=yes}
+	2655.1.1={
+		effect={
+			add_friend=31026
+		}
+	}
+}
+
+31026={#friend of Robert
+	name="Patrick"
+	dynasty=637
+	culture=marshallese
+	religion=congregational
+	trait=slow
+	trait=indulgent_wastrel
+	trait=gluttonous
+	trait=slothful
+	trait=arbitrary
+	trait=content
+	2645.1.1={birth=yes}
+	2655.1.1={
+		effect={
+			add_friend=31025
+		}
+	}
+	2665.1.1={employer=31025}
+}
+
+31027={#courtier of Robert
+	name="Edward"
+	dynasty=627
+	culture=marshallese
+	religion=congregational
+	trait=martial_cleric
+	trait=slothful
+	trait=wroth
+	trait=proud
+	trait=cynical
+	trait=shy
+	trait=poet
+	trait=depressed
+	2631.1.1={birth=yes}
+	2665.1.1={employer=31025}
+}
+
+31028={#Chief of Majuro
+	name="Jackson"
+	dynasty=631
+	culture=marshallese
+	religion=congregational
+	2603.1.1={birth=yes}
+}
+
+31029={#Chieftess of Enewetak
+	name="Justina"
+	female=yes
+	dynasty=611
+	culture=marshallese
+	religion=congregational
+	2638.1.1={birth=yes}
+}
