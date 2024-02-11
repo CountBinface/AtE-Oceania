@@ -3,6 +3,7 @@
 	dynasty=1126
 	culture=kanadonien
 	religion=franco-catholique
+	trait=infirm
 	2592.1.1={birth=yes}
 	2608.1.1={add_spouse=21002}
 }
@@ -11,9 +12,12 @@
 	name="Louise"
 	female=yes
 	dynasty=0
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
-	2590.1.1={birth=yes}
+	2587.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2608.1.1={add_spouse=21001}
 }
 
@@ -33,22 +37,32 @@
 	name="Catherine"
 	female=yes
 	dynasty=1126
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21001
 	mother=21002
-	2613.1.1={birth=yes}
+	trait=just
+	trait=honest
+	trait=stubborn
+	trait=gregarious
+	2613.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2630.1.1={add_spouse=21015}
 }
 
 21005={#son of Michel
 	name="Franck"
 	dynasty=1126
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21001
 	mother=21002
-	2616.1.1={birth=yes}
+	2616.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21006={#son of Michel
@@ -86,10 +100,13 @@
 21009={#son of Franck
 	name="Thomas"
 	dynasty=1126
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21005
-	2642.1.1={birth=yes}
+	2642.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21010={#son of Franck
@@ -105,10 +122,13 @@
 	name="Anne"
 	female=yes
 	dynasty=1126
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21005
-	2647.1.1={birth=yes}
+	2647.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21012={#son of Franck
@@ -125,11 +145,14 @@
 	name="Therese"
 	female=yes
 	dynasty=1126
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21006
 	mother=21022
-	2646.1.1={birth=yes}
+	2646.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21014={#son of Philippe
@@ -145,9 +168,17 @@
 21015={#Count of Kone
 	name="Jean-Pierre"
 	dynasty=1135
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
-	2614.1.1={birth=yes}
+	trait=patient
+	trait=kind
+	trait=content
+	trait=erudite
+	trait=poet
+	2614.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2630.1.1={add_spouse=21004}
 }
 
@@ -155,11 +186,19 @@
 	name="Elise"
 	female=yes
 	dynasty=1135
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21015
 	mother=21004
-	2638.1.1={birth=yes}
+	trait=envious
+	trait=just
+	trait=erudite
+	trait=stubborn
+	trait=poet
+	2638.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2655.1.1={add_spouse=21020}
 }
 
@@ -167,34 +206,55 @@
 	name="Estelle"
 	female=yes
 	dynasty=1135
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21015
 	mother=21004
-	2640.1.1={birth=yes}
+	trait=diligent
+	trait=kind
+	trait=just
+	trait=erudite
+	2640.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21018={#son of Jean-Pierre
 	name="Stephane"
 	dynasty=1135
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21015
 	mother=21004
 	trait=twin
-	2644.1.1={birth=yes}
+	trait=slothful
+	trait=cynical
+	trait=just
+	trait=honest
+	2644.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21019={#daughter of Jean-Pierre
 	name="Sophie"
 	female=yes
 	dynasty=1135
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
 	father=21015
 	mother=21004
 	trait=twin
-	2644.1.1={birth=yes}
+	trait=slothful
+	trait=craven
+	trait=just
+	trait=shy
+	2644.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21020={#Count of Thio
@@ -202,6 +262,11 @@
 	dynasty=1134
 	culture=kanadonien
 	religion=franco-catholique
+	trait=patient
+	trait=kind
+	trait=just
+	trait=erudite
+	trait=poet
 	2639.1.1={birth=yes}
 	2655.1.1={add_spouse=21016}
 }
@@ -220,9 +285,12 @@
 	name="Christine"
 	female=yes
 	dynasty=0
-	culture=kanadonien
+	culture=frankish
 	religion=franco-catholique
-	2619.1.1={birth=yes}
+	2619.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2635.1.1={add_spouse=21006}
 }
 

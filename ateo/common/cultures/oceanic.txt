@@ -18,7 +18,7 @@ greater_micronesian = {
 			Francisco_Francis
 			George_George
 			James_James Jeffrey_Jeffrey Jesse_Jesse Jesus_Jesus John_John Jose_Joseph
-			Manuel_Emmanuel Mark_Mark Michael_Michael
+			Manuel_Manuel Mark_Mark Michael_Michael
 			Patrick_Patrick Paul_Paul Peter_Peter
 			Raymond_Raymond Richard_Richard Robert_Robert Ronald_Ronald
 			Steven_Stephen
@@ -134,7 +134,7 @@ greater_micronesian = {
 			Mack_Mac Michael_Michael
 			Patrick_Patrick Paul_Paul Peter_Peter Peterson
 			Stanley_Stanley
-			Randy_Randall Ranny Richard_Richard Robert_Robert Romeo Ronald_Ronald
+			Randy_Randall Ranny Richard_Richard Robert_Robert Ronald_Ronald
 			Timothy_Timothy Thomas_Thomas Tony_Anthony
 			Wilson
 		}
@@ -183,7 +183,7 @@ greater_micronesian = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Alex_Alexander Anthony_Anthony
+			Albert_Albert Alex_Alexander Anthony_Anthony
 			Bruce
 			David_David
 			Edward_Edward
@@ -191,8 +191,8 @@ greater_micronesian = {
 			George_George
 			Henry_Henry Hermes
 			Jack_Jack James_James Jason_Jason Joe_Joseph John_John Jonas_Jonas
-			Larry
-			Manny Mark_Mark Marlon Mike_Michael
+			Larry_Lawrence
+			Manny_Manuel Mark_Mark Marlon Mike_Michael
 			Nelson
 			Paul_Paul Peter_Peter
 			Randy_Randall Richard_Richard Rieko Robert_Robert Romeo
@@ -210,12 +210,12 @@ greater_micronesian = {
 			Ivy
 			Josephine_Josephine Juliet_Juliet
 			Kenye Kiomy
-			Linda_Melinda
+			Linda_Melinda Lucy_Lucy
 			Margaret_Margaret Mariana_Marianne Mary_Mary Misiem Moria_Maureen
 			Nena_Nina
 			Oya
 			Rose_Rose
-			Sepe Shrue Susan_Susan
+			Sepe Shrue Susan_Susan Sylvia_Sylvia
 			Teresa_Teresa Termilia
 			Yvonne_Yvonne
 		}
@@ -307,7 +307,7 @@ melanesian = {
 	}
 	
 	ni-vanuatu = {
-		graphical_cultures = { arabicgfxgfx muslimgfx }
+		graphical_cultures = { arabicgfx muslimgfx }
 		unit_graphical_cultures = { frankishgfx westerngfx }
 
 		color = { 0.25 0.65 0.1 }
@@ -449,7 +449,7 @@ polynesian = {
 			Iakopo_Jacob Ieremia_Jeremiah Ioane_John Ioelu_Joel Ionatana_Jonathan Iopu_Job Iosefa_Joseph Iosua_Joshua Isaako_Isaac Isaia_Isaiah
 			Kiuga_Junior
 			Lafaele Laki Lemuelu_Lemuel Loto
-			Maika Malakai_Malachi Manaia Manu Mikaele_Michael Mosaia_Mosiah Mose_Moses
+			Maika Malakai_Malachi Manaia Manu_Manuel Mikaele_Michael Mosaia_Mosiah Mose_Moses
 			Niko_Nicholas Noa_Noah
 			Pati Paulo_Paul Peni_Benjamin Peniamina_Benjamin Petelo_Peter Poasa
 			Ropati_Robert
@@ -507,7 +507,7 @@ polynesian = {
 			'Inoke_Enoch 'Isileli_Israel
 			Kelekolio_Gregory
 			Lisiate_Richard Lopeti_Robert Lui_Louis
-			Maikolo_Michael Malakai_Malachi Manase_Manasseh Manu Mosese_Moses
+			Maikolo_Michael Malakai_Malachi Manase_Manasseh Manu_Manuel Mosese_Moses
 			Paea Paula_Paul Peni_Benjamin Pita_Peter
 			Salesi_Charles Samiuela_Samuel Sekope_Jacob Semisi_James Siaosi_George Sifa_Joseph Simione_Simon Siona_Jonah Sione_John Sioeli_Joel Siua_Joshua Soane_John Solomone_Solomon Songi Suni
 			Taitusi_Titus Taniela_Daniel Taufa Tevita_David Tupou

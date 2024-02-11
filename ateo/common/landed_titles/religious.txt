@@ -106,3 +106,31 @@ d_mormon = {
 	
 	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
 }
+
+k_katoliko = {
+	color={ 255 249 198 }
+	color2={ 220 220 0 }
+	
+	capital = 48 #Palau
+	
+	title = "POPE"
+	title_female = "POPE"
+	foa = "POPE_FOA"
+	short_name = yes
+	location_ruler_title = yes
+	
+	landless = yes
+	controls_religion = katoliko
+	religion = katoliko
+	culture = tagalog
+	primary = yes
+	assimilate = no # Nothing drifts in or out
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	# Regnal names
+	male_names = {
+		Alexander Angelo Antonio Bonifacio Christopher Domingo Ernesto Felix Francisco Gabriel Gregorio 
+		Jaime John Jose Lorenzo Manuel Mark Michael Paul Pedro Rafael Salvador
+	}
+}

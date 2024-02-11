@@ -81,7 +81,7 @@
 	2629.1.1={birth=yes}
 }
 
-31010={#daughter of
+31010={#daughter of Timon
 	name="Meri"
 	female=yes
 	dynasty=555
@@ -135,6 +135,7 @@
 	religion=congregational
 	father=31014
 	2633.1.1={birth=yes}
+	2649.1.1={add_spouse=31030}
 }
 
 31016={#daughter of Bill
@@ -215,6 +216,7 @@
 	culture=hawaiian
 	religion=cetic
 	trait=fair
+	trait=strong
 	father=31021
 	mother=31022
 	2646.1.1={birth=yes}
@@ -304,5 +306,506 @@
 	dynasty=611
 	culture=marshallese
 	religion=congregational
+	father=31034
 	2638.1.1={birth=yes}
 }
+
+31030={#son of Jackson
+	name="Allen"
+	dynasty=631
+	culture=marshallese
+	religion=congregational
+	father=31028
+	2627.1.1={birth=yes}
+	2649.1.1={add_spouse=31015}
+}
+
+31031={#son of Allen
+	name="Harry"
+	dynasty=631
+	culture=marshallese
+	religion=congregational
+	father=31030
+	mother=31015
+	2655.1.1={birth=yes}
+}
+
+31032={#daughter of Allen
+	name="Veronica"
+	female=yes
+	dynasty=631
+	culture=marshallese
+	religion=congregational
+	father=31030
+	mother=31015
+	2658.1.1={birth=yes}
+}
+
+31033={#daughter of Jackson
+	name="Martha"
+	female=yes
+	dynasty=631
+	culture=marshallese
+	religion=congregational
+	father=31028
+	2634.1.1={birth=yes}
+}
+
+31034={#former Chief of Enewetak
+	name="Bruce"
+	dynasty=611
+	culture=marshallese
+	religion=congregational
+	2615.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+
+31035={#Chief of Enewetak
+	name="Elizabeth"
+	female=yes
+	dynasty=611
+	culture=marshallese
+	religion=congregational
+	father=31034
+	2641.1.1={birth=yes}
+}
+
+31036={#daughter of Bruce
+	name="Sandy"
+	female=yes
+	dynasty=611
+	culture=marshallese
+	religion=congregational
+	father=31034
+	2645.1.1={birth=yes}
+}
+
+32001={#Chief of Kosrae
+	name="George"
+	dynasty=726
+	culture=micronesian
+	religion=congregational
+	2612.1.1={birth=yes}
+}
+
+32002={#son of George
+	name="Hermes"
+	dynasty=726
+	culture=micronesian
+	religion=congregational
+	father=32001
+	2635.1.1={birth=yes}
+}
+
+32003={#son of George
+	name="Manny"
+	dynasty=726
+	culture=micronesian
+	religion=congregational
+	father=32001
+	2639.1.1={birth=yes}
+}
+
+32004={#daughter of George
+	name="Nena"
+	female=yes
+	dynasty=726
+	culture=micronesian
+	religion=congregational
+	father=32001
+	2642.1.1={birth=yes}
+}
+
+32005={#Chief of Pohnpei and Nomoi
+	name="David"
+	dynasty=737
+	culture=micronesian
+	religion=katoliko
+	2629.1.1={birth=yes}
+	2647.1.1={add_spouse=32009}
+}
+
+32006={#daughter of David
+	name="Sylvia"
+	female=yes
+	dynasty=737
+	culture=micronesian
+	religion=katoliko
+	father=32005
+	mother=32009
+	2654.1.1={birth=yes}
+}
+
+32007={#son of David
+	name="Albert"
+	dynasty=737
+	culture=micronesian
+	religion=katoliko
+	father=32005
+	mother=32009
+	2659.1.1={birth=yes}
+}
+
+32008={#Chief of Chuuk
+	name="Larry"
+	dynasty=701
+	culture=micronesian
+	religion=katoliko
+	2609.1.1={birth=yes}
+}
+
+32009={#daughter of Larry
+	name="Linda"
+	female=yes
+	dynasty=701
+	culture=micronesian
+	religion=katoliko
+	father=32008
+	2631.1.1={birth=yes}
+	2647.1.1={add_spouse=32005}
+}
+
+32010={#daughter of Larry
+	name="Moria"
+	female=yes
+	dynasty=701
+	culture=micronesian
+	religion=katoliko
+	father=32008
+	2636.1.1={birth=yes}
+	2653.1.1={add_spouse=32011}
+}
+
+32011={#Chief of Yap and Woleai
+	name="Peter"
+	dynasty=752
+	culture=micronesian
+	religion=katoliko
+	2637.1.1={birth=yes}
+	2653.1.1={add_spouse=32010}
+}
+
+32012={#son of Peter
+	name="Romeo"
+	dynasty=752
+	culture=micronesian
+	religion=katoliko
+	father=32011
+	mother=32010
+	2656.1.1={birth=yes}
+}
+
+32013={#daughter of Peter
+	name="Carmen"
+	female=yes
+	dynasty=752
+	culture=micronesian
+	religion=katoliko
+	father=32011
+	mother=32010
+	2660.1.1={birth=yes}
+}
+
+32014={#High Chieftess of Palau
+	name="Mary"
+	female=yes
+	dynasty=757
+	culture=micronesian
+	religion=katoliko
+	2621.1.1={birth=yes}
+}
+
+32015={#daughter of Mary
+	name="Grace"
+	female=yes
+	dynasty=757
+	culture=micronesian
+	religion=katoliko
+	mother=32014
+	2640.1.1={birth=yes}
+}
+
+32016={#daughter of Grace
+	name="Rose"
+	female=yes
+	dynasty=757
+	culture=micronesian
+	religion=katoliko
+	mother=32015
+	2660.1.1={birth=yes}
+}
+
+32017={#Count of Guam
+	name="Michael"
+	dynasty=801
+	culture=chamorro
+	religion=katoliko
+	2623.1.1={birth=yes}
+	2641.1.1={add_spouse=32018}
+}
+
+32018={#wife of Michael
+	name="Teresita"
+	female=yes
+	dynasty=1305
+	culture=tagalog
+	religion=katoliko
+	father=32021
+	2627.1.1={birth=yes}
+	2643.1.1={add_spouse=32017}
+}
+
+32019={#son of Michael
+	name="James"
+	dynasty=801
+	culture=chamorro
+	religion=katoliko
+	father=32017
+	mother=32018
+	2647.1.1={birth=yes}
+}
+
+32020={#daughter of Michael
+	name="Elizabeth"
+	female=yes
+	dynasty=801
+	culture=chamorro
+	religion=katoliko
+	father=32017
+	mother=32018
+	2650.1.1={birth=yes}
+}
+
+32021={#filipino nobleman
+	name="Reynaldo"
+	dynasty=1305
+	culture=tagalog
+	religion=katoliko
+	2601.1.1={birth=yes}
+}
+
+32022={#Count of Saipan
+	name="Jose"
+	dynasty=802
+	culture=chamorro
+	religion=katoliko
+	father=32023
+	mother=32024
+	2642.1.1={birth=yes}
+	2658.1.1={add_spouse=32025}
+}
+
+32023={#former Count of Saipan
+	name="Vicente"
+	dynasty=802
+	culture=chamorro
+	religion=katoliko
+	2618.1.1={birth=yes}
+	2639.1.1={add_spouse=32024}
+	2664.1.1={death=yes}
+}
+
+32024={#wife of Vicente
+	name="Jocelyn"
+	female=yes
+	dynasty=1305
+	culture=tagalog
+	religion=katoliko
+	father=32021
+	2623.1.1={birth=yes}
+	2639.1.1={add_spouse=32023}
+}
+
+32025={#wife of Jose
+	name="Fumiko"
+	female=yes
+	dynasty=905
+	culture=bonin
+	religion=shinto
+	father=32029
+	2642.1.1={birth=yes}
+	2658.1.1={add_spouse=32022}
+}
+
+32026={#daughter of Jose
+	name="Ana"
+	female=yes
+	dynasty=802
+	culture=chamorro
+	religion=katoliko
+	father=32022
+	mother=32025
+	2660.1.1={birth=yes}
+}
+
+32027={#son of Jose
+	name="Francisco"
+	dynasty=802
+	culture=chamorro
+	religion=katoliko
+	father=32022
+	mother=32025
+	2663.1.1={birth=yes}
+}
+
+32028={#Count of Pagan
+	name="Kenji"
+	dynasty=905
+	culture=bonin
+	religion=shinto
+	father=32029
+	2640.1.1={birth=yes}
+}
+
+32029={#former Count of Pagan
+	name="Akira"
+	dynasty=905
+	culture=bonin
+	religion=shinto
+	2610.1.1={birth=yes}
+	2662.1.1={death=yes}
+}
+
+33001={#Katoliko Pope
+	name="Joel"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2610.1.1={birth=yes}
+	2660.1.1={
+		name="Lorenzo"
+	}
+}
+
+33002={#Katoliko Pope
+	name="Manuel"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2599.1.1={birth=yes}
+	2645.1.1={
+		name="John"
+	}
+	2660.1.1={death=yes}
+}
+
+33003={#Katoliko Pope
+	name="Randy"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2577.1.1={birth=yes}
+	2632.1.1={
+		name="Domingo"
+	}
+	2645.1.1={death=yes}
+}
+
+33004={#Katoliko Pope
+	name="Eduardo"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2562.1.1={birth=yes}
+	2622.1.1={
+		name="Francisco"
+	}
+	2632.1.1={death=yes}
+}
+
+33005={#Katoliko Pope
+	name="Nestor"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2553.1.1={birth=yes}
+	2615.1.1={
+		name="Jose"
+	}
+	2622.1.1={death=yes}
+}
+
+33006={#Katoliko Pope
+	name="Jayson"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2555.1.1={birth=yes}
+	2603.1.1={
+		name="Paul"
+	}
+	2615.1.1={death=yes}
+}
+
+33007={#Katoliko Pope
+	name="Dennis"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2546.1.1={birth=yes}
+	2597.1.1={
+		name="Antonio"
+	}
+	2603.1.1={death=yes}
+}
+
+33008={#Katoliko Pope
+	name="Wilfredo"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2530.1.1={birth=yes}
+	2592.1.1={
+		name="Paul"
+	}
+	2597.1.1={death=yes}
+}
+
+33009={#Katoliko Pope
+	name="Allan"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2532.1.1={birth=yes}
+	2584.1.1={
+		name="Francisco"
+	}
+	2592.1.1={death=yes}
+}
+
+33010={#Katoliko Pope
+	name="Jesus"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2517.1.1={birth=yes}
+	2571.1.1={
+		name="Michael"
+	}
+	2584.1.1={death=yes}
+}
+
+33011={#Katoliko Pope
+	name="Manuel"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2500.1.1={birth=yes}
+	2567.1.1={
+		name="Manuel"
+	}
+	2571.1.1={death=yes}
+}
+
+33012={#Katoliko Pope
+	name="Rolando"
+	dynasty=0
+	culture=tagalog
+	religion=katoliko
+	2499.1.1={birth=yes}
+	2562.1.1={
+		name="Pedro"
+	}
+	2567.1.1={death=yes}
+}
+

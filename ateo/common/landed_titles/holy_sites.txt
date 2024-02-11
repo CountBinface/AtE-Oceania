@@ -49,12 +49,26 @@ c_majuro = { # 33
 	holy_site = mormon
 }
 
+c_pohnpei = { #40
+	holy_site = shinto
+}
+
 c_chuuk = { # 42
 	holy_site = franco-catholique
+	holy_site = katoliko
 }
 
 c_guam = { # 45
+	holy_site = katoliko
 	holy_site = mormon
+}
+
+c_saipan = { #46
+	holy_site = shinto
+}
+
+c_palau = { #48
+	holy_site = shinto
 }
 
 c_tafea = { # 112
