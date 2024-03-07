@@ -1,5 +1,5 @@
-max_provinces = 131
-# stats:  130 provinces
+max_provinces = 155
+# stats:  154 provinces
 # unused:
 definitions = "definition.csv"
 provinces = "provinces.bmp"
@@ -21,9 +21,10 @@ externals = {
 
 sea_zones = { 49 111 }
 sea_zones = { 124 130 }
+sea_zones = { 148 154 }
 
 ocean_region = {	# OCEAN
-	sea_zones = { 1 2 }
+	sea_zones = { 1 2 3 }
 }
 
 # Define which indices in trees.bmp palette which should count as trees for automatic terrain assignment

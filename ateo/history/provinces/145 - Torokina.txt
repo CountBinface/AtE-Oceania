@@ -1,0 +1,21 @@
+# c_torokina
+
+# County Title
+title = c_torokina
+
+# Settlements
+max_settlements = 3
+
+b_torokina = tribal
+#b_boku = city
+#b_taruba = temple
+#b_tsito = castle
+#b_jaba = city
+#b_konga = temple
+#b_atsilima = castle
+
+# Misc
+culture = bougainvillean
+religion = katoliko
+
+#History

@@ -16,6 +16,6 @@ b_lifou = castle
 
 # Misc
 culture = kanadonien
-religion = presbyterian
+religion = franco-catholique
 
 #History

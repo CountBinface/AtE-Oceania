@@ -1,0 +1,21 @@
+# c_choiseul
+
+# County Title
+title = c_choiseul
+
+# Settlements
+max_settlements = 3
+
+b_taro_island = tribal
+#b_kumbanikesa = city
+#b_nukiki = temple
+#b_posarae = castle
+#b_tangibangara = city
+#b_kutakana = temple
+#b_vagara = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

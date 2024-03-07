@@ -1,0 +1,21 @@
+# c_east_guadalcanal
+
+# County Title
+title = c_east_guadalcanal
+
+# Settlements
+max_settlements = 4
+
+b_marau = castle
+b_kuma = temple
+#b_ruavatu = temple
+#b_marakuru = castle
+#b_nguvia = city
+#b_rere = temple
+#b_kolohaumbi = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

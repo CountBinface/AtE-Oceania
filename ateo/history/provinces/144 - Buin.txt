@@ -1,0 +1,21 @@
+# c_buin
+
+# County Title
+title = c_buin
+
+# Settlements
+max_settlements = 3
+
+b_buin = tribal
+#b_orava = city
+#b_toumoa = temple
+#b_aku = castle
+#b_kamaleai = city
+#b_tabago = temple
+#b_bogisago = castle
+
+# Misc
+culture = bougainvillean
+religion = katoliko
+
+#History

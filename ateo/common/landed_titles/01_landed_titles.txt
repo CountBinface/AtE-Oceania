@@ -3,146 +3,415 @@
 
 
 e_melanesia = {
-	color={ 46 92 23 }
+	color={ 80 186 95 }
 	color2={ 255 255 20 }
 	
-	capital = 113 # c_shefa
-	culture = ni-vanuatu
+	capital = 136 # c_west_guadalcanal
+	culture = solomon_islander
 	
-	k_melanesia = {
-		color={ 36 102 18 }
+	k_solomon_islands = {
+		color={ 70 196 90 }
 		color2={ 255 255 255 }
 		
-		capital = 113 # c_shefa
-		culture = ni-vanuatu
+		capital = 136 # c_west_guadalcanal
+		culture = solomon_islander
 		
-		d_vanuatu = {
-			color={ 16 122 8 }
+		d_central_solomons = {
+			color={ 50 216 80 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 112 province_id = 113 province_id = 114 province_id = 115 province_id = 116 province_id = 117 } }
+					any_demesne_province = { OR = { province_id = 136 province_id = 137 province_id = 138 province_id = 139 } }
 				}
 			}
-			capital = 113 # c_shefa
+			capital = 136 # c_west_guadalcanal
 			
-			c_shefa = { # 113
-				color={ 6 132 3 }
+			c_west_guadalcanal = { # 136
+				color={ 40 226 75 }
 				color2={ 255 255 255 }
 				
-				b_port_vila = {
+				b_honiara = {
 				}
-				b_port_havannah = {
+				b_kologhona = {
 				}
-				b_eton = {
+				b_visale = {
 				}
-				b_baofatu = {
+				b_rove = {
 				}
-				b_mangaliliu = {
+				b_hularu = {
 				}
-				b_nikaura = {
+				b_gold_ridge = {
 				}
-				b_valesdir = {
+				b_lambi = {
 				}
 			}
-			c_malampa = { # 114
-				color={ 100 160 34 }
+			c_east_guadalcanal = { # 137
+				color={ 23 88 47 }
 				color2={ 255 255 255 }
 				
-				b_norsup = {
+				b_marau = {
 				}
-				b_lakatoro = {
+				b_kuma = {
 				}
-				b_lamap = {
+				b_ruavatu = {
 				}
-				b_brenwe = {
+				b_marakuru = {
 				}
-				b_endu_pahakol = {
+				b_nguvia = {
 				}
-				b_craig_cove = {
+				b_rere = {
 				}
-				b_roghumbo = {
+				b_kolohaumbi = {
 				}
 			}
-			c_penama = { # 115
-				color={ 56 239 103 }
+			c_isabel = { # 139
+				color={ 66 198 75 }
 				color2={ 255 255 255 }
 				
-				b_saratamata = {
+				b_buala = {
 				}
-				b_longana = {
+				b_sigana = {
 				}
-				b_bunlap = {
+				b_japuana = {
 				}
-				b_loltong = {
+				b_hovikoilo = {
 				}
-				b_baitora = {
+				b_kia = {
 				}
-				b_abwatunbuliva = {
+				b_susubona = {
 				}
-				b_lonorore = {
+				b_samasodu = {
 				}
 			}
-			c_sanma = { # 116
-				color={ 12 81 9 }
+			c_sentrol = { # 138
+				color={ 66 144 63 }
 				color2={ 255 255 255 }
 				
-				b_luganville = {
+				b_tulagi = {
 				}
-				b_port_olry = {
+				b_yandina = {
 				}
-				b_hog_harbour = {
+				b_reko = {
 				}
-				b_longtal = {
+				b_boromoli = {
 				}
-				b_abnetare = {
+				b_alialia = {
 				}
-				b_butmas = {
+				b_siota = {
 				}
-				b_lorevilko = {
-				}
-			}
-			c_tafea = { # 112
-				color={ 2 103 47 }
-				color2={ 255 255 255 }
-				
-				b_isangel = {
-				}
-				b_sulphur_bay = {
-				}
-				b_lenakel = {
-				}
-				b_ipota = {
-				}
-				b_whitesands = {
-				}
-				b_ipikil = {
-				}
-				b_yenarpon = {
-				}
-			}
-			c_torba = { # 117
-				color={ 91 226 0 }
-				color2={ 255 255 255 }
-				
-				b_sola = {
-				}
-				b_avire = {
-				}
-				b_veverao = {
-				}
-				b_ablow = {
-				}
-				b_yogwye = {
-				}
-				b_metoma = {
-				}
-				b_divers_bay = {
+				b_kusini = {
 				}
 			}
 		}
+		d_bougainville = {
+			color={ 14 248 118 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 144 province_id = 145 province_id = 146 province_id = 147 } }
+				}
+			}
+			capital = 146 # c_arawa
+			
+			c_arawa = { # 146
+				color={ 4 2 113 }
+				color2={ 255 255 255 }
+				
+				b_arawa = {
+				}
+				b_kieta = {
+				}
+				b_wakunai = {
+				}
+				b_panguna = {
+				}
+				b_aropa = {
+				}
+				b_vito = {
+				}
+				b_ibu = {
+				}
+			}
+			c_buin = { # 144
+				color={ 4 34 75 }
+				color2={ 255 255 255 }
+				
+				b_buin = {
+				}
+				b_orava = {
+				}
+				b_toumoa = {
+				}
+				b_aku = {
+				}
+				b_kamaleai = {
+				}
+				b_tabago = {
+				}
+				b_bogisago = {
+				}
+			}
+			c_buka = { # 147
+				color={ 0 47 148 }
+				color2={ 255 255 255 }
+				
+				b_buka = {
+				}
+				b_tinputz = {
+				}
+				b_puto = {
+				}
+				b_lontis = {
+				}
+				b_hanahan = {
+				}
+				b_amun = {
+				}
+				b_siara = {
+				}
+			}
+			c_torokina = { # 145
+				color={ 9 7 155 }
+				color2={ 255 255 255 }
+				
+				b_torokina = {
+				}
+				b_boku = {
+				}
+				b_taruba = {
+				}
+				b_tsito = {
+				}
+				b_jaba = {
+				}
+				b_konga = {
+				}
+				b_atsilima = {
+				}
+			}
+		}
+		d_east_solomons = {
+			color={ 50 207 105 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 131 province_id = 132 province_id = 135 } }
+				}
+			}
+			capital = 132 # c_makira_ulawa
+			
+			c_makira_ulawa = { # 132
+				color={ 40 217 100 }
+				color2={ 255 255 255 }
+				
+				b_kirakira = {
+				}
+				b_ngorangora = {
+				}
+				b_oneibia = {
+				}
+				b_namuga = {
+				}
+				b_suena = {
+				}
+				b_wainaworasi = {
+				}
+				b_manewaro = {
+				}
+			}
+			c_rennell = { # 135
+				color={ 38 176 70 }
+				color2={ 255 255 255 }
+				
+				b_tigoa = {
+				}
+				b_matahenua = {
+				}
+				b_hutuna = {
+				}
+				b_hatagua = {
+				}
+				b_niupani = {
+				}
+				b_tebaitahe = {
+				}
+				b_gongona = {
+				}
+			}
+			c_temotu = { # 131
+				color={ 3 122 91 }
+				color2={ 255 255 255 }
+				
+				b_lata = {
+				}
+				b_tuo = {
+				}
+				b_nama_2 = {
+				}
+				b_numbuko = {
+				}
+				b_noka = {
+				}
+				b_avita = {
+				}
+				b_apakho = {
+				}
+			}
+		}
+		d_malaita = {
+			color={ 18 153 99 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 133 province_id = 134 } }
+				}
+			}
+			capital = 134 # c_north_malaita
+			
+			c_north_malaita = { # 134
+				color={ 8 163 94 }
+				color2={ 255 255 255 }
+				
+				b_auki = {
+				}
+				b_maluu = {
+				}
+				b_uruuru = {
+				}
+				b_dingo_dingo = {
+				}
+				b_kwailibesi = {
+				}
+				b_bina = {
+				}
+				b_atoifi = {
+				}
+			}
+			c_south_malaita = { # 133
+				color={ 6 109 72 }
+				color2={ 255 255 255 }
+				
+				b_kwanekwa = {
+				}
+				b_poporo = {
+				}
+				b_rokera = {
+				}
+				b_palasuu = {
+				}
+				b_maka = {
+				}
+				b_saa = {
+				}
+				b_olomburi = {
+				}
+			}
+		}
+		d_west_solomons = {
+			color={ 31 169 61 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 140 province_id = 141 province_id = 142 province_id = 143 } }
+				}
+			}
+			capital = 141 # c_gizo
+			
+			c_gizo = { # 141
+				color={ 21 179 56 }
+				color2={ 255 255 255 }
+				
+				b_gizo = {
+				}
+				b_kunji = {
+				}
+				b_pienuna = {
+				}
+				b_barakoma = {
+				}
+				b_keara = {
+				}
+				b_karakara = {
+				}
+				b_kumbolia = {
+				}
+			}
+			c_choiseul = { # 142
+				color={ 37 135 71 }
+				color2={ 255 255 255 }
+				
+				b_taro_island = {
+				}
+				b_kumbanikesa = {
+				}
+				b_nukiki = {
+				}
+				b_posarae = {
+				}
+				b_tangibangara = {
+				}
+				b_kutakana = {
+				}
+				b_vagara = {
+				}
+			}
+			c_new_georgia = { # 140
+				color={ 25 201 110 }
+				color2={ 255 255 255 }
+				
+				b_munda = {
+				}
+				b_mbareho = {
+				}
+				b_au = {
+				}
+				b_hapai = {
+				}
+				b_mbuini_tusu = {
+				}
+				b_eghelo = {
+				}
+				b_tetemara = {
+				}
+			}
+			c_ontong_java = { # 143
+				color={ 0 160 148 }
+				color2={ 255 255 255 }
+				
+				b_luaniua = {
+				}
+				b_pelau = {
+				}
+				b_nukumanu = {
+				}
+				b_nukutoa = {
+				}
+				b_keila = {
+				}
+				b_kepae = {
+				}
+				b_kehango = {
+				}
+			}
+		}
+	}
+	k_melanesia = {
+		color={ 121 240 202 }
+		color2={ 255 255 255 }
+		
+		capital = 120 # c_noumea
+		culture = kanadonien
+		
 		d_caledonia = {
 			color={ 101 4 192 }
 			color2={ 255 255 255 }
@@ -270,6 +539,133 @@ e_melanesia = {
 				}
 			}
 		}
+		d_vanuatu = {
+			color={ 16 122 8 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 112 province_id = 113 province_id = 114 province_id = 115 province_id = 116 province_id = 117 } }
+				}
+			}
+			capital = 113 # c_shefa
+			
+			c_shefa = { # 113
+				color={ 6 132 3 }
+				color2={ 255 255 255 }
+				
+				b_port_vila = {
+				}
+				b_port_havannah = {
+				}
+				b_eton = {
+				}
+				b_baofatu = {
+				}
+				b_mangaliliu = {
+				}
+				b_nikaura = {
+				}
+				b_valesdir = {
+				}
+			}
+			c_malampa = { # 114
+				color={ 100 160 34 }
+				color2={ 255 255 255 }
+				
+				b_norsup = {
+				}
+				b_lakatoro = {
+				}
+				b_lamap = {
+				}
+				b_brenwe = {
+				}
+				b_endu_pahakol = {
+				}
+				b_craig_cove = {
+				}
+				b_roghumbo = {
+				}
+			}
+			c_penama = { # 115
+				color={ 56 239 103 }
+				color2={ 255 255 255 }
+				
+				b_saratamata = {
+				}
+				b_longana = {
+				}
+				b_bunlap = {
+				}
+				b_loltong = {
+				}
+				b_baitora = {
+				}
+				b_abwatunbuliva = {
+				}
+				b_lonorore = {
+				}
+			}
+			c_sanma = { # 116
+				color={ 12 81 9 }
+				color2={ 255 255 255 }
+				
+				b_luganville = {
+				}
+				b_port_olry = {
+				}
+				b_hog_harbour = {
+				}
+				b_longtal = {
+				}
+				b_abnetare = {
+				}
+				b_butmas = {
+				}
+				b_lorevilko = {
+				}
+			}
+			c_tafea = { # 112
+				color={ 2 103 47 }
+				color2={ 255 255 255 }
+				
+				b_isangel = {
+				}
+				b_sulphur_bay = {
+				}
+				b_lenakel = {
+				}
+				b_ipota = {
+				}
+				b_whitesands = {
+				}
+				b_ipikil = {
+				}
+				b_yenarpon = {
+				}
+			}
+			c_torba = { # 117
+				color={ 91 226 0 }
+				color2={ 255 255 255 }
+				
+				b_sola = {
+				}
+				b_avire = {
+				}
+				b_veverao = {
+				}
+				b_ablow = {
+				}
+				b_yogwye = {
+				}
+				b_metoma = {
+				}
+				b_divers_bay = {
+				}
+			}
+		}
 	}
 }
 e_micronesia = {
@@ -286,14 +682,14 @@ e_micronesia = {
 		capital = 42 # c_chuuk
 		culture = micronesian
 		
-		d_micronesia = {
+		d_chuuk_pohnpei = {
 			color={ 254 180 209 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 province_id = 42 province_id = 43 province_id = 44 } }
+					any_demesne_province = { OR = { province_id = 39 province_id = 40 province_id = 41 province_id = 42 } }
 				}
 			}
 			capital = 42 # c_chuuk
@@ -374,44 +770,6 @@ e_micronesia = {
 				b_sapwuahfik = {
 				}
 			}
-			c_woleai = { # 43
-				color={ 7 214 237 }
-				color2={ 255 255 255 }
-				
-				b_woleai = {
-				}
-				b_ifalik = {
-				}
-				b_satawal = {
-				}
-				b_lamotrek = {
-				}
-				b_faraulep = {
-				}
-				b_eauripik = {
-				}
-				b_elato = {
-				}
-			}
-			c_yap = { # 44
-				color={ 13 137 255 }
-				color2={ 255 255 255 }
-				
-				b_colonia = {
-				}
-				b_tomil = {
-				}
-				b_gagil = {
-				}
-				b_ulithi = {
-				}
-				b_maap = {
-				}
-				b_ngoof = {
-				}
-				b_wanyaan = {
-				}
-			}
 		}
 		d_mariana_islands = {
 			color={ 19 11 67 }
@@ -483,14 +841,14 @@ e_micronesia = {
 				}
 			}
 		}
-		d_palau = {
+		d_palau_yap = {
 			color={ 17 58 232 }
 			color2={ 255 255 255 }
 			
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 48 } }
+					any_demesne_province = { OR = { province_id = 43 province_id = 44 province_id = 48 } }
 				}
 			}
 			capital = 48 # c_palau
@@ -514,6 +872,44 @@ e_micronesia = {
 				b_ngchemiangel = {
 				}
 			}
+			c_woleai = { # 43
+				color={ 7 214 237 }
+				color2={ 255 255 255 }
+				
+				b_woleai = {
+				}
+				b_ifalik = {
+				}
+				b_satawal = {
+				}
+				b_lamotrek = {
+				}
+				b_faraulep = {
+				}
+				b_eauripik = {
+				}
+				b_elato = {
+				}
+			}
+			c_yap = { # 44
+				color={ 13 137 255 }
+				color2={ 255 255 255 }
+				
+				b_colonia = {
+				}
+				b_tomil = {
+				}
+				b_gagil = {
+				}
+				b_ulithi = {
+				}
+				b_maap = {
+				}
+				b_ngoof = {
+				}
+				b_wanyaan = {
+				}
+			}
 		}
 	}
 	k_gilbert_marshalls = {
@@ -530,7 +926,7 @@ e_micronesia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 } }
+					any_demesne_province = { OR = { province_id = 29 province_id = 30 province_id = 31 province_id = 32 } }
 				}
 			}
 			capital = 31 # c_northern_tungaru
@@ -571,6 +967,25 @@ e_micronesia = {
 				b_tabontebike = {
 				}
 				b_temaraira = {
+				}
+			}
+			c_nauru = { # 32
+				color={ 20 7 69 }
+				color2={ 255 255 255 }
+				
+				b_denigomodu = {
+				}
+				b_meneng = {
+				}
+				b_aiwo = {
+				}
+				b_boe = {
+				}
+				b_yaren = {
+				}
+				b_buada = {
+				}
+				b_anetan = {
 				}
 			}
 			c_southern_tungaru = { # 29
@@ -720,38 +1135,6 @@ e_micronesia = {
 				}
 			}
 		}
-		d_nauru = {
-			color={ 30 253 74 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 32 } }
-				}
-			}
-			capital = 32 # c_nauru
-			
-			c_nauru = { # 32
-				color={ 20 7 69 }
-				color2={ 255 255 255 }
-				
-				b_denigomodu = {
-				}
-				b_meneng = {
-				}
-				b_aiwo = {
-				}
-				b_boe = {
-				}
-				b_yaren = {
-				}
-				b_buada = {
-				}
-				b_anetan = {
-				}
-			}
-		}
 	}
 }
 e_polynesia = {
@@ -775,7 +1158,7 @@ e_polynesia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 7 province_id = 8 province_id = 9 province_id = 10 } }
+					any_demesne_province = { OR = { province_id = 6 province_id = 8 province_id = 9 province_id = 10 } }
 				}
 			}
 			capital = 10 # c_tongatapu
@@ -818,23 +1201,23 @@ e_polynesia = {
 				b_tungua = {
 				}
 			}
-			c_niua = { # 7
-				color={ 233 94 122 }
+			c_niue = { # 6
+				color={ 248 204 40 }
 				color2={ 255 255 255 }
 				
-				b_hihifo = {
+				b_alofi = {
 				}
-				b_sapaata = {
+				b_hakupu = {
 				}
-				b_vaipoa = {
+				b_tamakautoga = {
 				}
-				b_tongamamao = {
+				b_avatele = {
 				}
-				b_falehau = {
+				b_vaiea = {
 				}
-				b_mataaho = {
+				b_tuapa = {
 				}
-				b_tafahi = {
+				b_mutalau = {
 				}
 			}
 			c_vavau = { # 8
@@ -854,38 +1237,6 @@ e_polynesia = {
 				b_tefisi = {
 				}
 				b_holonga = {
-				}
-			}
-		}
-		d_niue = {
-			color={ 238 214 35 }
-			color2={ 255 255 255 }
-			
-			allow = {
-				OR = {
-					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 6 } }
-				}
-			}
-			capital = 6 # c_niue
-			
-			c_niue = { # 6
-				color={ 248 204 40 }
-				color2={ 255 255 255 }
-				
-				b_alofi = {
-				}
-				b_hakupu = {
-				}
-				b_tamakautoga = {
-				}
-				b_avatele = {
-				}
-				b_vaiea = {
-				}
-				b_tuapa = {
-				}
-				b_mutalau = {
 				}
 			}
 		}
@@ -1074,7 +1425,7 @@ e_polynesia = {
 			allow = {
 				OR = {
 					lower_tier_than = KING
-					any_demesne_province = { OR = { province_id = 11 province_id = 12 } }
+					any_demesne_province = { OR = { province_id = 7 province_id = 11 province_id = 12 } }
 				}
 			}
 			capital = 11 # c_uvea
@@ -1115,6 +1466,25 @@ e_polynesia = {
 				b_alofi_2 = {
 				}
 				b_poi = {
+				}
+			}
+			c_niua = { # 7
+				color={ 233 94 122 }
+				color2={ 255 255 255 }
+				
+				b_hihifo = {
+				}
+				b_sapaata = {
+				}
+				b_vaipoa = {
+				}
+				b_tongamamao = {
+				}
+				b_falehau = {
+				}
+				b_mataaho = {
+				}
+				b_tafahi = {
 				}
 			}
 		}

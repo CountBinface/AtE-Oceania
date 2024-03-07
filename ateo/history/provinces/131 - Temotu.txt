@@ -1,0 +1,21 @@
+# c_temotu
+
+# County Title
+title = c_temotu
+
+# Settlements
+max_settlements = 3
+
+b_lata = tribal
+#b_tuo = city
+#b_nama_2 = temple
+#b_numbuko = castle
+#b_noka = city
+#b_avita = temple
+#b_apakho = castle
+
+# Misc
+culture = solomon_islander
+religion = john_frum_cultist
+
+#History

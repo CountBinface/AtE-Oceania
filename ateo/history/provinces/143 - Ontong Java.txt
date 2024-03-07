@@ -1,0 +1,21 @@
+# c_ontong_java
+
+# County Title
+title = c_ontong_java
+
+# Settlements
+max_settlements = 1
+
+b_luaniua = tribal
+#b_pelau = city
+#b_nukumanu = temple
+#b_nukutoa = castle
+#b_keila = city
+#b_kepae = temple
+#b_kehango = castle
+
+# Misc
+culture = samoan
+religion = anglican
+
+#History

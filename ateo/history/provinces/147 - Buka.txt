@@ -1,0 +1,21 @@
+# c_buka
+
+# County Title
+title = c_buka
+
+# Settlements
+max_settlements = 4
+
+b_buka = tribal
+b_tinputz = temple
+#b_puto = temple
+#b_lontis = castle
+#b_hanahan = city
+#b_amun = temple
+#b_siara = castle
+
+# Misc
+culture = bougainvillean
+religion = katoliko
+
+#History

@@ -50,14 +50,14 @@ greater_micronesian = {
 		prefix = no # The patronym is added as a suffix
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
-		pat_grf_name_chance = 30
-		mat_grf_name_chance = 15
-		father_name_chance = 20
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 30
+		father_name_chance = 10
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
-		pat_grm_name_chance = 30
-		mat_grm_name_chance = 15
-		mother_name_chance = 20
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 30
+		mother_name_chance = 30
 		
 		seafarer = yes
 		modifier = default_culture_modifier
@@ -185,6 +185,7 @@ greater_micronesian = {
 		male_names = {
 			Albert_Albert Alex_Alexander Anthony_Anthony
 			Bruce
+			Carlos_Charles
 			David_David
 			Edward_Edward
 			Francis_Francis
@@ -226,13 +227,13 @@ greater_micronesian = {
 		
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 20
-		mat_grf_name_chance = 15
-		father_name_chance = 15
+		mat_grf_name_chance = 30
+		father_name_chance = 10
 		
 		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
 		pat_grm_name_chance = 20
-		mat_grm_name_chance = 15
-		mother_name_chance = 15
+		mat_grm_name_chance = 30
+		mother_name_chance = 30
 		
 		seafarer = yes
 		modifier = default_culture_modifier
@@ -241,6 +242,70 @@ greater_micronesian = {
 
 melanesian = {
 	graphical_cultures = { muslimgfx }
+	
+	bougainvillean= {
+		graphical_cultures = { africangfx westafricangfx }
+		unit_graphical_cultures = { westerngfx }
+
+		color = { 0.15 0.15 0.65 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Albert_Albert Alex_Alexander Andrew_Andrew
+			Ben_Benjamin Bernard_Bernard Bruno
+			Daniel_Daniel David_David Dominic_Dominic
+			Francis_Francis
+			George_George
+			Henry_Henry
+			Ian
+			Jack_Jack Jacob_Jacob Joel_Joel John_John Joseph_Joseph Joshua_Joshua
+			Kevin_Kevin
+			Lawrence_Lawrence Leo_Leo Levi_Levi Luke_Luke
+			Mark_Mark Martin_Martin Mathew_Matthew Mathias_Matthias Michael_Michael Moses_Moses
+			Nelson
+			Otto_Otto
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip
+			Raymond_Raymond Robert_Robert Robin_Robin Roman_Roman
+			Sam_Samuel Samson Silas Simon_Simon Solomon_solomon Steven_Stephen
+			Thomas_Thomas Timothy_Timothy Tony_Anthony
+			William_William
+		}
+		female_names = {
+			Agatha_Agatha Agnes_Agnes Angela_Angela Anna_Anna
+			Betty_Beatrice
+			Cathy_Catherine Christine_Christina
+			Dorothy_Dorothy
+			Elizabeth_Elizabeth Esther_Esther
+			Francisca_Francesca
+			Grace
+			Helen_Helen
+			Janet_Janet Jenny_Jennifer Josephine_Josephine Joyce_Joyce Julie_Julia
+			Lina Lucy_Lucy
+			Maria_Mary Martha_Martha Miriam_Miriam Monica_Monica
+			Nancy_Nancy
+			Regina_Regina Rose_Rose Ruth_Ruth
+			Susan_Susan
+			Veronica_Veronica
+		}
+
+		from_dynasty_prefix = ""
+	
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
 	
 	kanadonien = {
 		graphical_cultures = { arabicgfx muslimgfx }
@@ -307,7 +372,7 @@ melanesian = {
 	}
 	
 	ni-vanuatu = {
-		graphical_cultures = { arabicgfx muslimgfx }
+		graphical_cultures = { africangfx westafricangfx }
 		unit_graphical_cultures = { frankishgfx westerngfx }
 
 		color = { 0.25 0.65 0.1 }
@@ -368,13 +433,77 @@ melanesian = {
 		seafarer = yes
 		modifier = default_culture_modifier
 	}
+	
+	solomon_islander= {
+		graphical_cultures = { africangfx westafricangfx }
+		unit_graphical_cultures = { westerngfx }
+
+		color = { 0.65 0.75 0 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alfred_Alfred Alick_Alexander Allen_Alan Andrew_Andrew
+			Ben_Benjamin
+			Charles_Charles Chris_Christopher Clement_Clement
+			Daniel_Daniel David_David
+			Eddie_Edward
+			Francis_Francis Fred_Frederick
+			Gabriel_Gabriel George_George
+			Henry_Henry
+			Jack_Jack James_James John_John Joseph_Joseph Junior_Junior
+			Lawrence_Lawrence
+			Mark_Mark Martin_Martin Mathew_Matthew Michael_Michael Moses_Moses
+			Nelson Nester_Nestor
+			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip
+			Rex Richard_Richard Robert_Robert
+			Samuel_Samuel Samson Silas Simon_Simon Stanley_Stanley Stephen_Stephen
+			Thomas_Thomas Timothy_Timothy
+			Walter_Walter William_William Wilson
+		}
+		female_names = {
+			Agnes_Agnes Alice_Alice Anna_Anna
+			Betty_Beatrice
+			Cathrine_Catherine Christina_Christina
+			Dorothy_Dorothy
+			Elizabeth_Elizabeth Emily_Emily Esther_Esther Ethel_Ethel Everlyn_Evelyn
+			Florence_Florence Freda
+			Grace
+			Hellen_Helen Hilda
+			Janet_Janet Jenny_Jennifer Joana_Joan Joycelyn_Jocelyn Joy_Joy Joyce_Joyce Judith_Judith
+			Lilian_Lilian Lucy_Lucy
+			Margaret_Margaret Mary_Mary Mirriam_Miriam Monica_Monica
+			Nancy_Nancy
+			Rachel_Rachel Rebecca_Rebecca Rose_Rose Roselyn_Roselyn Ruth_Ruth
+			Salome_Salome Serah_Sarah Selina_Selina Susan_Susan
+			Veronica_Veronica
+			Wendy
+		}
+
+		from_dynasty_prefix = "blo "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
 }
 
 polynesian = {
 	graphical_cultures = { muslimgfx }
 	
 	itaukei = {
-		graphical_cultures = { arabicgfx muslimgfx}
+		graphical_cultures = { africangfx westafricangfx}
 		unit_graphical_cultures = { westerngfx }
 
 		color = { 0.05 0.29 0.6 }
@@ -406,7 +535,7 @@ polynesian = {
 			Ilisapeci_Elizabeth Isabela_Isabella
 			Joana_Joan Josivini_Josephine
 			Karalaini_Caroline Katarina_Catherine Kelera
-			Lagi Lani Laisa Lavenia_Lavinia Leona_Leona Liliana_Lillian Litia_Lydia Losalini_Rosaline Luisa_Louisa Luse_Lucy
+			Lagi Lani Laisa Lavenia_Lavinia Leona_Leona Liliana_Lilian Litia_Lydia Losalini_Rosaline Luisa_Louisa Luse_Lucy
 			Makelesi_Makaleti Marica Matila_Matilda Mere_Mary Mereana_Marianne
 			Nanise_Nancy Naomi_Naiomi Nikola_Nicole
 			Olivia_Olivia
@@ -443,13 +572,13 @@ polynesian = {
 
 		male_names = {
 			Aneteru_Andrew Alama_Alema Aleki_Alexander Aputi Arona_Aaron Atamu_Adam
-			Efaraima_Ephraim Elia_Elijah Elisala Enele Esela Eteuati Eti
+			Efaraima_Ephraim Elia_Elijah Elisala Enele Esela Eteuati_Edward
 			Fala Farani_Francis Fereti_Frederick Fetu Filipo_Philip Fonoti
 			Haych Henare_Henry
 			Iakopo_Jacob Ieremia_Jeremiah Ioane_John Ioelu_Joel Ionatana_Jonathan Iopu_Job Iosefa_Joseph Iosua_Joshua Isaako_Isaac Isaia_Isaiah
 			Kiuga_Junior
 			Lafaele Laki Lemuelu_Lemuel Loto
-			Maika Malakai_Malachi Manaia Manu_Manuel Mikaele_Michael Mosaia_Mosiah Mose_Moses
+			Malakai_Malachi Manaia Manu_Manuel Mikaele_Michael Mosaia_Mosiah Mose_Moses
 			Niko_Nicholas Noa_Noah
 			Pati Paulo_Paul Peni_Benjamin Peniamina_Benjamin Petelo_Peter Poasa
 			Ropati_Robert
@@ -469,7 +598,7 @@ polynesian = {
 			Penina_Penina Pepe Petesa Pua
 			Rosa_Rose Ruta_Ruth
 			Sala Salome_Salome Samaria Sarai_Sarah Sefina_Josephine Sera_Sarah Sia Sieni_Jane Sina Sosina Susana_Susan
-			Talia_Thalia Tamah_Tamara Tepora_Deborah Teuila
+			Talia_Thalia Tamah_Tamara Tepora_Deborah
 			Velonika_Veronica Vikolia_Victoria
 		}
 

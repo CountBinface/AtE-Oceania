@@ -1,0 +1,21 @@
+# c_makira_ulawa
+
+# County Title
+title = c_makira_ulawa
+
+# Settlements
+max_settlements = 4
+
+b_kirakira = tribal
+b_ngorangora = temple
+#b_oneibia = temple
+#b_namuga = castle
+#b_suena = city
+#b_wainaworasi = temple
+#b_manewaro = castle
+
+# Misc
+culture = solomon_islander
+religion = john_frum_cultist
+
+#History

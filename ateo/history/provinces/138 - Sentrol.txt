@@ -1,0 +1,21 @@
+# c_sentrol
+
+# County Title
+title = c_sentrol
+
+# Settlements
+max_settlements = 3
+
+b_tulagi = castle
+#b_yandina = city
+#b_reko = temple
+#b_boromoli = castle
+#b_alialia = city
+#b_siota = temple
+#b_kusini = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

@@ -506,7 +506,7 @@
 	2660.1.1={birth=yes}
 }
 
-32014={#High Chieftess of Palau
+32014={#Chieftess of Palau
 	name="Mary"
 	female=yes
 	dynasty=757

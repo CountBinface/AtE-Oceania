@@ -1,0 +1,21 @@
+# c_isabel
+
+# County Title
+title = c_isabel
+
+# Settlements
+max_settlements = 3
+
+b_buala = castle
+#b_sigana = city
+#b_japuana = temple
+#b_hovikoilo = castle
+#b_kia = city
+#b_susubona = temple
+#b_samasodu = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

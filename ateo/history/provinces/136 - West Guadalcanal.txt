@@ -1,0 +1,21 @@
+# c_west_guadalcanal
+
+# County Title
+title = c_west_guadalcanal
+
+# Settlements
+max_settlements = 6
+
+b_honiara = castle
+b_kologhona = city
+b_visale = temple
+b_rove = castle
+#b_hularu = city
+#b_gold_ridge = temple
+#b_lambi = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

@@ -461,7 +461,7 @@
 	2642.1.1={birth=yes}
 }
 
-11046={#King of Niue
+11046={#Chief of Niue
 	name="Peni"
 	dynasty=234
 	culture=tongan
@@ -470,7 +470,7 @@
 	2646.1.1={birth=yes}
 }
 
-11047={#former King of Niue
+11047={#former Chief of Niue
 	name="Maikolo"
 	dynasty=234
 	culture=tongan
@@ -480,7 +480,7 @@
 	2664.1.1={death=yes}
 }
 
-11048={#former King of Niue
+11048={#former Chief of Niue
 	name="Viliami"
 	dynasty=234
 	culture=tongan
@@ -641,44 +641,47 @@
 	2639.1.1={employer=12011}
 }
 
-11063={#Count of Futuna
-	name="Aneteru"
+11063={#former Count of Futuna
+	name="Niko"
 	dynasty=160
 	culture=samoan
 	religion=franco-catholique
-	2621.1.1={birth=yes}
-	2637.1.1={add_spouse=21007}
+	2610.1.1={birth=yes}
+	2628.1.1={add_spouse=21003}
+	2663.1.1={death=yes}
 }
 
-11064={#son of Aneteru
-	name="Mikaele"
-	dynasty=160
-	culture=samoan
-	religion=franco-catholique
-	father=11063
-	mother=21007
-	2646.1.1={birth=yes}
-}
-
-11065={#son of Aneteru
-	name="Ioelu"
-	dynasty=160
-	culture=samoan
-	religion=franco-catholique
-	father=11063
-	mother=21007
-	2648.1.1={birth=yes}
-}
-
-11066={#daughter of Aneteru
-	name="Alofa"
+11064={#Countess of Futuna
+	name="Salome"
 	female=yes
 	dynasty=160
 	culture=samoan
 	religion=franco-catholique
 	father=11063
-	mother=21007
-	2651.1.1={birth=yes}
+	mother=21003
+	2631.1.1={birth=yes}
+}
+
+11065={#daughter of Niko
+	name="Naomi"
+	female=yes
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	father=11063
+	mother=21003
+	2635.1.1={birth=yes}
+}
+
+11066={#daughter of Naomi
+	name="Lusia"
+	female=yes
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	trait=bastard
+	mother=11065
+	2664.1.1={birth=yes}
 }
 
 11067={#Countess of 'Uvea
@@ -776,6 +779,35 @@
 	father=11073
 	mother=11074
 	2664.1.1={birth=yes}
+}
+	
+11077={#daughter of Salome
+	name="Iulia"
+	female=yes
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	mother=11064
+	2658.1.1={birth=yes}
+}
+
+11078={#son of Salome
+	name="Eteuati"
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	mother=11064
+	2661.1.1={birth=yes}
+}
+
+11079={#daughter of Salome
+	name="Eva"
+	female=yes
+	dynasty=160
+	culture=samoan
+	religion=franco-catholique
+	mother=11064
+	2663.1.1={birth=yes}
 }
 
 12001={#historical King of Fiji

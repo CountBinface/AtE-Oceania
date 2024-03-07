@@ -1,3 +1,30 @@
+d_anglican = {
+	color={ 153 166 204 }
+	color2={ 255 255 255 }
+	
+	capital = 136 # West Guadalcanal
+	
+	title = "MAJOR_ARCHBISHOP"
+	foa = "ARCHBISHOP_FOA"
+	
+	short_name = yes
+
+	# Always exists
+	landless = yes
+	
+	# Controls a religion
+	controls_religion = anglican
+	
+	religion = anglican
+	
+	culture = solomon_islander
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+}
+
 d_franco-catholique = {
 	color={ 71 3 121 }
 	color2={ 255 255 255 }

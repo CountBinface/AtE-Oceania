@@ -1,0 +1,21 @@
+# c_north_malaita
+
+# County Title
+title = c_north_malaita
+
+# Settlements
+max_settlements = 5
+
+b_auki = castle
+b_maluu = city
+b_uruuru = temple
+#b_dingo_dingo = castle
+#b_kwailibesi = city
+#b_bina = temple
+#b_atoifi = castle
+
+# Misc
+culture = solomon_islander
+religion = congregational
+
+#History

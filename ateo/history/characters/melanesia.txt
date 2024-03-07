@@ -30,7 +30,7 @@
 	father=21001
 	mother=21002
 	2612.1.1={birth=yes}
-	2628.1.1={add_spouse=21042}
+	2628.1.1={add_spouse=11063}
 }
 
 21004={#daughter of Michel
@@ -85,7 +85,7 @@
 	father=21001
 	mother=21002
 	2621.1.1={birth=yes}
-	2637.1.1={add_spouse=11063}
+	2637.1.1={add_spouse=21042}
 }
 
 21008={#son of Franck
@@ -297,37 +297,49 @@
 21023={#Count of Poindimie
 	name="Paul"
 	dynasty=1110
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
 	father=21025
-	2643.1.1={birth=yes}
+	2643.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21024={#daughter of Laurent
 	name="Alice"
 	female=yes
 	dynasty=1110
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
 	father=21025
-	2645.1.1={birth=yes}
+	2645.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21025={#former Count of Poindimie
 	name="Laurent"
 	dynasty=1110
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
-	2617.1.1={birth=yes}
+	2617.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2663.1.1={death=yes}
 }
 
 21026={#Count of Loyalty Islands
 	name="Claude"
 	dynasty=1101
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
-	2615.1.1={birth=yes}
+	2615.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2634.1.1={add_spouse=21030}
 }
 
@@ -335,42 +347,54 @@
 	name="Caroline"
 	female=yes
 	dynasty=1101
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
 	father=21026
 	mother=21030
-	2639.1.1={birth=yes}
+	2639.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21028={#daughter of Claude
 	name="Aurelie"
 	female=yes
 	dynasty=1101
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
 	father=21026
 	mother=21030
-	2641.1.1={birth=yes}
+	2641.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 }
 
 21029={#daughter of Claude
 	name="Sylvie"
 	female=yes
 	dynasty=1101
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
 	father=21026
 	mother=21030
-	2644.1.1={birth=yes}
+	2644.1.1={
+		birth=yes
+		culture=ni-vanuatu
+	}
 }
 
 21030={#wife of Claude
 	name="Monique"
 	female=yes
 	dynasty=0
-	culture=kanadonien
+	culture=ni-vanuatu
 	religion=franco-catholique
-	2618.1.1={birth=yes}
+	2618.1.1={
+		birth=yes
+		culture=kanadonien
+	}
 	2634.1.1={add_spouse=21026}
 }
 
@@ -483,76 +507,44 @@
 	2641.1.1={add_spouse=21058}
 }
 
-21042={#former Count of Sanma
-	name="Ian"
+21042={#Count of Sanma
+	name="Andrew"
 	dynasty=1001
 	culture=ni-vanuatu
 	religion=john_frum_cultist
-	2610.1.1={birth=yes}
-	2628.1.1={add_spouse=21003}
-	2663.1.1={death=yes}
+	2621.1.1={birth=yes}
+	2637.1.1={add_spouse=21007}
 }
 
-21043={#Countess of Sanma
-	name="Samantha"
+21043={#son of Andrew
+	name="Michael"
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21042
+	mother=21007
+	2646.1.1={birth=yes}
+}
+
+21044={#son of Andrew
+	name="Joshua"
+	dynasty=1001
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21042
+	mother=21007
+	2648.1.1={birth=yes}
+}
+
+21045={#daughter of Andrew
+	name="Shirley"
 	female=yes
 	dynasty=1001
 	culture=ni-vanuatu
 	religion=john_frum_cultist
 	father=21042
-	mother=21003
-	2631.1.1={birth=yes}
-}
-
-21044={#daughter of Ian
-	name="Nancy"
-	female=yes
-	dynasty=1001
-	culture=ni-vanuatu
-	religion=john_frum_cultist
-	father=21042
-	mother=21003
-	2635.1.1={birth=yes}
-}
-
-21045={#daughter of Samantha
-	name="Julie"
-	female=yes
-	dynasty=1001
-	culture=ni-vanuatu
-	religion=john_frum_cultist
-	mother=21043
-	2658.1.1={birth=yes}
-}
-
-21046={#son of Samantha
-	name="Edward"
-	dynasty=1001
-	culture=ni-vanuatu
-	religion=john_frum_cultist
-	mother=21043
-	2661.1.1={birth=yes}
-}
-
-21047={#daughter of Samantha
-	name="Grace"
-	female=yes
-	dynasty=1001
-	culture=ni-vanuatu
-	religion=john_frum_cultist
-	mother=21043
-	2663.1.1={birth=yes}
-}
-
-21048={#daughter of Nancy
-	name="Louise"
-	female=yes
-	dynasty=1001
-	culture=ni-vanuatu
-	religion=john_frum_cultist
-	trait=bastard
-	mother=21044
-	2664.1.1={birth=yes}
+	mother=21007
+	2651.1.1={birth=yes}
 }
 
 21049={#King of Vanuatu
@@ -686,5 +678,227 @@
 	father=21050
 	2635.1.1={birth=yes}
 }
+
+21062={#daughter of Henry II
+	name="Melissa"
+	female=yes
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21056
+	2628.1.1={birth=yes}
+	2645.1.1={add_spouse=22001}
+}
+
+21063={#daughter of Henry II
+	name="Georgina"
+	female=yes
+	dynasty=1013
+	culture=ni-vanuatu
+	religion=john_frum_cultist
+	father=21056
+	2635.1.1={birth=yes}
+	2651.1.1={add_spouse=22005}
+}
+
+22001={#Chief of Temotu
+	name="Nelson"
+	dynasty=1406
+	culture=solomon_islander
+	religion=john_frum_cultist
+	2629.1.1={birth=yes}
+	2645.1.1={add_spouse=21062}
+}
+
+22002={#daughter of Nelson
+	name="Hilda"
+	female=yes
+	dynasty=1406
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22001
+	mother=21062
+	2649.1.1={birth=yes}
+}
+
+22003={#son of Nelson
+	name="Alick"
+	dynasty=1406
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22001
+	mother=21062
+	2655.1.1={birth=yes}
+}
+
+22004={#son of Nelson
+	name="Patrick"
+	dynasty=1406
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22001
+	mother=21062
+	2659.1.1={birth=yes}
+}
+
+22005={#Chief of Makira-Ulawa
+	name="Eddie"
+	dynasty=1404
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22011
+	mother=22010
+	2635.1.1={birth=yes}
+	2651.1.1={add_spouse=21063}
+}
+
+22006={#daughter of Eddie
+	name="Anna"
+	female=yes
+	dynasty=1404
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22005
+	mother=21063
+	2656.1.1={birth=yes}
+}
+
+22007={#daughter of Eddie
+	name="Cathrine"
+	female=yes
+	dynasty=1404
+	culture=solomon_islander
+	religion=john_frum_cultist
+	father=22005
+	mother=21063
+	2660.1.1={birth=yes}
+}
+
+22008={#High Chief of Malaita
+	name="Peter"
+	dynasty=1413
+	culture=solomon_islander
+	religion=congregational
+	father=22009
+	2619.1.1={birth=yes}
+}
+
+22009={#former High Chief of Malaita
+	name="Stanley"
+	dynasty=1413
+	culture=solomon_islander
+	religion=congregational
+	2595.1.1={birth=yes}
+	2656.1.1={death=yes}
+}
+
+22010={#daughter of Peter
+	name="Freda"
+	female=yes
+	dynasty=1413
+	culture=solomon_islander
+	religion=congregational
+	father=22009
+	2616.1.1={birth=yes}
+	2632.1.1={add_spouse=22011}
+}
+
+22011={#former Chief of Makira-Ulawa
+	name="Alfred"
+	dynasty=1404
+	culture=solomon_islander
+	religion=john_frum_cultist
+	2612.1.1={birth=yes}
+	2632.1.1={add_spouse=22010}
+	2663.1.1={death=yes}
+}
+
+22012={#son of Peter
+	name="David"
+	dynasty=1413
+	culture=solomon_islander
+	religion=congregational
+	father=22008
+	2644.1.1={birth=yes}
+}
+
+22013={#son of Peter
+	name="Stanley"
+	dynasty=1413
+	culture=solomon_islander
+	religion=congregational
+	father=22008
+	2648.1.1={birth=yes}
+}
+
+22014={#Duke of Central Solomons
+	name="George"
+	dynasty=1416
+	culture=solomon_islander
+	religion=anglican
+	2626.1.1={birth=yes}
+}
+
+22015={#Count of Sentrol
+	name="Silas"
+	dynasty=1401
+	culture=solomon_islander
+	religion=anglican
+	father=22018
+	2635.1.1={birth=yes}
+}
+
+22016={#Countess of Isabel
+	name="Dorothy"
+	female=yes
+	dynasty=1407
+	culture=solomon_islander
+	religion=anglican
+	father=22017
+	2632.1.1={birth=yes}
+}
+
+22017={#former Count of Isabel
+	name="Walter"
+	dynasty=1407
+	culture=solomon_islander
+	religion=anglican
+	2605.1.1={birth=yes}
+	2659.1.1={death=yes}
+}
+
+22018={#former Count of Sentrol
+	name="Mark"
+	dynasty=1401
+	culture=solomon_islander
+	religion=anglican
+	2607.1.1={birth=yes}
+	2655.1.1={death=yes}
+}
+
+22019={#son of Mark
+	name="Lawrence"
+	dynasty=1401
+	culture=solomon_islander
+	religion=anglican
+	father=22018
+	2639.1.1={birth=yes}
+}
+
+22020={#daughter of Walter
+	name="Ethel"
+	female=yes
+	dynasty=1407
+	culture=solomon_islander
+	religion=anglican
+	father=22017
+	2634.1.1={birth=yes}
+}
+
+
+
+
+
+
 
 

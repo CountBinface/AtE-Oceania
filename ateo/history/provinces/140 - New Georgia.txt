@@ -1,0 +1,21 @@
+# c_new_georgia
+
+# County Title
+title = c_new_georgia
+
+# Settlements
+max_settlements = 3
+
+b_munda = tribal
+#b_mbareho = city
+#b_au = temple
+#b_hapai = castle
+#b_mbuini_tusu = city
+#b_eghelo = temple
+#b_tetemara = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

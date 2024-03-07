@@ -11,6 +11,8 @@ indo-fijian;Indo-Fijian;;;;;;;;;;;;;x
 melanesian;Melanesian;;;;;;;;;;;;;x
 ni-vanuatu;Ni-Vanuatu;;;;;;;;;;;;;x
 kanadonien;Kanadonien;;;;;;;;;;;;;x
+solomon_islander;Solomon Islander;;;;;;;;;;;;;x
+bougainvillean;Bougainvillean;;;;;;;;;;;;;x
 greater_micronesian;Micronesian;;;;;;;;;;;;;x
 i-kiribati;Tungaru;;;;;;;;;;;;;x
 marshallese;Marshallese;;;;;;;;;;;;;x
@@ -18,10 +20,15 @@ micronesian;Micronesian;;;;;;;;;;;;;x
 chamorro;Chamorro;;;;;;;;;;;;;x
 nihonjin;Nihonjin;;;;;;;;;;;;;x
 bonin;Bonin;;;;;;;;;;;;;x
+american;American;;;;;;;;;;;;;x
+hawaiian;Hawaiian;;;;;;;;;;;;;x
+filipino;Filipino;;;;;;;;;;;;;x
+tagalog;Tagalog;;;;;;;;;;;;;x
 
 
 #Religions
 
+anglican;Anglican;;;;;;;;;;;;;x
 franco-catholique;Franco-Catholique;;;;;;;;;;;;;x
 marist;Marist;;;;;;;;;;;;;x
 katoliko;Katoliko;;;;;;;;;;;;;x
@@ -38,6 +45,10 @@ oldworld;Old World Cultist;;;;;;;;;;;;;x
 john_frum_cultist;John Frum Cultist;;;;;;;;;;;;;x
 congregational;Congregational;;;;;;;;;;;;;x
 congregational_reformed;Congregational;;;;;;;;;;;;;x
+eastern_group;Eastern;;;;;;;;;;;;;x
+shinto;Shinto;;;;;;;;;;;;;x
+new_age;New Age;;;;;;;;;;;;;x
+cetic;Cetic;;;;;;;;;;;;;x
 
 
 

@@ -1,5 +1,11 @@
-From,To,Type,Through,-1,-1,-1,-1,Comment
-1,2,sea,13,-1,-1,-1,-1,Tutuila-Atua
-3,4,sea,13,-1,-1,-1,-1,Tuamasaga-Fa'asaleleaga
-8,9,sea,16,-1,-1,-1,-1,Vava'u-Ha'apai
-9,10,sea,16,-1,-1,-1,-1,Ha'apai-Tongatapu
+From;To;Type;Through;-1;-1;-1;-1;Comment
+1;2;sea;49;-1;-1;-1;-1;Tutuila-Atua
+3;4;sea;49;-1;-1;-1;-1;Tuamasaga-Fa'asaleleaga
+8;9;sea;52;-1;-1;-1;-1;Vava'u-Ha'apai
+9;10;sea;52;-1;-1;-1;-1;Ha'apai-Tongatapu
+14;19;sea;56;-1;-1;-1;-1;Lomaiviti-Ra
+22;24;sea;56;-1;-1;-1;-1;Nadroga-Mamanuca
+29;30;sea;64;-1;-1;-1;-1;Southern Tungaru-Central Tungaru
+30;31;sea;65;-1;-1;-1;-1;Central Tungaru-Northern Tungaru
+33;35;sea;68;-1;-1;-1;-1;Majuro-Wotje
+34;36;sea;69;-1;-1;-1;-1;Jaluit-Kwajalein

@@ -1,22 +1,26 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_bougainville;Bougainville;Bougainville;Bougainville;;Bougainville;;;;;;;;;x
+d_bougainville_adj;Bougainvillean;;bougainviller;;;;;;;;;;;x
 d_caledonia;Caledonia;Caledonia;Caledonia;;Caledonia;;;;;;;;;x
 d_caledonia_adj;Caledonian;;caledoner;;;;;;;;;;;x
+d_central_solomons;Central Solomons;Central Solomons;Central Solomons;;Central Solomons;;;;;;;;;x
+d_central_solomons_adj;Central Solomonsian;;Central Solomonser;;;;;;;;;;;x
+d_chuuk_pohnpei;Chuuk-Pohnpei;Chuuk-Pohnpei;Chuuk-Pohnpei;;Chuuk-Pohnpei;;;;;;;;;x
+d_chuuk_pohnpei_adj;Chuuk-Pohnpian;;chuuk-pohnper;;;;;;;;;;;x
+d_east_solomons;East Solomons;East Solomons;East Solomons;;East Solomons;;;;;;;;;x
+d_east_solomons_adj;East Solomonsian;;East Solomonser;;;;;;;;;;;x
 d_koro;Koro;Koro;Koro;;Koro;;;;;;;;;x
 d_koro_adj;Korian;;korer;;;;;;;;;;;x
+d_malaita;Malaita;Malaita;Malaita;;Malaita;;;;;;;;;x
+d_malaita_adj;Malaitan;;malaiter;;;;;;;;;;;x
 d_mariana_islands;Mariana Islands;Mariana Islands;Mariana Islands;;Mariana Islands;;;;;;;;;x
 d_mariana_islands_adj;Mariana Islandsian;;Mariana Islandser;;;;;;;;;;;x
 d_marshall_islands;Marshall Islands;Marshall Islands;Marshall Islands;;Marshall Islands;;;;;;;;;x
 d_marshall_islands_adj;Marshall Islandsian;;Marshall Islandser;;;;;;;;;;;x
-d_micronesia;Micronesia;Micronesia;Micronesia;;Micronesia;;;;;;;;;x
-d_micronesia_adj;Micronesian;;microneser;;;;;;;;;;;x
-d_nauru;Nauru;Nauru;Nauru;;Nauru;;;;;;;;;x
-d_nauru_adj;Naurian;;naurer;;;;;;;;;;;x
-d_niue;Niue;Niue;Niue;;Niue;;;;;;;;;x
-d_niue_adj;Niuean;;ner;;;;;;;;;;;x
 d_north_polynesia;North Polynesia;North Polynesia;North Polynesia;;North Polynesia;;;;;;;;;x
 d_north_polynesia_adj;North Polynesian;;North Polyneser;;;;;;;;;;;x
-d_palau;Palau;Palau;Palau;;Palau;;;;;;;;;x
-d_palau_adj;Palian;;paler;;;;;;;;;;;x
+d_palau_yap;Palau-Yap;Palau-Yap;Palau-Yap;;Palau-Yap;;;;;;;;;x
+d_palau_yap_adj;Palau-Yapian;;palau-yaper;;;;;;;;;;;x
 d_samoa;Samoa;Samoa;Samoa;;Samoa;;;;;;;;;x
 d_samoa_adj;Samoan;;samer;;;;;;;;;;;x
 d_tonga;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x
@@ -31,3 +35,5 @@ d_vanuatu;Vanuatu;Vanuatu;Vanuatu;;Vanuatu;;;;;;;;;x
 d_vanuatu_adj;Vanuatian;;vanuater;;;;;;;;;;;x
 d_viti_levu;Viti Levu;Viti Levu;Viti Levu;;Viti Levu;;;;;;;;;x
 d_viti_levu_adj;Viti Levian;;Viti Lever;;;;;;;;;;;x
+d_west_solomons;West Solomons;West Solomons;West Solomons;;West Solomons;;;;;;;;;x
+d_west_solomons_adj;West Solomonsian;;West Solomonser;;;;;;;;;;;x

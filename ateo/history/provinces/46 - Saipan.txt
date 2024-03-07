@@ -7,7 +7,7 @@ title = c_saipan
 max_settlements = 4
 
 b_garapan = castle
-b_dandan = city
+b_dandan = temple
 #b_san_jose = temple
 #b_sinapalu = castle
 #b_kagman = city

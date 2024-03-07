@@ -1,0 +1,21 @@
+# c_rennell
+
+# County Title
+title = c_rennell
+
+# Settlements
+max_settlements = 2
+
+b_tigoa = tribal
+#b_matahenua = city
+#b_hutuna = temple
+#b_hatagua = castle
+#b_niupani = city
+#b_tebaitahe = temple
+#b_gongona = castle
+
+# Misc
+culture = samoan
+religion = anglican
+
+#History

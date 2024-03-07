@@ -54,7 +54,6 @@ c_pohnpei = { #40
 }
 
 c_chuuk = { # 42
-	holy_site = franco-catholique
 	holy_site = katoliko
 }
 
@@ -82,4 +81,17 @@ c_shefa = { # 113
 
 c_noumea = { # 120
 	holy_site = franco-catholique
+}
+
+c_west_guadalcanal = { # 136
+	holy_site = anglican
+}
+
+c_gizo = { # 141
+	holy_site = methodist
+}
+
+c_buka = { # 147
+	holy_site = franco-catholique
+	holy_site = katoliko
 }

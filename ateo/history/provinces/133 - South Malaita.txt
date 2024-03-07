@@ -1,0 +1,21 @@
+# c_south_malaita
+
+# County Title
+title = c_south_malaita
+
+# Settlements
+max_settlements = 4
+
+b_kwanekwa = castle
+b_poporo = temple
+#b_rokera = temple
+#b_palasuu = castle
+#b_maka = city
+#b_saa = temple
+#b_olomburi = castle
+
+# Misc
+culture = solomon_islander
+religion = congregational
+
+#History

@@ -1,0 +1,21 @@
+# c_gizo
+
+# County Title
+title = c_gizo
+
+# Settlements
+max_settlements = 4
+
+b_gizo = tribal
+b_kunji = temple
+#b_pienuna = temple
+#b_barakoma = castle
+#b_keara = city
+#b_karakara = temple
+#b_kumbolia = castle
+
+# Misc
+culture = solomon_islander
+religion = anglican
+
+#History

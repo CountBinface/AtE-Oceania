@@ -1,0 +1,21 @@
+# c_arawa
+
+# County Title
+title = c_arawa
+
+# Settlements
+max_settlements = 4
+
+b_arawa = tribal
+b_kieta = temple
+#b_wakunai = temple
+#b_panguna = castle
+#b_aropa = city
+#b_vito = temple
+#b_ibu = castle
+
+# Misc
+culture = bougainvillean
+religion = katoliko
+
+#History
