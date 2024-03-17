@@ -1,0 +1,163 @@
+kiwi = {
+	graphical_cultures = { westerngfx }
+	
+	aucklander = {
+		graphical_cultures = { englishgfx }
+
+		color = { 0.1 0.5 0.5 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Albert_Albert Alfred_Alfred Alexander_Alexander Arthur_Arthur
+			Bruce
+			Edmund_Edmund
+			Frederick_Frederick
+			George_George Graeme_Graham
+			Harold_Harold
+			Ian Isaac_Isaac
+			Jack_Jack James_James Jeremy_Jeremy John_John
+			Keith
+			Leo_Leo
+			Michael_Michael Murray
+			Nikau
+			Peter_Peter
+			Roy
+			Samuel_Samuel
+			Tim_Timothy
+			Wayne William_William
+		}
+		female_names = {
+			Alice_Alice Anna_Anna Aria_Aria
+			Barbara_Barbara
+			Carolyn_Caroline Catherine_Catherine Charlotte_Charlotte
+			Doris
+			Georgina_Georgia
+			Isabella_Isabella
+			Jean_Jane June_June
+			Lily_Lilian
+			Maia Manaia Mary_Mary
+			Pat_Patricia
+			Sue_Susan
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	hawkebayer = {
+		graphical_cultures = { englishgfx }
+
+		color = { 0.35 0.25 0.3 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Arthur_Arthur
+			Geoffrey_Jeffrey George_George Gordon_Gordon
+			Henry_Henry Hugo_Hugh
+			Ian
+			John_John
+			Leo_Leo
+			Mick_Michael
+			Noel
+			Oliver_Oliver
+			Paul_Paul Percy_Percy
+			Robin
+			Timothy_Timothy
+			William_William
+		}
+		female_names = {
+			Anne_Anna Ashley_Ashley Aurora_Aurora
+			Barbara_Barbara Bessie_Bessie
+			Florence_Florence
+			Georgia_Georgia
+			Lucy_Lucy
+			Matilda_Matilda
+			Pauline_Paula
+			Sue_Susan
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	nakian = {
+		graphical_cultures = { englishgfx }
+
+		color = { 0.8 0.5 0.1 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alan_Alan Andrew_Andrew Arthur_Arthur
+			Ben_Benjamin Brian_Brian
+			Charles_Charles
+			Don_Donald
+			Edward_Edward
+			Francis_Francis Fred_Frederick
+			George_George Graeme_Graham
+			Harry_Harry Henry_Henry
+			James_James John_John
+			Keith
+			Paul_Paul Peter_Peter
+			Ron_Ronald
+			Walter_Walter William_William
+		}
+		female_names = {
+			Alice_Alice Anne_Anna
+			Christine_Christina
+			Doris
+			Frances_Francesca
+			Jane_Jane Janet_Janet
+			Margaret_Margaret Marianne_Marianne Mary_Mary Melanie_Melanie
+			Rachel_Rachel Ruth_Ruth
+			Stella_Stella
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+}

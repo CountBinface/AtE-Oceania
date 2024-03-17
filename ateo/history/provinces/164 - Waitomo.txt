@@ -1,0 +1,21 @@
+# c_waitomo
+
+# County Title
+title = c_waitomo
+
+# Settlements
+max_settlements = 4
+
+b_taumarunui = castle
+b_te_kuiti = temple
+#b_otorohanga = temple
+#b_piopio = castle
+#b_te_kawa = city
+#b_kawhia_harbour = temple
+#b_mokau = castle
+
+# Misc
+culture = nakian
+religion = purakau
+
+#History

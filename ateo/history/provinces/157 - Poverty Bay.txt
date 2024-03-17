@@ -1,0 +1,21 @@
+# c_poverty_bay
+
+# County Title
+title = c_poverty_bay
+
+# Settlements
+max_settlements = 4
+
+b_gisborne = castle
+b_te_karaka = temple
+#b_manutuke = temple
+#b_patutahi = castle
+#b_whatatutu = city
+#b_tiniroto = temple
+#b_ngatapa = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

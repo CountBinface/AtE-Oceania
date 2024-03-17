@@ -1137,6 +1137,340 @@ e_micronesia = {
 		}
 	}
 }
+e_new_zealand = {
+	color={ 77 249 158 }
+	color2={ 255 255 20 }
+	
+	capital = 165 # c_auckland
+	culture = aucklander
+	
+	k_north_island = {
+		color={ 67 3 153 }
+		color2={ 255 255 255 }
+		
+		capital = 165 # c_auckland
+		culture = aucklander
+		
+		c_auckland = { # 165
+			color={ 37 33 138 }
+			color2={ 255 255 255 }
+			
+			b_auckland = {
+			}
+			b_north_shore = {
+			}
+			b_papatoetoe = {
+			}
+			b_mount_wellington = {
+			}
+			b_flat_bush = {
+			}
+			b_pukekohe = {
+			}
+			b_henderson = {
+			}
+		}
+		c_rodney = { # 166
+			color={ 41 31 207 }
+			color2={ 255 255 255 }
+			
+			b_whangaparoa = {
+			}
+			b_orewa = {
+			}
+			b_warkworth = {
+			}
+			b_kumeu = {
+			}
+			b_helensville = {
+			}
+			b_silverdale = {
+			}
+			b_wellsford = {
+			}
+		}
+		d_auckland = {
+			color={ 47 23 143 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 165 province_id = 166 } }
+				}
+			}
+			capital = 165 # c_auckland
+			
+			c_auckland = { # 165
+				color={ 37 33 138 }
+				color2={ 255 255 255 }
+				
+				b_auckland = {
+				}
+				b_north_shore = {
+				}
+				b_papatoetoe = {
+				}
+				b_mount_wellington = {
+				}
+				b_flat_bush = {
+				}
+				b_pukekohe = {
+				}
+				b_henderson = {
+				}
+			}
+			c_rodney = { # 166
+				color={ 41 31 207 }
+				color2={ 255 255 255 }
+				
+				b_whangaparoa = {
+				}
+				b_orewa = {
+				}
+				b_warkworth = {
+				}
+				b_kumeu = {
+				}
+				b_helensville = {
+				}
+				b_silverdale = {
+				}
+				b_wellsford = {
+				}
+			}
+		}
+		d_bay_of_plenty = {
+			color={ 64 210 40 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 158 province_id = 159 province_id = 160 province_id = 161 } }
+				}
+			}
+			capital = 159 # c_tauranga
+			
+			c_tauranga = { # 159
+				color={ 54 220 35 }
+				color2={ 255 255 255 }
+				
+				b_tauranga = {
+				}
+				b_matamata = {
+				}
+				b_te_puke = {
+				}
+				b_katikati = {
+				}
+				b_papamoa = {
+				}
+				b_omokoroa = {
+				}
+				b_waihi_beach = {
+				}
+			}
+			c_rotorua = { # 160
+				color={ 32 157 8 }
+				color2={ 255 255 255 }
+				
+				b_rotorua = {
+				}
+				b_tokoroa = {
+				}
+				b_putaruru = {
+				}
+				b_ngongotaha = {
+				}
+				b_hamurana = {
+				}
+				b_mamaku = {
+				}
+				b_rotoiti = {
+				}
+			}
+			c_taupo = { # 161
+				color={ 133 175 0 }
+				color2={ 255 255 255 }
+				
+				b_taupo = {
+				}
+				b_turangi = {
+				}
+				b_mangakino = {
+				}
+				b_kinloch = {
+				}
+				b_wairakei = {
+				}
+				b_tokaanu = {
+				}
+				b_pukawa = {
+				}
+			}
+			c_whakatane = { # 158
+				color={ 34 132 9 }
+				color2={ 255 255 255 }
+				
+				b_whakatane = {
+				}
+				b_kawerau = {
+				}
+				b_opotiki = {
+				}
+				b_ohope = {
+				}
+				b_coastlands = {
+				}
+				b_murupara = {
+				}
+				b_edgecumb = {
+				}
+			}
+		}
+		d_gisborne = {
+			color={ 216 47 202 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 155 province_id = 156 province_id = 157 } }
+				}
+			}
+			capital = 157 # c_poverty_bay
+			
+			c_poverty_bay = { # 157
+				color={ 226 37 207 }
+				color2={ 255 255 255 }
+				
+				b_gisborne = {
+				}
+				b_te_karaka = {
+				}
+				b_manutuke = {
+				}
+				b_patutahi = {
+				}
+				b_whatatutu = {
+				}
+				b_tiniroto = {
+				}
+				b_ngatapa = {
+				}
+			}
+			c_east_cape = { # 156
+				color={ 190 35 215 }
+				color2={ 255 255 255 }
+				
+				b_tolaga_bay = {
+				}
+				b_ruatoria = {
+				}
+				b_tokomaru_bay = {
+				}
+				b_wharekahika = {
+				}
+				b_te_araroa = {
+				}
+				b_te_puia_springs = {
+				}
+				b_tikitiki = {
+				}
+			}
+			c_kermadec_islands = { # 155
+				color={ 89 82 72 }
+				color2={ 255 255 255 }
+				
+				b_raoul = {
+				}
+				b_denham_bay = {
+				}
+				b_blue_lake = {
+				}
+				b_macaulay = {
+				}
+				b_curtis = {
+				}
+				b_cheeseman = {
+				}
+				b_lesperance = {
+				}
+			}
+		}
+		d_waikato = {
+			color={ 223 217 253 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 162 province_id = 163 province_id = 164 } }
+				}
+			}
+			capital = 163 # c_waikato
+			
+			c_waikato = { # 163
+				color={ 233 207 2 }
+				color2={ 255 255 255 }
+				
+				b_hamilton = {
+				}
+				b_cambridge = {
+				}
+				b_te_awamutu = {
+				}
+				b_huntly = {
+				}
+				b_raglan = {
+				}
+				b_ngaruawahia = {
+				}
+				b_pokeno = {
+				}
+			}
+			c_coromandel = { # 162
+				color={ 163 210 5 }
+				color2={ 255 255 255 }
+				
+				b_thames = {
+				}
+				b_morrinsville = {
+				}
+				b_whitianga = {
+				}
+				b_waihi = {
+				}
+				b_te_aroha = {
+				}
+				b_paeroa = {
+				}
+				b_whangamata = {
+				}
+			}
+			c_waitomo = { # 164
+				color={ 231 246 31 }
+				color2={ 255 255 255 }
+				
+				b_taumarunui = {
+				}
+				b_te_kuiti = {
+				}
+				b_otorohanga = {
+				}
+				b_piopio = {
+				}
+				b_te_kawa = {
+				}
+				b_kawhia_harbour = {
+				}
+				b_mokau = {
+				}
+			}
+		}
+	}
+}
 e_polynesia = {
 	color={ 240 220 50 }
 	color2={ 255 255 20 }

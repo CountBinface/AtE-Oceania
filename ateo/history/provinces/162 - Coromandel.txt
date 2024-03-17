@@ -1,0 +1,21 @@
+# c_coromandel
+
+# County Title
+title = c_coromandel
+
+# Settlements
+max_settlements = 4
+
+b_thames = castle
+b_morrinsville = city
+#b_whitianga = temple
+#b_waihi = castle
+#b_te_aroha = city
+#b_paeroa = temple
+#b_whangamata = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

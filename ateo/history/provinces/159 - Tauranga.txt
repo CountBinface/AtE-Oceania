@@ -1,0 +1,21 @@
+# c_tauranga
+
+# County Title
+title = c_tauranga
+
+# Settlements
+max_settlements = 5
+
+b_tauranga = castle
+b_matamata = temple
+b_te_puke = city
+#b_katikati = castle
+#b_papamoa = city
+#b_omokoroa = temple
+#b_waihi_beach = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

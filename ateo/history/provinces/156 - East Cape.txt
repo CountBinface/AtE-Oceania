@@ -1,0 +1,21 @@
+# c_east_cape
+
+# County Title
+title = c_east_cape
+
+# Settlements
+max_settlements = 3
+
+b_tolaga_bay = castle
+#b_ruatoria = city
+#b_tokomaru_bay = temple
+#b_wharekahika = castle
+#b_te_araroa = city
+#b_te_puia_springs = temple
+#b_tikitiki = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

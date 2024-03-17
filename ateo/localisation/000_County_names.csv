@@ -3,6 +3,8 @@ c_arawa;Arawa;Arawa;Arawa;;Arawa;;;;;;;;;x
 c_arawa_adj;Arawan;;arawer;;;;;;;;;;;x
 c_atua;Atua;Atua;Atua;;Atua;;;;;;;;;x
 c_atua_adj;Atuan;;ater;;;;;;;;;;;x
+c_auckland;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
+c_auckland_adj;Aucklandian;;aucklander;;;;;;;;;;;x
 c_ba;Ba;Ba;Ba;;Ba;;;;;;;;;x
 c_ba_adj;Ban;;ber;;;;;;;;;;;x
 c_bourail;Bourail;Bourail;Bourail;;Bourail;;;;;;;;;x
@@ -21,6 +23,10 @@ c_choiseul;Choiseul;Choiseul;Choiseul;;Choiseul;;;;;;;;;x
 c_choiseul_adj;Choiseulian;;choiseuler;;;;;;;;;;;x
 c_chuuk;Chuuk;Chuuk;Chuuk;;Chuuk;;;;;;;;;x
 c_chuuk_adj;Chuukian;;chuuker;;;;;;;;;;;x
+c_coromandel;Coromandel;Coromandel;Coromandel;;Coromandel;;;;;;;;;x
+c_coromandel_adj;Coromandelian;;coromandeler;;;;;;;;;;;x
+c_east_cape;East Cape;East Cape;East Cape;;East Cape;;;;;;;;;x
+c_east_cape_adj;East Capean;;East Caper;;;;;;;;;;;x
 c_east_guadalcanal;East Guadalcanal;East Guadalcanal;East Guadalcanal;;East Guadalcanal;;;;;;;;;x
 c_east_guadalcanal_adj;East Guadalcanalian;;East Guadalcanaler;;;;;;;;;;;x
 c_enewetak;Enewetak;Enewetak;Enewetak;;Enewetak;;;;;;;;;x
@@ -41,6 +47,8 @@ c_jaluit;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
 c_jaluit_adj;Jaluitian;;jaluiter;;;;;;;;;;;x
 c_kadavu;Kadavu;Kadavu;Kadavu;;Kadavu;;;;;;;;;x
 c_kadavu_adj;Kadavian;;kadaver;;;;;;;;;;;x
+c_kermadec_islands;Kermadec Islands;Kermadec Islands;Kermadec Islands;;Kermadec Islands;;;;;;;;;x
+c_kermadec_islands_adj;Kermadec Islandsian;;Kermadec Islandser;;;;;;;;;;;x
 c_kone;Koné;Koné;Koné;;Koné;;;;;;;;;x
 c_kone_adj;Konéian;;konéer;;;;;;;;;;;x
 c_kosrae;Kosrae;Kosrae;Kosrae;;Kosrae;;;;;;;;;x
@@ -95,6 +103,8 @@ c_pohnpei;Pohnpei;Pohnpei;Pohnpei;;Pohnpei;;;;;;;;;x
 c_pohnpei_adj;Pohnpian;;pohnper;;;;;;;;;;;x
 c_poindimie;Poindimie;Poindimie;Poindimie;;Poindimie;;;;;;;;;x
 c_poindimie_adj;Poindimiean;;poindimer;;;;;;;;;;;x
+c_poverty_bay;Poverty Bay;Poverty Bay;Poverty Bay;;Poverty Bay;;;;;;;;;x
+c_poverty_bay_adj;Poverty Baian;;Poverty Baer;;;;;;;;;;;x
 c_ra;Ra;Ra;Ra;;Ra;;;;;;;;;x
 c_ra_adj;Ran;;rer;;;;;;;;;;;x
 c_rawaki;Rawaki;Rawaki;Rawaki;;Rawaki;;;;;;;;;x
@@ -103,8 +113,12 @@ c_rennell;Rennell;Rennell;Rennell;;Rennell;;;;;;;;;x
 c_rennell_adj;Rennellian;;renneller;;;;;;;;;;;x
 c_rewa;Rewa;Rewa;Rewa;;Rewa;;;;;;;;;x
 c_rewa_adj;Rewan;;rewer;;;;;;;;;;;x
+c_rodney;Rodney;Rodney;Rodney;;Rodney;;;;;;;;;x
+c_rodney_adj;Rodneian;;rodneer;;;;;;;;;;;x
 c_rongelap;Rongelap;Rongelap;Rongelap;;Rongelap;;;;;;;;;x
 c_rongelap_adj;Rongelapian;;rongelaper;;;;;;;;;;;x
+c_rotorua;Rotorua;Rotorua;Rotorua;;Rotorua;;;;;;;;;x
+c_rotorua_adj;Rotoruan;;rotorer;;;;;;;;;;;x
 c_rotuma;Rotuma;Rotuma;Rotuma;;Rotuma;;;;;;;;;x
 c_rotuma_adj;Rotuman;;rotumer;;;;;;;;;;;x
 c_saipan;Saipan;Saipan;Saipan;;Saipan;;;;;;;;;x
@@ -123,6 +137,10 @@ c_southern_tungaru;Southern Tungaru;Southern Tungaru;Southern Tungaru;;Southern 
 c_southern_tungaru_adj;Southern Tungarian;;Southern Tungarer;;;;;;;;;;;x
 c_tafea;Tafea;Tafea;Tafea;;Tafea;;;;;;;;;x
 c_tafea_adj;Tafean;;tafer;;;;;;;;;;;x
+c_taupo;Taupo;Taupo;Taupo;;Taupo;;;;;;;;;x
+c_taupo_adj;Taupian;;tauper;;;;;;;;;;;x
+c_tauranga;Tauranga;Tauranga;Tauranga;;Tauranga;;;;;;;;;x
+c_tauranga_adj;Taurangan;;tauranger;;;;;;;;;;;x
 c_temotu;Temotu;Temotu;Temotu;;Temotu;;;;;;;;;x
 c_temotu_adj;Temotian;;temoter;;;;;;;;;;;x
 c_thio;Thio;Thio;Thio;;Thio;;;;;;;;;x
@@ -145,8 +163,14 @@ c_uvea;'Uvea;'Uvea;'Uvea;;'Uvea;;;;;;;;;x
 c_uvea_adj;'Uvean;;'uver;;;;;;;;;;;x
 c_vavau;Vava'u;Vava'u;Vava'u;;Vava'u;;;;;;;;;x
 c_vavau_adj;Vava'ian;;vava'er;;;;;;;;;;;x
+c_waikato;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
+c_waikato_adj;Waikatian;;waikater;;;;;;;;;;;x
+c_waitomo;Waitomo;Waitomo;Waitomo;;Waitomo;;;;;;;;;x
+c_waitomo_adj;Waitomian;;waitomer;;;;;;;;;;;x
 c_west_guadalcanal;West Guadalcanal;West Guadalcanal;West Guadalcanal;;West Guadalcanal;;;;;;;;;x
 c_west_guadalcanal_adj;West Guadalcanalian;;West Guadalcanaler;;;;;;;;;;;x
+c_whakatane;Whakatane;Whakatane;Whakatane;;Whakatane;;;;;;;;;x
+c_whakatane_adj;Whakatanean;;whakataner;;;;;;;;;;;x
 c_woleai;Woleai;Woleai;Woleai;;Woleai;;;;;;;;;x
 c_woleai_adj;Wolian;;woler;;;;;;;;;;;x
 c_wotje;Wotje;Wotje;Wotje;;Wotje;;;;;;;;;x

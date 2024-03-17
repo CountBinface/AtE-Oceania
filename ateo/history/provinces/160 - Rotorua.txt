@@ -1,0 +1,21 @@
+# c_rotorua
+
+# County Title
+title = c_rotorua
+
+# Settlements
+max_settlements = 4
+
+b_rotorua = castle
+b_tokoroa = temple
+#b_putaruru = temple
+#b_ngongotaha = castle
+#b_hamurana = city
+#b_mamaku = temple
+#b_rotoiti = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

@@ -331,7 +331,7 @@ melanesian = {
 			Pascal_Pascal Patrick_Patrick Paul_Paul Philippe_Philip Pierre_Peter
 			Richard_Richard
 			Sebastien_Sebastian Stephane_Stephen
-			Thierry_Terry Thomas_Thomas
+			Thierry_Terence Thomas_Thomas
 			Vincent_Vincent
 		}
 		female_names = {
@@ -557,6 +557,55 @@ polynesian = {
 		pat_grm_name_chance = 20
 		mat_grm_name_chance = 15
 		mother_name_chance = 15
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	maori = {
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
+
+		color = { 0.9 0.15 0.65 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Anaru_Andrew Ari Ariki
+			Hemi_James Hohepa_Joseph Hone
+			Ihaia_Isaiah
+			Kahurangi Kai Kairo Kauri Keanu Kiwa Koa
+			Manaaki Manaia Mateo_Matthew Mikaere_Michael
+			Nikau Nikora_Nicholas
+			Paora_Paul Patariki_Patrick Petera_Peter Piripi_Philip
+			Rangi Rawiri
+			Tai Taika Tama Tamati_Thomas Tane Tangaroa Timoti_Timothy Tipene_Stephen
+			Whetu Wiremu_William
+		}
+		female_names = {
+			Ahurewa Aihe Akona Amaia Amara Anahera_Angela Aria_Aria Ariana Aroha Ataahua Atarangi Aurora_Aurora Awhina
+			Hana_Hannah Hine Huhana_Susan Huia
+			Kahurangi Kaia Kaiara Kara Kiri Kora
+			Maata_Martha Maia Manaia Marama Mareikura_Margaret Maria_Mary Mere_Mary Mia_Mia Miru Moana
+			Ngaio Ngaire
+			Ria Roimata Ruiha_Louise
+			Tia Tiare Tui
+			Waimarie Whetu
+		}
+
+		from_dynasty_prefix = "o "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
 		
 		seafarer = yes
 		modifier = default_culture_modifier

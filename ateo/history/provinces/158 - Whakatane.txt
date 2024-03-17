@@ -1,0 +1,21 @@
+# c_whakatane
+
+# County Title
+title = c_whakatane
+
+# Settlements
+max_settlements = 4
+
+b_whakatane = castle
+b_kawerau = city
+#b_opotiki = temple
+#b_ohope = castle
+#b_coastlands = city
+#b_murupara = temple
+#b_edgecumb = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

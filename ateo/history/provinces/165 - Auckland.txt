@@ -1,0 +1,21 @@
+# c_auckland
+
+# County Title
+title = c_auckland
+
+# Settlements
+max_settlements = 7
+
+b_auckland = castle
+b_north_shore = city
+b_papatoetoe = temple
+b_mount_wellington = castle
+b_flat_bush = city
+#b_pukekohe = temple
+#b_henderson = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

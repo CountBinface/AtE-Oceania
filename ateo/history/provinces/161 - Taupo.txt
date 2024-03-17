@@ -1,0 +1,21 @@
+# c_taupo
+
+# County Title
+title = c_taupo
+
+# Settlements
+max_settlements = 4
+
+b_taupo = castle
+b_turangi = temple
+#b_mangakino = temple
+#b_kinloch = castle
+#b_wairakei = city
+#b_tokaanu = temple
+#b_pukawa = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

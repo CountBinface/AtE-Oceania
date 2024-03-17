@@ -1,0 +1,21 @@
+# c_waikato
+
+# County Title
+title = c_waikato
+
+# Settlements
+max_settlements = 6
+
+b_hamilton = castle
+b_cambridge = city
+b_te_awamutu = temple
+b_huntly = castle
+#b_raglan = city
+#b_ngaruawahia = temple
+#b_pokeno = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

@@ -1,0 +1,21 @@
+# c_kermadec_islands
+
+# County Title
+title = c_kermadec_islands
+
+# Settlements
+max_settlements = 1
+
+b_raoul = castle
+#b_denham_bay = city
+#b_blue_lake = temple
+#b_macaulay = castle
+#b_curtis = city
+#b_cheeseman = temple
+#b_lesperance = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

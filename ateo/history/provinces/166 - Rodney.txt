@@ -1,0 +1,21 @@
+# c_rodney
+
+# County Title
+title = c_rodney
+
+# Settlements
+max_settlements = 5
+
+b_whangaparoa = castle
+b_orewa = city
+b_warkworth = temple
+#b_kumeu = castle
+#b_helensville = city
+#b_silverdale = temple
+#b_wellsford = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History
