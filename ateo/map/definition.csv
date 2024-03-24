@@ -168,10 +168,28 @@ province;red;green;blue;x;x
 167;56;189;181;Whangarei;x
 168;25;117;194;Kaipara;x
 169;36;77;141;Far North;x
-170;31;184;209;North Kermadec Sea;x
-171;17;122;191;Kermadec Sea;x
-172;75;148;242;South Kermadec Sea;x
-173;85;49;243;Bay of Plenty;x
-174;31;24;232;Gisborne Coast;x
-175;43;112;231;Reinga Sea;x
-176;5;148;245;Waikato Coast;x
+170;105;63;94;Wairoa;x
+171;97;86;101;Hastings;x
+172;7;105;101;Waipukurau;x
+173;201;148;6;New Plymouth;x
+174;196;112;8;Hawera;x
+175;14;130;74;Whanganui;x
+176;1;115;65;Taihape;x
+177;2;95;66;Manawatu;x
+178;29;137;103;Tararua;x
+179;52;28;178;Wellington;x
+180;104;18;200;Masterton;x
+181;82;18;164;Wairarapa;x
+182;2;180;60;Chatham Islands;x
+182;31;184;209;North Kermadec Sea;x
+183;17;122;191;Kermadec Sea;x
+184;75;148;242;South Kermadec Sea;x
+185;85;49;243;Bay of Plenty;x
+186;31;24;232;Gisborne Coast;x
+187;43;112;231;Reinga Sea;x
+188;5;148;245;Waikato Coast;x
+189;13;22;186;Tasman Sea;x
+190;25;84;215;Cook Strait;x
+191;39;143;240;Wairarapa Coast;x
+192;21;123;197;South Pacific Ocean #13;x
+193;18;41;227;Chatham Sea;x

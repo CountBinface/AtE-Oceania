@@ -1,0 +1,21 @@
+# c_hawera
+
+# County Title
+title = c_hawera
+
+# Settlements
+max_settlements = 4
+
+b_hawera = castle
+b_stratford = city
+#b_eltham = temple
+#b_opunake = castle
+#b_patea = city
+#b_manaia = temple
+#b_waverley = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

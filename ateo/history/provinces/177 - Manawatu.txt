@@ -1,0 +1,21 @@
+# c_manawatu
+
+# County Title
+title = c_manawatu
+
+# Settlements
+max_settlements = 5
+
+b_palmerston_north = castle
+b_levin = city
+b_feilding = temple
+#b_marton = castle
+#b_foxton = city
+#b_ashhurst = temple
+#b_bulls = castle
+
+# Misc
+culture = wellingtonian
+religion = tolkienist
+
+#History

@@ -9,16 +9,22 @@ d_caledonia;Caledonia;Caledonia;Caledonia;;Caledonia;;;;;;;;;x
 d_caledonia_adj;Caledonian;;caledoner;;;;;;;;;;;x
 d_central_solomons;Central Solomons;Central Solomons;Central Solomons;;Central Solomons;;;;;;;;;x
 d_central_solomons_adj;Central Solomonsian;;Central Solomonser;;;;;;;;;;;x
+d_chatham_islands;Chatham Islands;Chatham Islands;Chatham Islands;;Chatham Islands;;;;;;;;;x
+d_chatham_islands_adj;Chatham Islandsian;;Chatham Islandser;;;;;;;;;;;x
 d_chuuk_pohnpei;Chuuk-Pohnpei;Chuuk-Pohnpei;Chuuk-Pohnpei;;Chuuk-Pohnpei;;;;;;;;;x
 d_chuuk_pohnpei_adj;Chuuk-Pohnpian;;chuuk-pohnper;;;;;;;;;;;x
 d_east_solomons;East Solomons;East Solomons;East Solomons;;East Solomons;;;;;;;;;x
 d_east_solomons_adj;East Solomonsian;;East Solomonser;;;;;;;;;;;x
 d_gisborne;Gisborne;Gisborne;Gisborne;;Gisborne;;;;;;;;;x
 d_gisborne_adj;Gisbornean;;gisborner;;;;;;;;;;;x
+d_hawkes_bay;Hawke's Bay;Hawke's Bay;Hawke's Bay;;Hawke's Bay;;;;;;;;;x
+d_hawkes_bay_adj;Hawkes Baian;;Hawke's Baer;;;;;;;;;;;x
 d_koro;Koro;Koro;Koro;;Koro;;;;;;;;;x
 d_koro_adj;Korian;;korer;;;;;;;;;;;x
 d_malaita;Malaita;Malaita;Malaita;;Malaita;;;;;;;;;x
 d_malaita_adj;Malaitan;;malaiter;;;;;;;;;;;x
+d_manawatu_whanganui;Manawatu-Whanganui;Manawatu-Whanganui;Manawatu-Whanganui;;Manawatu-Whanganui;;;;;;;;;x
+d_manawatu_whanganui_adj;Manawatu-Whanganian;;manawatu-whanganer;;;;;;;;;;;x
 d_mariana_islands;Mariana Islands;Mariana Islands;Mariana Islands;;Mariana Islands;;;;;;;;;x
 d_mariana_islands_adj;Mariana Islandsian;;Mariana Islandser;;;;;;;;;;;x
 d_marshall_islands;Marshall Islands;Marshall Islands;Marshall Islands;;Marshall Islands;;;;;;;;;x
@@ -31,6 +37,8 @@ d_palau_yap;Palau-Yap;Palau-Yap;Palau-Yap;;Palau-Yap;;;;;;;;;x
 d_palau_yap_adj;Palau-Yapian;;palau-yaper;;;;;;;;;;;x
 d_samoa;Samoa;Samoa;Samoa;;Samoa;;;;;;;;;x
 d_samoa_adj;Samoan;;samer;;;;;;;;;;;x
+d_taranaki;Taranaki;Taranaki;Taranaki;;Taranaki;;;;;;;;;x
+d_taranaki_adj;Taranakian;;taranaker;;;;;;;;;;;x
 d_tonga;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x
 d_tonga_adj;Tongan;;tonger;;;;;;;;;;;x
 d_tungaru;Tungaru;Tungaru;Tungaru;;Tungaru;;;;;;;;;x
@@ -45,5 +53,7 @@ d_viti_levu;Viti Levu;Viti Levu;Viti Levu;;Viti Levu;;;;;;;;;x
 d_viti_levu_adj;Viti Levian;;Viti Lever;;;;;;;;;;;x
 d_waikato;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
 d_waikato_adj;Waikatian;;waikater;;;;;;;;;;;x
+d_wellington;Wellington;Wellington;Wellington;;Wellington;;;;;;;;;x
+d_wellington_adj;Wellingtonian;;wellingtoner;;;;;;;;;;;x
 d_west_solomons;West Solomons;West Solomons;West Solomons;;West Solomons;;;;;;;;;x
 d_west_solomons_adj;West Solomonsian;;West Solomonser;;;;;;;;;;;x

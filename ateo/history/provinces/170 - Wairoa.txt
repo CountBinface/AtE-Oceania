@@ -1,0 +1,21 @@
+# c_wairoa
+
+# County Title
+title = c_wairoa
+
+# Settlements
+max_settlements = 3
+
+b_wairoa = castle
+#b_whakaki = city
+#b_tuai = temple
+#b_frasertown = castle
+#b_mahia = city
+#b_ruakituri = temple
+#b_nuhaka = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

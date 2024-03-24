@@ -1,0 +1,21 @@
+# c_wellington
+
+# County Title
+title = c_wellington
+
+# Settlements
+max_settlements = 6
+
+b_wellington = castle
+b_lower_hutt = city
+b_porirua = temple
+b_upper_hutt = castle
+#b_paraparaumu = city
+#b_johnsonville = temple
+#b_wainuiomata = castle
+
+# Misc
+culture = wellingtonian
+religion = tolkienist
+
+#History

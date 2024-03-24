@@ -19,6 +19,8 @@ c_cakaudrove;Cakaudrove;Cakaudrove;Cakaudrove;;Cakaudrove;;;;;;;;;x
 c_cakaudrove_adj;Cakaudrovean;;cakaudrover;;;;;;;;;;;x
 c_central_tungaru;Central Tungaru;Central Tungaru;Central Tungaru;;Central Tungaru;;;;;;;;;x
 c_central_tungaru_adj;Central Tungarian;;Central Tungarer;;;;;;;;;;;x
+c_chatham_islands;Chatham Islands;Chatham Islands;Chatham Islands;;Chatham Islands;;;;;;;;;x
+c_chatham_islands_adj;Chatham Islandsian;;Chatham Islandser;;;;;;;;;;;x
 c_choiseul;Choiseul;Choiseul;Choiseul;;Choiseul;;;;;;;;;x
 c_choiseul_adj;Choiseulian;;choiseuler;;;;;;;;;;;x
 c_chuuk;Chuuk;Chuuk;Chuuk;;Chuuk;;;;;;;;;x
@@ -43,6 +45,10 @@ c_guam;Guam;Guam;Guam;;Guam;;;;;;;;;x
 c_guam_adj;Guamian;;guamer;;;;;;;;;;;x
 c_haapai;Ha'apai;Ha'apai;Ha'apai;;Ha'apai;;;;;;;;;x
 c_haapai_adj;Ha'apian;;ha'aper;;;;;;;;;;;x
+c_hastings;Hastings;Hastings;Hastings;;Hastings;;;;;;;;;x
+c_hastings_adj;Hastingsian;;hastingser;;;;;;;;;;;x
+c_hawera;Hawera;Hawera;Hawera;;Hawera;;;;;;;;;x
+c_hawera_adj;Haweran;;hawerer;;;;;;;;;;;x
 c_isabel;Isabel;Isabel;Isabel;;Isabel;;;;;;;;;x
 c_isabel_adj;Isabelian;;isabeler;;;;;;;;;;;x
 c_jaluit;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
@@ -75,12 +81,18 @@ c_malampa;Malampa;Malampa;Malampa;;Malampa;;;;;;;;;x
 c_malampa_adj;Malampan;;malamper;;;;;;;;;;;x
 c_mamanuca;Mamanuca;Mamanuca;Mamanuca;;Mamanuca;;;;;;;;;x
 c_mamanuca_adj;Mamanucan;;mamanucer;;;;;;;;;;;x
+c_manawatu;Manawatu;Manawatu;Manawatu;;Manawatu;;;;;;;;;x
+c_manawatu_adj;Manawatian;;manawater;;;;;;;;;;;x
+c_masterton;Masterton;Masterton;Masterton;;Masterton;;;;;;;;;x
+c_masterton_adj;Mastertonian;;mastertoner;;;;;;;;;;;x
 c_nadroga;Nadroga;Nadroga;Nadroga;;Nadroga;;;;;;;;;x
 c_nadroga_adj;Nadrogan;;nadroger;;;;;;;;;;;x
 c_nauru;Nauru;Nauru;Nauru;;Nauru;;;;;;;;;x
 c_nauru_adj;Naurian;;naurer;;;;;;;;;;;x
 c_new_georgia;New Georgia;New Georgia;New Georgia;;New Georgia;;;;;;;;;x
 c_new_georgia_adj;New Georgian;;New Georger;;;;;;;;;;;x
+c_new_plymouth;New Plymouth;New Plymouth;New Plymouth;;New Plymouth;;;;;;;;;x
+c_new_plymouth_adj;New Plymouthian;;New Plymouther;;;;;;;;;;;x
 c_niua;Niua;Niua;Niua;;Niua;;;;;;;;;x
 c_niua_adj;Niuan;;ner;;;;;;;;;;;x
 c_niue;Niue;Niue;Niue;;Niue;;;;;;;;;x
@@ -141,6 +153,10 @@ c_southern_tungaru;Southern Tungaru;Southern Tungaru;Southern Tungaru;;Southern 
 c_southern_tungaru_adj;Southern Tungarian;;Southern Tungarer;;;;;;;;;;;x
 c_tafea;Tafea;Tafea;Tafea;;Tafea;;;;;;;;;x
 c_tafea_adj;Tafean;;tafer;;;;;;;;;;;x
+c_taihape;Taihape;Taihape;Taihape;;Taihape;;;;;;;;;x
+c_taihape_adj;Taihapean;;taihaper;;;;;;;;;;;x
+c_tararua;Tararua;Tararua;Tararua;;Tararua;;;;;;;;;x
+c_tararua_adj;Tararuan;;tararer;;;;;;;;;;;x
 c_taupo;Taupo;Taupo;Taupo;;Taupo;;;;;;;;;x
 c_taupo_adj;Taupian;;tauper;;;;;;;;;;;x
 c_tauranga;Tauranga;Tauranga;Tauranga;;Tauranga;;;;;;;;;x
@@ -169,12 +185,22 @@ c_vavau;Vava'u;Vava'u;Vava'u;;Vava'u;;;;;;;;;x
 c_vavau_adj;Vava'ian;;vava'er;;;;;;;;;;;x
 c_waikato;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
 c_waikato_adj;Waikatian;;waikater;;;;;;;;;;;x
+c_waipukurau;Waipukurau;Waipukurau;Waipukurau;;Waipukurau;;;;;;;;;x
+c_waipukurau_adj;Waipukurian;;waipukurer;;;;;;;;;;;x
+c_wairarapa;Wairarapa;Wairarapa;Wairarapa;;Wairarapa;;;;;;;;;x
+c_wairarapa_adj;Wairarapan;;wairaraper;;;;;;;;;;;x
+c_wairoa;Wairoa;Wairoa;Wairoa;;Wairoa;;;;;;;;;x
+c_wairoa_adj;Wairoan;;wairer;;;;;;;;;;;x
 c_waitomo;Waitomo;Waitomo;Waitomo;;Waitomo;;;;;;;;;x
 c_waitomo_adj;Waitomian;;waitomer;;;;;;;;;;;x
+c_wellington;Wellington;Wellington;Wellington;;Wellington;;;;;;;;;x
+c_wellington_adj;Wellingtonian;;wellingtoner;;;;;;;;;;;x
 c_west_guadalcanal;West Guadalcanal;West Guadalcanal;West Guadalcanal;;West Guadalcanal;;;;;;;;;x
 c_west_guadalcanal_adj;West Guadalcanalian;;West Guadalcanaler;;;;;;;;;;;x
 c_whakatane;Whakatane;Whakatane;Whakatane;;Whakatane;;;;;;;;;x
 c_whakatane_adj;Whakatanean;;whakataner;;;;;;;;;;;x
+c_whanganui;Whanganui;Whanganui;Whanganui;;Whanganui;;;;;;;;;x
+c_whanganui_adj;Whanganian;;whanganer;;;;;;;;;;;x
 c_whangarei;Whangarei;Whangarei;Whangarei;;Whangarei;;;;;;;;;x
 c_whangarei_adj;Whangarian;;whangarer;;;;;;;;;;;x
 c_woleai;Woleai;Woleai;Woleai;;Woleai;;;;;;;;;x

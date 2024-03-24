@@ -1,0 +1,21 @@
+# c_waipukurau
+
+# County Title
+title = c_waipukurau
+
+# Settlements
+max_settlements = 3
+
+b_waipukurau = castle
+#b_waipawa = city
+#b_otane = temple
+#b_takapau = castle
+#b_tikokino = city
+#b_porangahau = temple
+#b_ongaonga = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

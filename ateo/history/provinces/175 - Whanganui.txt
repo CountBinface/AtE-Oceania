@@ -1,0 +1,21 @@
+# c_whanganui
+
+# County Title
+title = c_whanganui
+
+# Settlements
+max_settlements = 4
+
+b_whanganui = castle
+b_ohakune = city
+#b_ratana = temple
+#b_raetihi = castle
+#b_jerusalem = city
+#b_national_park = temple
+#b_whakapapa_village = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

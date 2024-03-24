@@ -1,0 +1,21 @@
+# c_tararua
+
+# County Title
+title = c_tararua
+
+# Settlements
+max_settlements = 3
+
+b_dannevirke = castle
+#b_pahiatua = city
+#b_woodville = temple
+#b_eketahuna = castle
+#b_norsewood = city
+#b_herbertville = temple
+#b_akitio = castle
+
+# Misc
+culture = wellingtonian
+religion = tolkienist
+
+#History

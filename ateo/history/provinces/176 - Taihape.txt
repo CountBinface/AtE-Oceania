@@ -1,0 +1,21 @@
+# c_taihape
+
+# County Title
+title = c_taihape
+
+# Settlements
+max_settlements = 3
+
+b_taihape = castle
+#b_waiouru = city
+#b_hunterville = temple
+#b_apiti = castle
+#b_kimbolton = city
+#b_pohangina = temple
+#b_rangiwahia = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

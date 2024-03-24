@@ -1,0 +1,21 @@
+# c_hastings
+
+# County Title
+title = c_hastings
+
+# Settlements
+max_settlements = 5
+
+b_napier = castle
+b_hastings = city
+b_eskdale = temple
+#b_havelock_north = castle
+#b_clive = city
+#b_haumoana = temple
+#b_te_awanga = castle
+
+# Misc
+culture = wellingtonian
+religion = purakau
+
+#History

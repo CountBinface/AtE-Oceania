@@ -1,0 +1,21 @@
+# c_masterton
+
+# County Title
+title = c_masterton
+
+# Settlements
+max_settlements = 4
+
+b_masterton = castle
+b_carterton = city
+#b_solway = temple
+#b_lansdowne = castle
+#b_mount_holdsworth = city
+#b_whareama = temple
+#b_kokotau = castle
+
+# Misc
+culture = wellingtonian
+religion = tolkienist
+
+#History

@@ -1,0 +1,21 @@
+# c_chatham_islands
+
+# County Title
+title = c_chatham_islands
+
+# Settlements
+max_settlements = 2
+
+b_waitangi = castle
+#b_owenga = city
+#b_kaingaroa = temple
+#b_te_one = castle
+#b_port_hutt = city
+#b_flower_pot_bay = temple
+#b_te_roto = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

@@ -15,7 +15,7 @@ b_te_kuiti = temple
 #b_mokau = castle
 
 # Misc
-culture = nakian
+culture = aucklander
 religion = purakau
 
 #History

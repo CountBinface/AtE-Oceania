@@ -1,0 +1,21 @@
+# c_new_plymouth
+
+# County Title
+title = c_new_plymouth
+
+# Settlements
+max_settlements = 5
+
+b_new_plymouth = castle
+b_waitara = temple
+b_inglewood = city
+#b_oakura = castle
+#b_okato = city
+#b_urenui = temple
+#b_lepperton = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

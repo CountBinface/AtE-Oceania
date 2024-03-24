@@ -1,0 +1,21 @@
+# c_wairarapa
+
+# County Title
+title = c_wairarapa
+
+# Settlements
+max_settlements = 3
+
+b_greytown = castle
+#b_featherston = city
+#b_martinborough = temple
+#b_pirinoa = castle
+#b_tauwharenikau = city
+#b_kahutara = temple
+#b_cape_palliser = castle
+
+# Misc
+culture = wellingtonian
+religion = tolkienist
+
+#History
