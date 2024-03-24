@@ -1151,44 +1151,6 @@ e_new_zealand = {
 		capital = 165 # c_auckland
 		culture = aucklander
 		
-		c_auckland = { # 165
-			color={ 37 33 138 }
-			color2={ 255 255 255 }
-			
-			b_auckland = {
-			}
-			b_north_shore = {
-			}
-			b_papatoetoe = {
-			}
-			b_mount_wellington = {
-			}
-			b_flat_bush = {
-			}
-			b_pukekohe = {
-			}
-			b_henderson = {
-			}
-		}
-		c_rodney = { # 166
-			color={ 41 31 207 }
-			color2={ 255 255 255 }
-			
-			b_whangaparoa = {
-			}
-			b_orewa = {
-			}
-			b_warkworth = {
-			}
-			b_kumeu = {
-			}
-			b_helensville = {
-			}
-			b_silverdale = {
-			}
-			b_wellsford = {
-			}
-		}
 		d_auckland = {
 			color={ 47 23 143 }
 			color2={ 255 255 255 }
@@ -1396,6 +1358,76 @@ e_new_zealand = {
 				b_cheeseman = {
 				}
 				b_lesperance = {
+				}
+			}
+		}
+		d_northland = {
+			color={ 46 199 176 }
+			color2={ 255 255 255 }
+			
+			allow = {
+				OR = {
+					lower_tier_than = KING
+					any_demesne_province = { OR = { province_id = 167 province_id = 168 province_id = 169 } }
+				}
+			}
+			capital = 167 # c_whangarei
+			
+			c_whangarei = { # 167
+				color={ 56 189 181 }
+				color2={ 255 255 255 }
+				
+				b_whangarei = {
+				}
+				b_ruakaka = {
+				}
+				b_hikurangi = {
+				}
+				b_mangawhai = {
+				}
+				b_waipu = {
+				}
+				b_ngunguru = {
+				}
+				b_kamo = {
+				}
+			}
+			c_far_north = { # 169
+				color={ 36 77 141 }
+				color2={ 255 255 255 }
+				
+				b_kerikeri = {
+				}
+				b_kaitaia = {
+				}
+				b_kaikohe = {
+				}
+				b_moerewa = {
+				}
+				b_paihia = {
+				}
+				b_kawakawa = {
+				}
+				b_opua = {
+				}
+			}
+			c_kaipara = { # 168
+				color={ 25 117 194 }
+				color2={ 255 255 255 }
+				
+				b_dargaville = {
+				}
+				b_maungatoro = {
+				}
+				b_kaiwaka = {
+				}
+				b_te_kopuru = {
+				}
+				b_ruawai = {
+				}
+				b_paparoa = {
+				}
+				b_pahi = {
 				}
 			}
 		}

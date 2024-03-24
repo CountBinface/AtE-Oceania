@@ -1,0 +1,21 @@
+# c_far_north
+
+# County Title
+title = c_far_north
+
+# Settlements
+max_settlements = 5
+
+b_kerikeri = castle
+b_kaitaia = city
+b_kaikohe = temple
+#b_moerewa = castle
+#b_paihia = city
+#b_kawakawa = temple
+#b_opua = castle
+
+# Misc
+culture = maori
+religion = purakau
+
+#History

@@ -715,6 +715,8 @@
 1621 = { name="Halbert" culture=maori }
 1622 = { name="Wyllie" culture=maori }
 1623 = { name="Douglas" culture=maori }
+1624 = { name="Puketapu" culture=maori }
+1625 = { name="Te Whaiti" culture=maori }
 
 1701 = { name="Brown" culture=aucklander }
 1702 = { name="Cooper" culture=aucklander }
@@ -789,3 +791,27 @@
 1925 = { name="Young" culture=nakian }
 1926 = { name="Williams" culture=nakian }
 1927 = { name="Waite" culture=nakian }
+
+2001 = { name="Abbott" culture=wellingtonian }
+2002 = { name="Barton" culture=wellingtonian }
+2003 = { name="Daly" culture=wellingtonian }
+2004 = { name="Ikin" culture=wellingtonian }
+2005 = { name="Laban" culture=wellingtonian }
+2006 = { name="McDonald" culture=wellingtonian }
+2007 = { name="McKenzie" culture=wellingtonian }
+2008 = { name="McLean" culture=wellingtonian }
+2009 = { name="Paul" culture=wellingtonian }
+2010 = { name="Pearce" culture=wellingtonian }
+2011 = { name="Pharazyn" culture=wellingtonian }
+2012 = { name="Platts" culture=wellingtonian }
+2013 = { name="Pryor" culture=wellingtonian }
+2014 = { name="Stevens" culture=wellingtonian }
+2015 = { name="Taylor" culture=wellingtonian }
+2016 = { name="Turnbull" culture=wellingtonian }
+2017 = { name="Ward" culture=wellingtonian }
+2018 = { name="Walker" culture=wellingtonian }
+2019 = { name="White" culture=wellingtonian }
+2020 = { name="Wilford" culture=wellingtonian }
+2021 = { name="Williams" culture=wellingtonian }
+2022 = { name="Young" culture=wellingtonian }
+2023 = { name="Walsh" culture=wellingtonian }

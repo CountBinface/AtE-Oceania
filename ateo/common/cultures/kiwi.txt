@@ -160,4 +160,60 @@ kiwi = {
 		seafarer = yes
 		modifier = default_culture_modifier
 	}
+	
+	wellingtonian = {
+		graphical_cultures = { englishgfx }
+
+		color = { 0.3 0.1 0.7 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alan_Alan Alexander_Alexander Alfred_Alfred Andy_Andrew Arthur_Arthur
+			Brian_Brian
+			Colin_Colin
+			Derek_Derek Douglas_Douglas
+			Eddie_Edward
+			Frank_Francis
+			Harold_Harold
+			Ian
+			James_James John_John
+			Karl_Charles
+			Lloyd
+			Michael_Michael Murray
+			Ollie_Oliver
+			Percy_Percy Peter_Peter
+			Richard_Richard Ross Roy
+			Steve_Stephen
+			William_William
+		}
+		female_names = {
+			Adrienne_Adriana Anna_Anna
+			Doris Dorothy_Dorothy
+			Elise_Elizabeth Ethel_Ethel
+			Helen_Helen
+			Louisa_Louise Lynn_Lynn
+			Marie_Mary Michelle_Michelle
+			Janet_Janet Jenny_Jennifer
+			Sarah_Sarah Sue_Susan
+			Ruth_Ruth
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
 }

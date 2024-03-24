@@ -33,6 +33,8 @@ c_enewetak;Enewetak;Enewetak;Enewetak;;Enewetak;;;;;;;;;x
 c_enewetak_adj;Enewetakian;;enewetaker;;;;;;;;;;;x
 c_faasaleleaga;Fa'asaleleaga;Fa'asaleleaga;Fa'asaleleaga;;Fa'asaleleaga;;;;;;;;;x
 c_faasaleleaga_adj;Fa'asaleleagan;;fa'asaleleager;;;;;;;;;;;x
+c_far_north;Far North;Far North;Far North;;Far North;;;;;;;;;x
+c_far_north_adj;Far Northian;;Far Norther;;;;;;;;;;;x
 c_futuna;Futuna;Futuna;Futuna;;Futuna;;;;;;;;;x
 c_futuna_adj;Futunan;;futuner;;;;;;;;;;;x
 c_gizo;Gizo;Gizo;Gizo;;Gizo;;;;;;;;;x
@@ -47,6 +49,8 @@ c_jaluit;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
 c_jaluit_adj;Jaluitian;;jaluiter;;;;;;;;;;;x
 c_kadavu;Kadavu;Kadavu;Kadavu;;Kadavu;;;;;;;;;x
 c_kadavu_adj;Kadavian;;kadaver;;;;;;;;;;;x
+c_kaipara;Kaipara;Kaipara;Kaipara;;Kaipara;;;;;;;;;x
+c_kaipara_adj;Kaiparan;;kaiparer;;;;;;;;;;;x
 c_kermadec_islands;Kermadec Islands;Kermadec Islands;Kermadec Islands;;Kermadec Islands;;;;;;;;;x
 c_kermadec_islands_adj;Kermadec Islandsian;;Kermadec Islandser;;;;;;;;;;;x
 c_kone;Koné;Koné;Koné;;Koné;;;;;;;;;x
@@ -171,6 +175,8 @@ c_west_guadalcanal;West Guadalcanal;West Guadalcanal;West Guadalcanal;;West Guad
 c_west_guadalcanal_adj;West Guadalcanalian;;West Guadalcanaler;;;;;;;;;;;x
 c_whakatane;Whakatane;Whakatane;Whakatane;;Whakatane;;;;;;;;;x
 c_whakatane_adj;Whakatanean;;whakataner;;;;;;;;;;;x
+c_whangarei;Whangarei;Whangarei;Whangarei;;Whangarei;;;;;;;;;x
+c_whangarei_adj;Whangarian;;whangarer;;;;;;;;;;;x
 c_woleai;Woleai;Woleai;Woleai;;Woleai;;;;;;;;;x
 c_woleai_adj;Wolian;;woler;;;;;;;;;;;x
 c_wotje;Wotje;Wotje;Wotje;;Wotje;;;;;;;;;x

@@ -1,0 +1,21 @@
+# c_whangarei
+
+# County Title
+title = c_whangarei
+
+# Settlements
+max_settlements = 5
+
+b_whangarei = castle
+b_ruakaka = city
+b_hikurangi = temple
+#b_mangawhai = castle
+#b_waipu = city
+#b_ngunguru = temple
+#b_kamo = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History

@@ -1,0 +1,21 @@
+# c_kaipara
+
+# County Title
+title = c_kaipara
+
+# Settlements
+max_settlements = 4
+
+b_dargaville = castle
+b_maungatoro = temple
+#b_kaiwaka = temple
+#b_te_kopuru = castle
+#b_ruawai = city
+#b_paparoa = temple
+#b_pahi = castle
+
+# Misc
+culture = aucklander
+religion = purakau
+
+#History
