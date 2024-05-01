@@ -6,8 +6,8 @@ title = c_taupo
 # Settlements
 max_settlements = 4
 
-b_taupo = castle
-b_turangi = temple
+b_taupo = temple
+b_turangi = castle
 #b_mangakino = temple
 #b_kinloch = castle
 #b_wairakei = city

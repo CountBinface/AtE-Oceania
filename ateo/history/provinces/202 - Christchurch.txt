@@ -1,0 +1,21 @@
+# c_christchurch
+
+# County Title
+title = c_christchurch
+
+# Settlements
+max_settlements = 6
+
+b_christchurch = temple
+b_riccarton = castle
+b_linwood = city
+b_hornby = temple
+#b_lyttleton = city
+#b_akaroa = temple
+#b_shirley = castle
+
+# Misc
+culture = cantab
+religion = anglican
+
+#History

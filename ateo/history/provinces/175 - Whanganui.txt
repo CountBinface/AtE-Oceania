@@ -12,7 +12,7 @@ b_ohakune = city
 #b_raetihi = castle
 #b_jerusalem = city
 #b_national_park = temple
-#b_whakapapa_village = castle
+#b_whakapapa = castle
 
 # Misc
 culture = wellingtonian

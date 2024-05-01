@@ -1,0 +1,21 @@
+# c_buller
+
+# County Title
+title = c_buller
+
+# Settlements
+max_settlements = 3
+
+b_westport = castle
+#b_reefton = city
+#b_barrytown = temple
+#b_mokihinui = castle
+#b_inangahua = city
+#b_punakaiki = temple
+#b_charleston = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

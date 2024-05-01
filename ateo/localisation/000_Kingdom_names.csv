@@ -1,6 +1,8 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
 k_auckland;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
 k_auckland_adj;Aucklandian;;aucklander;;;;;;;;;;;x
+k_canterbury;Canterbury;Canterbury;Canterbury;;Canterbury;;;;;;;;;x
+k_canterbury_adj;Canterburian;;canterburer;;;;;;;;;;;x
 k_fiji;Fiji;Fiji;Fiji;;Fiji;;;;;;;;;x
 k_fiji_adj;Fijian;;fijer;;;;;;;;;;;x
 k_gilbert_marshalls;Gilbert-Marshalls;Gilbert-Marshalls;Gilbert-Marshalls;;Gilbert-Marshalls;;;;;;;;;x
@@ -9,6 +11,8 @@ k_melanesia;Melanesia;Melanesia;Melanesia;;Melanesia;;;;;;;;;x
 k_melanesia_adj;Melanesian;;melaneser;;;;;;;;;;;x
 k_micronesia;Micronesia;Micronesia;Micronesia;;Micronesia;;;;;;;;;x
 k_micronesia_adj;Micronesian;;microneser;;;;;;;;;;;x
+k_otago;Otago;Otago;Otago;;Otago;;;;;;;;;x
+k_otago_adj;Otagian;;otager;;;;;;;;;;;x
 k_polynesia;Polynesia;Polynesia;Polynesia;;Polynesia;;;;;;;;;x
 k_polynesia_adj;Polynesian;;polyneser;;;;;;;;;;;x
 k_solomon_islands;Solomon Islands;Solomon Islands;Solomon Islands;;Solomon Islands;;;;;;;;;x

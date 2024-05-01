@@ -1,8 +1,11 @@
-# e_new_zealand
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+2500.1.1={
+	liege=d_bay_of_plenty
 }
-800.1.1={
-	liege=k_north_island
+
+2643.1.1={
+	holder=41030
+}
+
+2661.1.1={
+	holder=41029
 }

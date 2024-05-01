@@ -1,0 +1,21 @@
+# c_grey
+
+# County Title
+title = c_grey
+
+# Settlements
+max_settlements = 3
+
+b_greymouth = castle
+#b_hokitika = city
+#b_runanga = temple
+#b_ross = castle
+#b_kumara = city
+#b_blackball = temple
+#b_ahaura = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

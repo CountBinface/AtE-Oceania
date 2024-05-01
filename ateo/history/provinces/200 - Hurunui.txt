@@ -1,0 +1,21 @@
+# c_hurunui
+
+# County Title
+title = c_hurunui
+
+# Settlements
+max_settlements = 3
+
+b_amberley = castle
+#b_hanmer_springs = city
+#b_lethfield = temple
+#b_culverden = castle
+#b_cheviot = city
+#b_waipara = temple
+#b_waiau = castle
+
+# Misc
+culture = cantab
+religion = anglican
+
+#History

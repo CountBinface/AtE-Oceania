@@ -1,0 +1,21 @@
+# c_stewart_island
+
+# County Title
+title = c_stewart_island
+
+# Settlements
+max_settlements = 3
+
+b_oban = castle
+#b_port_pegasus = city
+#b_port_william = temple
+#b_mason_bay = castle
+#b_pearl_island = city
+#b_toitoi_bay = temple
+#b_sawdust_bay = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

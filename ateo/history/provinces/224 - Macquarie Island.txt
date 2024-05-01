@@ -1,0 +1,21 @@
+# c_macquarie_island
+
+# County Title
+title = c_macquarie_island
+
+# Settlements
+max_settlements = 1
+
+b_macca = castle
+#b_hasselborough_bay = city
+#b_lusitania_bay = temple
+#b_phantom_lake = castle
+#b_adalene_lake = city
+#b_wireless_hill = temple
+#b_bencleugh = castle
+
+# Misc
+culture = southlander
+religion = anglican
+
+#History

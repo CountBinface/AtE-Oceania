@@ -1,0 +1,21 @@
+# c_clutha
+
+# County Title
+title = c_clutha
+
+# Settlements
+max_settlements = 3
+
+b_balclutha = castle
+#b_milton = city
+#b_tapanui = temple
+#b_kaitangata = castle
+#b_roxburgh = city
+#b_lawrence = temple
+#b_owaka = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

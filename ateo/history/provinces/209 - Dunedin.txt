@@ -1,0 +1,21 @@
+# c_dunedin
+
+# County Title
+title = c_dunedin
+
+# Settlements
+max_settlements = 5
+
+b_dunedin = castle
+b_mosgiel = temple
+b_port_chalmers = city
+#b_brighton = castle
+#b_waikouaiti = city
+#b_outram = temple
+#b_middlemarch = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

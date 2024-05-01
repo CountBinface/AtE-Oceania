@@ -1,0 +1,21 @@
+# c_marlborough
+
+# County Title
+title = c_marlborough
+
+# Settlements
+max_settlements = 4
+
+b_blenheim = castle
+b_picton = city
+#b_renwick = temple
+#b_wairau_valley = castle
+#b_havelock = city
+#b_seddon = temple
+#b_rarangi = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

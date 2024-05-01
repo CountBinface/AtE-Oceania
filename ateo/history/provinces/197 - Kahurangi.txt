@@ -1,0 +1,21 @@
+# c_kahurangi
+
+# County Title
+title = c_kahurangi
+
+# Settlements
+max_settlements = 3
+
+b_takaka = castle
+#b_karamea = city
+#b_collingwood = temple
+#b_little_wanganui = castle
+#b_tata_beach = city
+#b_bainham = temple
+#b_puponga = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

@@ -1,0 +1,21 @@
+# c_auckland_islands
+
+# County Title
+title = c_auckland_islands
+
+# Settlements
+max_settlements = 1
+
+b_hardwicke = castle
+#b_carnley_harbour = city
+#b_norman_inlet = temple
+#b_whakahao_bay = castle
+#b_disappointment_island = city
+#b_grafton = temple
+#b_dundonald = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History

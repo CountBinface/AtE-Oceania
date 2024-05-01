@@ -1,0 +1,21 @@
+# c_timaru
+
+# County Title
+title = c_timaru
+
+# Settlements
+max_settlements = 4
+
+b_timaru = castle
+b_temuka = temple
+#b_geraldine = temple
+#b_pleasant_point = castle
+#b_winchester = city
+#b_orari = temple
+#b_pareroa = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

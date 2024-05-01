@@ -1,0 +1,21 @@
+# c_fiordland
+
+# County Title
+title = c_fiordland
+
+# Settlements
+max_settlements = 3
+
+b_te_anau = castle
+#b_manapouri = city
+#b_milford_sound = temple
+#b_blanket_bay = castle
+#b_the_key = city
+#b_whare_creek = temple
+#b_te_anau_downs = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

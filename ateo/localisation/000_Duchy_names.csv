@@ -1,4 +1,6 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+d_antarctic_islands;Antarctic Islands;Antarctic Islands;Antarctic Islands;;Antarctic Islands;;;;;;;;;x
+d_antarctic_islands_adj;Antarctic Islandsian;;Antarctic Islandser;;;;;;;;;;;x
 d_auckland;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
 d_auckland_adj;Aucklandian;;aucklander;;;;;;;;;;;x
 d_bay_of_plenty;Bay of Plenty;Bay of Plenty;Bay of Plenty;;Bay of Plenty;;;;;;;;;x
@@ -7,6 +9,8 @@ d_bougainville;Bougainville;Bougainville;Bougainville;;Bougainville;;;;;;;;;x
 d_bougainville_adj;Bougainvillean;;bougainviller;;;;;;;;;;;x
 d_caledonia;Caledonia;Caledonia;Caledonia;;Caledonia;;;;;;;;;x
 d_caledonia_adj;Caledonian;;caledoner;;;;;;;;;;;x
+d_canterbury;Canterbury;Canterbury;Canterbury;;Canterbury;;;;;;;;;x
+d_canterbury_adj;Canterburian;;canterburer;;;;;;;;;;;x
 d_central_solomons;Central Solomons;Central Solomons;Central Solomons;;Central Solomons;;;;;;;;;x
 d_central_solomons_adj;Central Solomonsian;;Central Solomonser;;;;;;;;;;;x
 d_chatham_islands;Chatham Islands;Chatham Islands;Chatham Islands;;Chatham Islands;;;;;;;;;x
@@ -29,16 +33,24 @@ d_mariana_islands;Mariana Islands;Mariana Islands;Mariana Islands;;Mariana Islan
 d_mariana_islands_adj;Mariana Islandsian;;Mariana Islandser;;;;;;;;;;;x
 d_marshall_islands;Marshall Islands;Marshall Islands;Marshall Islands;;Marshall Islands;;;;;;;;;x
 d_marshall_islands_adj;Marshall Islandsian;;Marshall Islandser;;;;;;;;;;;x
+d_nelson;Nelson;Nelson;Nelson;;Nelson;;;;;;;;;x
+d_nelson_adj;Nelsonian;;nelsoner;;;;;;;;;;;x
 d_north_polynesia;North Polynesia;North Polynesia;North Polynesia;;North Polynesia;;;;;;;;;x
 d_north_polynesia_adj;North Polynesian;;North Polyneser;;;;;;;;;;;x
 d_northland;Northland;Northland;Northland;;Northland;;;;;;;;;x
 d_northland_adj;Northlandian;;northlander;;;;;;;;;;;x
+d_otago;Otago;Otago;Otago;;Otago;;;;;;;;;x
+d_otago_adj;Otagian;;otager;;;;;;;;;;;x
 d_palau_yap;Palau-Yap;Palau-Yap;Palau-Yap;;Palau-Yap;;;;;;;;;x
 d_palau_yap_adj;Palau-Yapian;;palau-yaper;;;;;;;;;;;x
 d_samoa;Samoa;Samoa;Samoa;;Samoa;;;;;;;;;x
 d_samoa_adj;Samoan;;samer;;;;;;;;;;;x
+d_southland;Southland;Southland;Southland;;Southland;;;;;;;;;x
+d_southland_adj;Southlandian;;southlander;;;;;;;;;;;x
 d_taranaki;Taranaki;Taranaki;Taranaki;;Taranaki;;;;;;;;;x
 d_taranaki_adj;Taranakian;;taranaker;;;;;;;;;;;x
+d_timaru;Timaru;Timaru;Timaru;;Timaru;;;;;;;;;x
+d_timaru_adj;Timarian;;timarer;;;;;;;;;;;x
 d_tonga;Tonga;Tonga;Tonga;;Tonga;;;;;;;;;x
 d_tonga_adj;Tongan;;tonger;;;;;;;;;;;x
 d_tungaru;Tungaru;Tungaru;Tungaru;;Tungaru;;;;;;;;;x
@@ -55,5 +67,7 @@ d_waikato;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
 d_waikato_adj;Waikatian;;waikater;;;;;;;;;;;x
 d_wellington;Wellington;Wellington;Wellington;;Wellington;;;;;;;;;x
 d_wellington_adj;Wellingtonian;;wellingtoner;;;;;;;;;;;x
+d_west_coast;West Coast;West Coast;West Coast;;West Coast;;;;;;;;;x
+d_west_coast_adj;West Coastian;;West Coaster;;;;;;;;;;;x
 d_west_solomons;West Solomons;West Solomons;West Solomons;;West Solomons;;;;;;;;;x
 d_west_solomons_adj;West Solomonsian;;West Solomonser;;;;;;;;;;;x

@@ -1,5 +1,31 @@
-# k_auckland
-500.1.1={
-	law = agnatic_succession
-	law = succ_gavelkind
+2361.1.1={
+	holder=41051
+}
+
+2382.1.1={
+	holder=41052
+}
+
+2384.1.1={
+	holder=41053
+}
+
+2432.1.1={
+	holder=41054
+}
+
+2445.1.1={
+	holder=41055
+}
+
+2460.1.1={
+	holder=41056
+}
+
+2477.1.1={
+	holder=41057
+}
+
+2489.1.1={
+	holder=0
 }

@@ -1,0 +1,21 @@
+# c_ashburton
+
+# County Title
+title = c_ashburton
+
+# Settlements
+max_settlements = 4
+
+b_ashburton = castle
+b_mount_somers = temple
+#b_methven = temple
+#b_rakaia = castle
+#b_chertsey = city
+#b_hinds = temple
+#b_mayfield = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

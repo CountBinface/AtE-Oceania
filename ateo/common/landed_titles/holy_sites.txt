@@ -1,3 +1,7 @@
+c_tutuila = { # 1
+	holy_site = cetic
+}
+
 c_tuamasaga = { # 3
 	holy_site = congregational
 	holy_site = methodist
@@ -60,6 +64,7 @@ c_chuuk = { # 42
 c_guam = { # 45
 	holy_site = katoliko
 	holy_site = mormon
+	holy_site = cetic
 }
 
 c_saipan = { #46
@@ -75,8 +80,12 @@ c_tafea = { # 112
 }
 
 c_shefa = { # 113
-	holy_site = franco-catholique
+	holy_site = presbyterian
 	holy_site = john_frum_cultist
+}
+
+c_sanma = { # 116
+	holy_site = franco-catholique
 }
 
 c_noumea = { # 120
@@ -94,4 +103,55 @@ c_gizo = { # 141
 c_buka = { # 147
 	holy_site = franco-catholique
 	holy_site = katoliko
+}
+
+c_east_cape = { # 156
+	holy_site = purakau
+}
+
+c_tauranga = { # 159
+	holy_site = tolkienist
+}
+
+c_taupo = { # 161
+	holy_site = purakau
+}
+
+c_auckland = { # 165
+	holy_site = fijian_hindu
+	holy_site = cetic
+	holy_site = purakau
+}
+
+c_whangarei = { # 167
+	holy_site = presbyterian
+}
+
+c_hawera = { # 174
+	holy_site = purakau
+}
+
+c_whanganui = { # 175
+	holy_site = tolkienist
+}
+
+c_wellington = { # 179
+	holy_site = tolkienist
+}
+
+c_christchurch = { # 202
+	holy_site = anglican
+	holy_site = purakau
+}
+
+c_ashburton = { # 204
+	holy_site = tolkienist
+}
+
+c_dunedin = { # 209
+	holy_site = presbyterian
+}
+
+c_queenstown = { # 212
+	holy_site = tolkienist
 }

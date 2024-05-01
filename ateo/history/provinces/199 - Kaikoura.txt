@@ -1,0 +1,21 @@
+# c_kaikoura
+
+# County Title
+title = c_kaikoura
+
+# Settlements
+max_settlements = 3
+
+b_kaikoura = castle
+#b_waipapa_bay = city
+#b_hawkswood = temple
+#b_kekerengu = castle
+#b_oaro = city
+#b_clarence = temple
+#b_goose_bay = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

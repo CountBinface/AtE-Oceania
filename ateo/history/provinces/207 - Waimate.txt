@@ -1,0 +1,21 @@
+# c_waimate
+
+# County Title
+title = c_waimate
+
+# Settlements
+max_settlements = 3
+
+b_waimate = castle
+#b_hakataramea = city
+#b_maungati = temple
+#b_glenavy = castle
+#b_st_andrews = city
+#b_makikihi = temple
+#b_morven = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

@@ -73,23 +73,25 @@ filipino = {
 		color = { 0.8 0.7 0.2 }
 		
 		male_names = {
-			Alberto_Albert Alfredo_Alfred Allan_Alan Alvin Antonio_Anthony Ariel Arnel_Arnold
+			Alberto_Albert Alfredo_Alfred Allan_Alan Alvin Angelo_Angel Antonio_Anthony Ariel Arnel_Arnold
 			Christian_Christian Christopher_Christopher
 			Danilo_Daniel Dennis_Dennis
-			Edgar_Edgar Eduardo_Edward Edwin_Edwin Elmer Ernesto_Ernest
+			Edgar_Edgar Eduardo_Edward Edwin_Edwin Elmer Ernesto_Ernest Ethan_Ethan Ezekiel_Ezekiel
 			Fernando_Ferdinand Francisco_Francis
-			Jaime_James Jayson_Jason Jeffrey_Jeffrey Jerry_Jerry Jesus_Jesus Joel_Joel John_John Jonathan_Jonathan Jose_Joseph
-			Manuel_Manuel Mario_Mario Marlon Mark_Mark Marvin Michael_Michael
-			Nelson Nestor Noel
+			Gabriel_Gabriel
+			Jacob_Jacob Jaime_James Jayson_Jason Jeffrey_Jeffrey Jerry_Jerry Jesus_Jesus Joel_Joel John_John Jonathan_Jonathan Jose_Joseph
+			Manuel_Manuel Mario_Mario Marlon Mark_Mark Marvin Matthew_Matthew Michael_Michael
+			Nathaniel_Nathan Nelson Nestor Noel
 			Pedro_Peter
 			Randy_Randy Renato Reynaldo_Reynold Richard_Richard Roberto_Robert Rodolfo_Rudolph Rodrigo_Roderick Rogelio_Roger Rolando_Roland Romeo Ryan_Ryan
 			Vicente_Vincent
 			Wilfredo_Wilfred
+			Zion
 		}
 		
 		female_names = {
-			Alma Ana_Anna Analyn Arlene
-			Catherine_Catherine Corazon Cristina_Christina
+			Alma Althea Ana_Anna Analyn Andrea_Andrea Angel_Angela Arlene
+			Catherine_Catherine Chloe_Chloe Corazon Cristina_Christina
 			Edna Elizabeth_Elizabeth Erlinda Evangeline Evelyn_Evelyn
 			Fe
 			Gemma Gina Gloria_Gloria Grace
@@ -98,9 +100,9 @@ filipino = {
 			Jennifer_Jennifer Joan_Joan Jocelyn_Jocelyn Josephine_Josephine Julie_Julia
 			Lolita Lorna Lourdes
 			Maricel Marilou Marilyn Marissa Marites Marivic Mary_Mary Melanie_Melanie Michelle_Michelle Myrna
-			Nenita Norma
+			Nathalie_Natalie Nenita Norma
 			Rosalie Rose_Rose Rosemarie_Rosemary Rosita Rowena
-			Susan_Susan
+			Samantha_Samantha Sofia_Sophia Susan_Susan
 			Teresita_Teresita
 			Vilma Virginia_Virginia
 			Zenaida

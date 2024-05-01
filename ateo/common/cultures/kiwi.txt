@@ -9,40 +9,45 @@ kiwi = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Alan_Alan Albert_Albert Alfred_Alfred Alexander_Alexander Andrew_Andrew Arthur_Arthur
-			Ben_Benjamin Brian_Brian Bruce
-			Charles_Charles
-			Don_Donald
-			Edmund_Edmund Edward_Edward
-			Francis_Francis Fred_Frederick
-			George_George Graeme_Graham
-			Harry_Harold Henry_Henry
-			Ian Isaac_Isaac
-			Jack_Jack James_James Jeremy_Jeremy John_John
-			Keith
-			Leo_Leo
-			Michael_Michael Murray
-			Nikau
-			Paul_Paul Peter_Peter
-			Ron_Ronald Roy
-			Samuel_Samuel
-			Tim_Timothy
-			Walter_Walter Wayne William_William
+			Albert_Albert Aldaron Alfred_Alfred Alexander_Alexander Andrew_Andrew Annael Aragorn Aranel Arathorn Archie_Archibald Arlo Arthur_Arthur Asher
+			Beau Ben_Benjamin Beren Bilbo Brian_Brian Bruce
+			Celeborn Charlie_Charles Cirdan Ciryon Cooper
+			Dior
+			Earendil Edmund_Edmund Edward_Edward Elatan Eldarion Elendil Elessar Elijah_Elijah Elrond Eomer Eomund Ethan_Ethan
+			Feanor Francis_Francis Fred_Frederick Frodo
+			Gandalf George_George Graeme_Graham
+			Harry_Harold Henry_Henry Hilary Hudson Hugo_Hugh
+			Ian Iorlas Isaac_Isaac Isildur
+			Jack_Jack Jackson_Jackson James_James Jeremy_Jeremy John_John
+			Leo_Leo Legolas Lucas_Lucas
+			Mandos Mason Michael_Michael Milo Murray
+			Nikau Noah_Noah
+			Oliver_Oliver Olorin Oscar_Oscar
+			Paul_Paul Percy_Percy Peter_Peter
+			Rodney Ron_Ronald Rohan Rowan Roy
+			Salmar Samuel_Samuel
+			Thranduil Theoden Theodore_Theodore Tilion Tim_Timothy
+			Valinor
+			Walter_Walter William_William
 		}
 		female_names = {
-			Alice_Alice Anna_Anna Aria_Aria
+			Aerin Alice_Alice Amelia_Amelia Anna_Anna Arda Aredhel Aria_Aria Arien Arwen
 			Barbara_Barbara
-			Carolyn_Caroline Catherine_Catherine Charlotte_Charlotte Christine_Christina
-			Doris
-			Frances_Francesca
-			Georgina_Georgia
-			Isabella_Isabella
-			Jane_Jane Janet_Janet June_June
-			Lily_Lilian
-			Maia Manaia Margaret_Margaret Marianne_Marianne Mary_Mary Melanie_Melanie
-			Pat_Patricia
-			Rachel_Rachel
-			Stella_Stella Sue_Susan
+			Carolyn_Caroline Catherine_Catherine Celebrian Charlotte_Charlotte
+			Earwen Edith Elenna_Helen Ella_Eleanor Eowyn Eva
+			Frances_Francesca Freya
+			Galadriel Georgina_Georgia
+			Hanna_Hannah Harper Hazel Hilda_Hilda
+			Idril Isabella_Isabella Isla Ivy
+			Jacinda Jane_Jane Janet_Janet June_June
+			Laura_Laura Lily_Lilian Lorellin Luthien Luna
+			Mabel Madison Maeve Maia Manaia Margot_Margaret Marianne_Marianne Mary_Mary Matilda_Matilda Melanie_Melanie Millie_Millicent Morwen
+			Olivia_Olivia
+			Quenya Quinn
+			Rachel_Rachel Rian
+			Sienna Sophie_Sophia Stella_Stella Sue_Susan
+			Varda Violet
+			Zara_Sarah Zimrahin Zoe_Zoey
 		}
 
 		from_dynasty_prefix = "of "
@@ -63,6 +68,143 @@ kiwi = {
 		modifier = default_culture_modifier
 	}
 	
+	cantab = {
+		graphical_cultures = { englishgfx }
+
+		color = { 0.15 0.75 0.1 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alexander_Alexander Andrew_Andrew Anduin Anson Aragorn Aranel Archie_Archibald Arnaud_Arnold Arthur_Arthur
+			Balin Barry_Barry Beorn Beren Boromir Bruno
+			Celeborn Charlie_Charles Christopher_Christopher
+			Dain David_David Denethor Dior Duilin Don_Donald Dorin Durin Dwalin
+			Elurin Ernest_Ernest
+			Farin Franz_Francis Ferdinand_Ferdinand Freddie_Frederick
+			Gandalf Geoffrey_Jeffrey George_George Glen
+			Haldir Harry_Harold
+			Iorlas Irmo Isildur
+			Jackson_Jackson John_John Josef_Joseph
+			Lloyd
+			Mithrandir
+			Nelson_Nelson
+			Orome Owen
+			Radagast Ralph_Ralph Richard_Richard Robert_Robert Rohan Ross
+			Samwise
+			Thranduil Theo_Theodore Thorin Tom_Thomas Tuor
+		}
+		female_names = {
+			Amethyst Andreth Arda Arwen
+			Brienne_Briana
+			Celandine Celebrian Charlotte_Charlotte
+			Dina_Dinah
+			Effie Elanor_Eleanor Elbereth Elizabeth_Elizabeth Este
+			Fanny Freda_Alfreda
+			Galadriel Geraldine_Geraldine Grace
+			Hanna_Hannah Harper 
+			Jane_Jane Jessamine
+			Lorellin Lucy_Lucy Luthien
+			Malva Margaret_Margaret Mary_Mary Melilot Millie_Millicent Moria_Moria Morwen
+			Nessa Nienna
+			Olivia_Olivia
+			Quenya
+			Rosie_Rose
+			Sarah_Sarah Shirley_Shirley
+			Thea
+			Vaire
+			Yavanna
+			Zimrahin Zoe_Zoey
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 20
+		mat_grf_name_chance = 20
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 20
+		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	southlander = {
+		graphical_cultures = { celticgfx }
+
+		color = { 1.0 0.85 0.15 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Aaron_Aaron Adam_Adam Aiden_Aiden Aldor Alexander_Alexander Angus Aragorn Arathorn Archibald_Archibald Arthur_Arthur
+			Bain Balin Baran Bard Ben_Benjamin Beren Beorn Bilbo Bombur Brad Brent
+			Celeborn
+			Donald_Donald Dorin Durin Dwalin
+			Edward_Edward Eothain 
+			Farin Frank_Francis Frederick_Frederick Frodo
+			Gandalf Geoff_Jeffrey George_George Gimli Gloin
+			Harvey Henry_Henry Hugh_Hugh Hurin
+			Isildur
+			James_James Joseph_Joseph
+			Kenneth_Kenneth
+			Lachlan Legolas Lawrence_Lawrence
+			Maedhros Malcolm Merry Meneldor
+			Namo Nigel_Nigel
+			Oliver_Oliver Olorin 
+			Paladin Peter_Peter Pippin_Pippin
+			Radagast Reuben Robert_Robert Robin Rohan
+			Samwise Scott Shane Spencer
+			Thrain Thranduil Tharkun Theo_Theodore Thorin Tom_Thomas
+			Warren Wayne William_William
+		}
+		female_names = {
+			Alexandra_Alexandra Alice_Alice Alison Andreth Annabel Anne_Anna Arabella Arda Arwen
+			Berylla Bonnie_Bonnie Bridget_Bridget
+			Celebrian Clara_Claire Cora_Cora Courtney_Courtney
+			Elbereth Elizabeth_Elizabeth
+			Florence_Florence
+			Galadriel
+			Hazel Helen_Helen Hilda_Hilda
+			Idril Ioreth Isabella_Isabella Isla
+			Jan_Joan Jenny_Jennifer
+			Luthien
+			Mackenzie_Mackenzie Malva Margaret_Margaret Marisa_Marissa Mary_Mary Mirabella Miriel_Muriel Moria_Moria Morwen
+			Narya Nenya Nienna
+			Prisca
+			Quenya
+			Rachel_Rachel Rose_Rose
+			Sophie_Sophia
+			Tania_Tania Thea
+			Vilya
+			Willow
+			Zimrahin
+		}
+
+		from_dynasty_prefix = "of "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 15
+		father_name_chance = 5
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 30
+		mat_grm_name_chance = 15
+		mother_name_chance = 10
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
 	wellingtonian = {
 		graphical_cultures = { englishgfx }
 
@@ -71,41 +213,49 @@ kiwi = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Alan_Alan Alexander_Alexander Alfred_Alfred Andy_Andrew Arthur_Arthur
-			Brian_Brian
-			Colin_Colin
-			Derek_Derek Douglas_Douglas
-			Eddie_Edward
-			Frank_Francis
-			Geoffrey_Jeffrey George_George Gordon_Gordon
-			Harold_Harold Henry_Henry Hugo_Hugh
-			Ian
+			Adalbert_Albert Aldaron Alan_Alan Alexander_Alexander Alfrid_Alfred Andy_Andrew Aragorn Aranel Arathorn Arthur_Arthur
+			Beren Boromir Brian_Brian
+			Carter Celeborn Celebrian Christopher_Christopher Ciryon Clive Colin_Colin
+			Daeron Denethor Derek_Derek Dior Douglas_Douglas
+			Earendil Eddie_Edward Eldarion Elendil Elessar Elrond Elurin Eomer 
+			Faramir Feanor Francis_Francis
+			Gandalf Geoffrey_Jeffrey George_George Gordon_Gordon
+			Harold_Harold Henry_Henry Herbert_Herbert Hugo_Hugh Hunter
+			Ian Isildur
 			James_James John_John
 			Karl_Charles
 			Leo_Leo Lloyd
-			Michael_Michael Murray
+			Mandil Manwe Mardil Michael_Michael Mithrandir Murray
 			Noel
 			Ollie_Oliver
 			Paul_Paul Percy_Percy Peter_Peter
-			Richard_Richard Robin Ross Roy
-			Steve_Stephen
-			Timothy_Timothy
+			Reuel Richard_Richard Robin Rohan Ronald_Ronald Ross Rowan Roy
+			Samwise Steve_Stephen
+			Thranduil Theoden Timothy_Timothy
+			Valinor
 			William_William
 		}
 		female_names = {
-			Adrienne_Adriana Anna_Anna Ashley_Ashley Aurora_Aurora
-			Barbara_Barbara Bessie_Bessie
-			Doris Dorothy_Dorothy
-			Elise_Elizabeth Ethel_Ethel
+			Adanel Adrienne_Adriana Aerin Alfrida_Alfreda Amelia_Amelia Anna_Anna Ashley_Ashley Arda Aredhel Arien Arwen Aurora_Aurora Ava
+			Barbara_Barbara
+			Carmellia_Carmella
+			Dorothy_Dorothy
+			Earwen Elanor_Eleanor Elbereth Elenna_Helen Elise_Elizabeth Este Estella_Stella Eowyn
 			Florence_Florence
-			Georgia_Georgia
-			Helen_Helen
+			Galadriel Georgia_Georgia
+			Ivy
 			Janet_Janet Jenny_Jennifer
-			Louisa_Louise Lucy_Lucy Lynn_Lynn
-			Marie_Mary Matilda_Matilda Michelle_Michelle
+			Kim_Kimberly
+			Lalia Lorellin Louisa_Louise Lucy_Lucy Luthien Lynn_Lynn
+			Maia Marie_Mary Matilda_Matilda Melian Michelle_Michelle Morwen
+			Narya Nenya Nessa
 			Pauline_Paula
-			Sarah_Sarah Sue_Susan
+			Quenya
 			Ruth_Ruth
+			Sarah_Sarah Sue_Susan
+			Vaire Varda Victoria_Victoria Vilya
+			Yavanna
+			Zimrahin
 		}
 
 		from_dynasty_prefix = "of "

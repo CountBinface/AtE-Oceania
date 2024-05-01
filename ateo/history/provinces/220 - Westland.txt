@@ -1,0 +1,21 @@
+# c_westland
+
+# County Title
+title = c_westland
+
+# Settlements
+max_settlements = 3
+
+b_franz_josef = castle
+#b_fox_glacier = city
+#b_whataroa = temple
+#b_hari_hari = castle
+#b_haast = city
+#b_okarito = temple
+#b_jackson_bay = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

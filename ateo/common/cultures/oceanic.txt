@@ -74,7 +74,7 @@ greater_micronesian = {
 		male_names = {
 			Anterea_Andrew Antonio_Anthony Arekantara_Alexander Arobati_Albert
 			B'arotorome_Bartholomew Baraniko_Francis Bateriki_Patrick Bauro_Paul Beniamina_Benjamin Betero_Peter Biribo_Philip
-			Eneri_Henry Eria_Elias Etuati_Edward
+			Eneri_Henry Eria_Elijah Etuati_Edward
 			Kiritoba_Christopher
 			Ionatan_Jonathan Ioteba_Joseph Iuriuti_Julius
 			Mareko_Mark Mataio_Matthew Mikaere_Michael Mote_Moses
@@ -320,17 +320,18 @@ melanesian = {
 			Bernard_Bernard Bruno
 			Christian_Christian Christophe_Christopher Claude_Claud
 			Daniel_Daniel David_David Didier Dominique_Dominic
-			Eric_Eric
+			Emmanuel_Emmanuel Eric_Eric
 			Franck_Francis Frederic_Frederick
-			Georges_George Gilles_Giles
+			Gabriel_Gabriel Georges_George Gilles_Giles
 			Jacques_Jack Jean_John Jean-Claude_John-Claud Jean-Pierre_John-Peter Jerome_Jerome Joseph_Joseph Julien_Julian
+			Kayden_Kaiden
 			Laurent_Lawrence
 			Marc_Mark Michel_Michael
 			Nicolas_Nicholas
 			Olivier_Oliver
 			Pascal_Pascal Patrick_Patrick Paul_Paul Philippe_Philip Pierre_Peter
 			Richard_Richard
-			Sebastien_Sebastian Stephane_Stephen
+			Samuel_Samuel Sebastien_Sebastian Stephane_Stephen
 			Thierry_Terence Thomas_Thomas
 			Vincent_Vincent
 		}
@@ -338,19 +339,21 @@ melanesian = {
 			Alice_Alice Anne_Anna Audrey_Audrey Aurelie_Aurelia
 			Beatrice_Beatrice Brigitte_Bridgette
 			Caroline_Caroline Catherine_Catherine Cecile_Cecilia Chantal_Chantal Christine_Christina Corinne_Corina
-			Estelle_Stella Elise_Lisa Evelyne_Evelyn
+			Estelle_Stella Elise_Elizabeth Eva_Eve Evelyne_Evelyn
 			Fabienne_Fabienne Florence_Florence Francoise_Francesca
 			Helene_Helen
 			Isabelle_Isabella
 			Jacqueline_Jacqueline Jeanne_Joan Julie_Julia
 			Karine_Karen
-			Louise_Louise
-			Marie_Mary Marie-Anne_Marianne Martine_Martina Monique_Monica
+			Lena Louise_Louise
+			Marie_Mary Marie-Anne_Marianne Martine_Martina Maya Monique_Monica
 			Nathalie_Natalie Nicole_Nicole
+			Olivia_Olivia
 			Pascale_Pascale Patricia_Patricia
 			Sandrine_Cassandra Sonia_Sonia Sophie_Sophia Stephanie_Stephanie Sylvie_Silvia
 			Therese_Teresa
 			Valerie_Valerie Vanessa_Vanessa Veronique_Veronica Virginie_Virginia
+			Zoe_Zoey
 		}
 
 		from_dynasty_prefix = "de "
@@ -571,26 +574,32 @@ polynesian = {
 		dukes_called_kings = yes
 
 		male_names = {
-			Anaru_Andrew Ari Ariki
-			Hemi_James Hohepa_Joseph Hone
+			Aata_Arthur Ahera_Asher Anaru_Andrew Arekanara_Alexander Ari Ariki
+			Eria_Elijah Eruira_Edward Etera_Ezra
+			Hami_Samuel Hare_Harold Hemi_James Hohepa_Joseph Hone_John Hori_George
 			Ihaia_Isaiah
-			Kahurangi Kai Kairo Kauri Keanu Kiwa Koa
-			Manaaki Manaia Mateo_Matthew Mikaere_Michael
+			Kahurangi Kai Kairo Kauri Keanu Kereama_Graham Kiritopa_Christopher Kiwa Koa
+			Manaaki Manaia Matiu_Matthew Meihana_Mason Mikaere_Michael
 			Nikau Nikora_Nicholas
-			Paora_Paul Patariki_Patrick Petera_Peter Piripi_Philip
-			Rangi Rawiri
-			Tai Taika Tama Tamati_Thomas Tane Tangaroa Timoti_Timothy Tipene_Stephen
+			Oriwa_Oliver
+			Paora_Paul Paranihi_Francis Patariki_Patrick Peneamine_Benjamin Pere_Frederick Petera_Peter Piripi_Philip
+			Rangi Raniera_Daniel Rawiri_David Ropata_Robert
+			Tai Taika Tama Tamati_Thomas Tane Tangaroa Tiare_Charles Timoti_Timothy Tipene_Stephen
 			Whetu Wiremu_William
 		}
 		female_names = {
-			Ahurewa Aihe Akona Amaia Amara Anahera_Angela Aria_Aria Ariana Aroha Ataahua Atarangi Aurora_Aurora Awhina
-			Hana_Hannah Hine Huhana_Susan Huia
+			Ahurewa Aihe Aiwi_Ivy Akona Amaia Amara Anahera_Angela Aria_Aria Ariana Aroha Ataahua Atarangi Aurora_Aurora Awhina
+			Emere_Emily Erena_Eleanor Erihapeti_Elizabeth Eruini_Edith Ewa_Eva
+			Hana_Hannah Harata_Charlotte Hine Hopaia_Sophia Huhana_Susan Huia
+			Ihapera_Isabella
 			Kahurangi Kaia Kaiara Kara Kiri Kora
-			Maata_Martha Maia Manaia Marama Mareikura_Margaret Maria_Mary Mere_Mary Mia_Mia Miru Moana
+			Maata_Martha Maia Manaia Marama Marareta_Margaret Maria_Mary Mere_Mary Mia_Mia Miru Moana
 			Ngaio Ngaire
-			Ria Roimata Ruiha_Louise
-			Tia Tiare Tui
-			Waimarie Whetu
+			Oriwia_Olivia
+			Pera_Bella
+			Ria Riana_Diana Roimata Ruiha_Louise
+			Tia Tui
+			Waimarie Whetu Wikitoria_Victoria
 		}
 
 		from_dynasty_prefix = "o "
@@ -636,9 +645,10 @@ polynesian = {
 			Uelese_Wales
 			Vaea Viliamu_William
 		}
+		
 		female_names = {
 			Agelu_Angela Akenese Alofa Amelia_Amelia Ana_Anna Ane_Anna Anania_Ananiah
-			Ekueta Elisapeta_Elizabeth Emere Eseta_Esther Eva_Eve
+			Ekueta Elisapeta_Elizabeth Emere_Emily Eseta_Esther Eva_Eve
 			Fetu
 			Ianeta_Janet Ioana_Joan Isapela_Isabella Iulia_Julia Iuni_June
 			Lagi Lani Leone_Leona Losalia_Rosaline Lupe Lusia_Lucy
@@ -664,6 +674,62 @@ polynesian = {
 		pat_grm_name_chance = 50
 		mat_grm_name_chance = 20
 		mother_name_chance = 5
+		
+		seafarer = yes
+		modifier = default_culture_modifier
+	}
+	
+	tahitian = {
+		graphical_cultures = { arabicgfx muslimgfx }
+		unit_graphical_cultures = { westerngfx }
+
+		color = { 0.6 0.15 0.8 }
+		
+		dukes_called_kings = yes
+
+		male_names = {
+			Alain_Alan
+			Bruno
+			Christian_Christian Christophe_Christopher
+			Eric_Eric
+			Frederic_Frederick
+			Hia'ai Hiro
+			Ioane_John
+			Jacques_Jack Jean-Pierre_John-Peter
+			Kahanui
+			Laurent_Lawrence
+			Manea Manua Marama Maui Michel_Michael Moana
+			Patrick_Patrick Philippe_Philip Pierre_Peter
+			Tamatoa Tapuarii Tehei Teiki Teiva Teva Thierry_Terence
+		}
+		female_names = {
+			Catherine_Catherine Chantal_Chantal Christine_Christina
+			Elisabeth_Elizabeth
+			Heikapu Helene_Helen Hina Hinano
+			Isabelle_Isabella
+			Kiana
+			Maeva Mareva Marie_Mary Merahi Moana Moea Moeata
+			Nathalie_Natalie
+			Ohana
+			Patricia_Patricia Poema
+			Sylvie_Silvia
+			Tarita Teura Tiare Titaina Titaua
+			Vaea Valerie_Valerie Veronique_Veronica
+		}
+
+		from_dynasty_prefix = "de "
+		
+		prefix = no # The patronym is added as a suffix
+		
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 15
+		father_name_chance = 20
+		
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 25
+		mat_grm_name_chance = 15
+		mother_name_chance = 20
 		
 		seafarer = yes
 		modifier = default_culture_modifier

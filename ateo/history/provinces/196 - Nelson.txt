@@ -1,0 +1,21 @@
+# c_nelson
+
+# County Title
+title = c_nelson
+
+# Settlements
+max_settlements = 5
+
+b_nelson = castle
+b_richmond = city
+b_montueka = temple
+#b_wakefield = castle
+#b_brightwater = city
+#b_mapua = temple
+#b_riwaka = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

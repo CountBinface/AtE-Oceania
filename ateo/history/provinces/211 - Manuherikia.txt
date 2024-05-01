@@ -1,0 +1,21 @@
+# c_manuherikia
+
+# County Title
+title = c_manuherikia
+
+# Settlements
+max_settlements = 3
+
+b_cromwell = castle
+#b_alexandra = city
+#b_clyde = temple
+#b_ranfurly = castle
+#b_omakau = city
+#b_omarama = temple
+#b_otematata = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History

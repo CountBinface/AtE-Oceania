@@ -1,10 +1,16 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+c_antipodes_islands;Antipodes Islands;Antipodes Islands;Antipodes Islands;;Antipodes Islands;;;;;;;;;x
+c_antipodes_islands_adj;Antipodes Islandsian;;Antipodes Islandser;;;;;;;;;;;x
 c_arawa;Arawa;Arawa;Arawa;;Arawa;;;;;;;;;x
 c_arawa_adj;Arawan;;arawer;;;;;;;;;;;x
+c_ashburton;Ashburton;Ashburton;Ashburton;;Ashburton;;;;;;;;;x
+c_ashburton_adj;Ashburtonian;;ashburtoner;;;;;;;;;;;x
 c_atua;Atua;Atua;Atua;;Atua;;;;;;;;;x
 c_atua_adj;Atuan;;ater;;;;;;;;;;;x
 c_auckland;Auckland;Auckland;Auckland;;Auckland;;;;;;;;;x
 c_auckland_adj;Aucklandian;;aucklander;;;;;;;;;;;x
+c_auckland_islands;Auckland Islands;Auckland Islands;Auckland Islands;;Auckland Islands;;;;;;;;;x
+c_auckland_islands_adj;Auckland Islandsian;;Auckland Islandser;;;;;;;;;;;x
 c_ba;Ba;Ba;Ba;;Ba;;;;;;;;;x
 c_ba_adj;Ban;;ber;;;;;;;;;;;x
 c_bourail;Bourail;Bourail;Bourail;;Bourail;;;;;;;;;x
@@ -15,18 +21,28 @@ c_buin;Buin;Buin;Buin;;Buin;;;;;;;;;x
 c_buin_adj;Buinian;;buiner;;;;;;;;;;;x
 c_buka;Buka;Buka;Buka;;Buka;;;;;;;;;x
 c_buka_adj;Bukan;;buker;;;;;;;;;;;x
+c_buller;Buller;Buller;Buller;;Buller;;;;;;;;;x
+c_buller_adj;Bullerian;;bullerer;;;;;;;;;;;x
 c_cakaudrove;Cakaudrove;Cakaudrove;Cakaudrove;;Cakaudrove;;;;;;;;;x
 c_cakaudrove_adj;Cakaudrovean;;cakaudrover;;;;;;;;;;;x
+c_campbell_islands;Campbell Islands;Campbell Islands;Campbell Islands;;Campbell Islands;;;;;;;;;x
+c_campbell_islands_adj;Campbell Islandsian;;Campbell Islandser;;;;;;;;;;;x
 c_central_tungaru;Central Tungaru;Central Tungaru;Central Tungaru;;Central Tungaru;;;;;;;;;x
 c_central_tungaru_adj;Central Tungarian;;Central Tungarer;;;;;;;;;;;x
 c_chatham_islands;Chatham Islands;Chatham Islands;Chatham Islands;;Chatham Islands;;;;;;;;;x
 c_chatham_islands_adj;Chatham Islandsian;;Chatham Islandser;;;;;;;;;;;x
 c_choiseul;Choiseul;Choiseul;Choiseul;;Choiseul;;;;;;;;;x
 c_choiseul_adj;Choiseulian;;choiseuler;;;;;;;;;;;x
+c_christchurch;Christchurch;Christchurch;Christchurch;;Christchurch;;;;;;;;;x
+c_christchurch_adj;Christchurchian;;christchurcher;;;;;;;;;;;x
 c_chuuk;Chuuk;Chuuk;Chuuk;;Chuuk;;;;;;;;;x
 c_chuuk_adj;Chuukian;;chuuker;;;;;;;;;;;x
+c_clutha;Clutha;Clutha;Clutha;;Clutha;;;;;;;;;x
+c_clutha_adj;Cluthan;;cluther;;;;;;;;;;;x
 c_coromandel;Coromandel;Coromandel;Coromandel;;Coromandel;;;;;;;;;x
 c_coromandel_adj;Coromandelian;;coromandeler;;;;;;;;;;;x
+c_dunedin;Dunedin;Dunedin;Dunedin;;Dunedin;;;;;;;;;x
+c_dunedin_adj;Dunedinian;;dunediner;;;;;;;;;;;x
 c_east_cape;East Cape;East Cape;East Cape;;East Cape;;;;;;;;;x
 c_east_cape_adj;East Capean;;East Caper;;;;;;;;;;;x
 c_east_guadalcanal;East Guadalcanal;East Guadalcanal;East Guadalcanal;;East Guadalcanal;;;;;;;;;x
@@ -37,10 +53,16 @@ c_faasaleleaga;Fa'asaleleaga;Fa'asaleleaga;Fa'asaleleaga;;Fa'asaleleaga;;;;;;;;;
 c_faasaleleaga_adj;Fa'asaleleagan;;fa'asaleleager;;;;;;;;;;;x
 c_far_north;Far North;Far North;Far North;;Far North;;;;;;;;;x
 c_far_north_adj;Far Northian;;Far Norther;;;;;;;;;;;x
+c_fiordland;Fiordland;Fiordland;Fiordland;;Fiordland;;;;;;;;;x
+c_fiordland_adj;Fiordlandian;;fiordlander;;;;;;;;;;;x
 c_futuna;Futuna;Futuna;Futuna;;Futuna;;;;;;;;;x
 c_futuna_adj;Futunan;;futuner;;;;;;;;;;;x
 c_gizo;Gizo;Gizo;Gizo;;Gizo;;;;;;;;;x
 c_gizo_adj;Gizian;;gizer;;;;;;;;;;;x
+c_gore;Gore;Gore;Gore;;Gore;;;;;;;;;x
+c_gore_adj;Gorean;;gorer;;;;;;;;;;;x
+c_grey;Grey;Grey;Grey;;Grey;;;;;;;;;x
+c_grey_adj;Greian;;greer;;;;;;;;;;;x
 c_guam;Guam;Guam;Guam;;Guam;;;;;;;;;x
 c_guam_adj;Guamian;;guamer;;;;;;;;;;;x
 c_haapai;Ha'apai;Ha'apai;Ha'apai;;Ha'apai;;;;;;;;;x
@@ -49,12 +71,20 @@ c_hastings;Hastings;Hastings;Hastings;;Hastings;;;;;;;;;x
 c_hastings_adj;Hastingsian;;hastingser;;;;;;;;;;;x
 c_hawera;Hawera;Hawera;Hawera;;Hawera;;;;;;;;;x
 c_hawera_adj;Haweran;;hawerer;;;;;;;;;;;x
+c_hurunui;Hurunui;Hurunui;Hurunui;;Hurunui;;;;;;;;;x
+c_hurunui_adj;Hurunian;;huruner;;;;;;;;;;;x
 c_isabel;Isabel;Isabel;Isabel;;Isabel;;;;;;;;;x
 c_isabel_adj;Isabelian;;isabeler;;;;;;;;;;;x
+c_ivercargill;Ivercargill;Ivercargill;Ivercargill;;Ivercargill;;;;;;;;;x
+c_ivercargill_adj;Ivercargillian;;ivercargiller;;;;;;;;;;;x
 c_jaluit;Jaluit;Jaluit;Jaluit;;Jaluit;;;;;;;;;x
 c_jaluit_adj;Jaluitian;;jaluiter;;;;;;;;;;;x
 c_kadavu;Kadavu;Kadavu;Kadavu;;Kadavu;;;;;;;;;x
 c_kadavu_adj;Kadavian;;kadaver;;;;;;;;;;;x
+c_kahurangi;Kahurangi;Kahurangi;Kahurangi;;Kahurangi;;;;;;;;;x
+c_kahurangi_adj;Kahurangian;;kahuranger;;;;;;;;;;;x
+c_kaikoura;Kaikoura;Kaikoura;Kaikoura;;Kaikoura;;;;;;;;;x
+c_kaikoura_adj;Kaikouran;;kaikourer;;;;;;;;;;;x
 c_kaipara;Kaipara;Kaipara;Kaipara;;Kaipara;;;;;;;;;x
 c_kaipara_adj;Kaiparan;;kaiparer;;;;;;;;;;;x
 c_kermadec_islands;Kermadec Islands;Kermadec Islands;Kermadec Islands;;Kermadec Islands;;;;;;;;;x
@@ -71,6 +101,10 @@ c_lomaiviti;Lomaiviti;Lomaiviti;Lomaiviti;;Lomaiviti;;;;;;;;;x
 c_lomaiviti_adj;Lomaivitian;;lomaiviter;;;;;;;;;;;x
 c_loyalty_islands;Loyalty Islands;Loyalty Islands;Loyalty Islands;;Loyalty Islands;;;;;;;;;x
 c_loyalty_islands_adj;Loyalty Islandsian;;Loyalty Islandser;;;;;;;;;;;x
+c_mackenzie;Mackenzie;Mackenzie;Mackenzie;;Mackenzie;;;;;;;;;x
+c_mackenzie_adj;Mackenziean;;mackenzer;;;;;;;;;;;x
+c_macquarie_island;Macquarie Island;Macquarie Island;Macquarie Island;;Macquarie Island;;;;;;;;;x
+c_macquarie_island_adj;Macquarie Islandian;;Macquarie Islander;;;;;;;;;;;x
 c_macuata;Macuata;Macuata;Macuata;;Macuata;;;;;;;;;x
 c_macuata_adj;Macuatan;;macuater;;;;;;;;;;;x
 c_majuro;Majuro;Majuro;Majuro;;Majuro;;;;;;;;;x
@@ -83,12 +117,18 @@ c_mamanuca;Mamanuca;Mamanuca;Mamanuca;;Mamanuca;;;;;;;;;x
 c_mamanuca_adj;Mamanucan;;mamanucer;;;;;;;;;;;x
 c_manawatu;Manawatu;Manawatu;Manawatu;;Manawatu;;;;;;;;;x
 c_manawatu_adj;Manawatian;;manawater;;;;;;;;;;;x
+c_manuherikia;Manuherikia;Manuherikia;Manuherikia;;Manuherikia;;;;;;;;;x
+c_manuherikia_adj;Manuherikian;;manuheriker;;;;;;;;;;;x
+c_marlborough;Marlborough;Marlborough;Marlborough;;Marlborough;;;;;;;;;x
+c_marlborough_adj;Marlboroughian;;marlborougher;;;;;;;;;;;x
 c_masterton;Masterton;Masterton;Masterton;;Masterton;;;;;;;;;x
 c_masterton_adj;Mastertonian;;mastertoner;;;;;;;;;;;x
 c_nadroga;Nadroga;Nadroga;Nadroga;;Nadroga;;;;;;;;;x
 c_nadroga_adj;Nadrogan;;nadroger;;;;;;;;;;;x
 c_nauru;Nauru;Nauru;Nauru;;Nauru;;;;;;;;;x
 c_nauru_adj;Naurian;;naurer;;;;;;;;;;;x
+c_nelson;Nelson;Nelson;Nelson;;Nelson;;;;;;;;;x
+c_nelson_adj;Nelsonian;;nelsoner;;;;;;;;;;;x
 c_new_georgia;New Georgia;New Georgia;New Georgia;;New Georgia;;;;;;;;;x
 c_new_georgia_adj;New Georgian;;New Georger;;;;;;;;;;;x
 c_new_plymouth;New Plymouth;New Plymouth;New Plymouth;;New Plymouth;;;;;;;;;x
@@ -121,6 +161,8 @@ c_poindimie;Poindimie;Poindimie;Poindimie;;Poindimie;;;;;;;;;x
 c_poindimie_adj;Poindimiean;;poindimer;;;;;;;;;;;x
 c_poverty_bay;Poverty Bay;Poverty Bay;Poverty Bay;;Poverty Bay;;;;;;;;;x
 c_poverty_bay_adj;Poverty Baian;;Poverty Baer;;;;;;;;;;;x
+c_queenstown;Queenstown;Queenstown;Queenstown;;Queenstown;;;;;;;;;x
+c_queenstown_adj;Queenstownian;;queenstowner;;;;;;;;;;;x
 c_ra;Ra;Ra;Ra;;Ra;;;;;;;;;x
 c_ra_adj;Ran;;rer;;;;;;;;;;;x
 c_rawaki;Rawaki;Rawaki;Rawaki;;Rawaki;;;;;;;;;x
@@ -141,6 +183,8 @@ c_saipan;Saipan;Saipan;Saipan;;Saipan;;;;;;;;;x
 c_saipan_adj;Saipanian;;saipaner;;;;;;;;;;;x
 c_sanma;Sanma;Sanma;Sanma;;Sanma;;;;;;;;;x
 c_sanma_adj;Sanman;;sanmer;;;;;;;;;;;x
+c_selwyn;Selwyn;Selwyn;Selwyn;;Selwyn;;;;;;;;;x
+c_selwyn_adj;Selwynian;;selwyner;;;;;;;;;;;x
 c_sentrol;Sentrol;Sentrol;Sentrol;;Sentrol;;;;;;;;;x
 c_sentrol_adj;Sentrolian;;sentroler;;;;;;;;;;;x
 c_serua;Serua;Serua;Serua;;Serua;;;;;;;;;x
@@ -151,6 +195,10 @@ c_south_malaita;South Malaita;South Malaita;South Malaita;;South Malaita;;;;;;;;
 c_south_malaita_adj;South Malaitan;;South Malaiter;;;;;;;;;;;x
 c_southern_tungaru;Southern Tungaru;Southern Tungaru;Southern Tungaru;;Southern Tungaru;;;;;;;;;x
 c_southern_tungaru_adj;Southern Tungarian;;Southern Tungarer;;;;;;;;;;;x
+c_spenser;Spenser;Spenser;Spenser;;Spenser;;;;;;;;;x
+c_spenser_adj;Spenserian;;spenserer;;;;;;;;;;;x
+c_stewart_island;Stewart Island;Stewart Island;Stewart Island;;Stewart Island;;;;;;;;;x
+c_stewart_island_adj;Stewart Islandian;;Stewart Islander;;;;;;;;;;;x
 c_tafea;Tafea;Tafea;Tafea;;Tafea;;;;;;;;;x
 c_tafea_adj;Tafean;;tafer;;;;;;;;;;;x
 c_taihape;Taihape;Taihape;Taihape;;Taihape;;;;;;;;;x
@@ -165,6 +213,8 @@ c_temotu;Temotu;Temotu;Temotu;;Temotu;;;;;;;;;x
 c_temotu_adj;Temotian;;temoter;;;;;;;;;;;x
 c_thio;Thio;Thio;Thio;;Thio;;;;;;;;;x
 c_thio_adj;Thian;;ther;;;;;;;;;;;x
+c_timaru;Timaru;Timaru;Timaru;;Timaru;;;;;;;;;x
+c_timaru_adj;Timarian;;timarer;;;;;;;;;;;x
 c_tokelau;Tokelau;Tokelau;Tokelau;;Tokelau;;;;;;;;;x
 c_tokelau_adj;Tokelian;;tokeler;;;;;;;;;;;x
 c_tongatapu;Tongatapu;Tongatapu;Tongatapu;;Tongatapu;;;;;;;;;x
@@ -183,20 +233,30 @@ c_uvea;'Uvea;'Uvea;'Uvea;;'Uvea;;;;;;;;;x
 c_uvea_adj;'Uvean;;'uver;;;;;;;;;;;x
 c_vavau;Vava'u;Vava'u;Vava'u;;Vava'u;;;;;;;;;x
 c_vavau_adj;Vava'ian;;vava'er;;;;;;;;;;;x
+c_waiau;Waiau;Waiau;Waiau;;Waiau;;;;;;;;;x
+c_waiau_adj;Wian;;wer;;;;;;;;;;;x
 c_waikato;Waikato;Waikato;Waikato;;Waikato;;;;;;;;;x
 c_waikato_adj;Waikatian;;waikater;;;;;;;;;;;x
+c_waimakariri;Waimakariri;Waimakariri;Waimakariri;;Waimakariri;;;;;;;;;x
+c_waimakariri_adj;Waimakaririan;;waimakarirer;;;;;;;;;;;x
+c_waimate;Waimate;Waimate;Waimate;;Waimate;;;;;;;;;x
+c_waimate_adj;Waimatean;;waimater;;;;;;;;;;;x
 c_waipukurau;Waipukurau;Waipukurau;Waipukurau;;Waipukurau;;;;;;;;;x
 c_waipukurau_adj;Waipukurian;;waipukurer;;;;;;;;;;;x
 c_wairarapa;Wairarapa;Wairarapa;Wairarapa;;Wairarapa;;;;;;;;;x
 c_wairarapa_adj;Wairarapan;;wairaraper;;;;;;;;;;;x
 c_wairoa;Wairoa;Wairoa;Wairoa;;Wairoa;;;;;;;;;x
 c_wairoa_adj;Wairoan;;wairer;;;;;;;;;;;x
+c_waitaki;Waitaki;Waitaki;Waitaki;;Waitaki;;;;;;;;;x
+c_waitaki_adj;Waitakian;;waitaker;;;;;;;;;;;x
 c_waitomo;Waitomo;Waitomo;Waitomo;;Waitomo;;;;;;;;;x
 c_waitomo_adj;Waitomian;;waitomer;;;;;;;;;;;x
 c_wellington;Wellington;Wellington;Wellington;;Wellington;;;;;;;;;x
 c_wellington_adj;Wellingtonian;;wellingtoner;;;;;;;;;;;x
 c_west_guadalcanal;West Guadalcanal;West Guadalcanal;West Guadalcanal;;West Guadalcanal;;;;;;;;;x
 c_west_guadalcanal_adj;West Guadalcanalian;;West Guadalcanaler;;;;;;;;;;;x
+c_westland;Westland;Westland;Westland;;Westland;;;;;;;;;x
+c_westland_adj;Westlandian;;westlander;;;;;;;;;;;x
 c_whakatane;Whakatane;Whakatane;Whakatane;;Whakatane;;;;;;;;;x
 c_whakatane_adj;Whakatanean;;whakataner;;;;;;;;;;;x
 c_whanganui;Whanganui;Whanganui;Whanganui;;Whanganui;;;;;;;;;x

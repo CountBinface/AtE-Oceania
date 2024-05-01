@@ -1,0 +1,21 @@
+# c_antipodes_islands
+
+# County Title
+title = c_antipodes_islands
+
+# Settlements
+max_settlements = 1
+
+b_waterhouse = castle
+#b_dougall = city
+#b_cave_point = temple
+#b_stack_bay = castle
+#b_ringdove_bay = city
+#b_anchorage_bay = temple
+#b_reef_point = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History

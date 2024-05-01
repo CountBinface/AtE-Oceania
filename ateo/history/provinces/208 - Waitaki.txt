@@ -1,0 +1,21 @@
+# c_waitaki
+
+# County Title
+title = c_waitaki
+
+# Settlements
+max_settlements = 3
+
+b_oamaru = castle
+#b_palmerston = city
+#b_weston = temple
+#b_kakanui = castle
+#b_kurow = city
+#b_hampden = temple
+#b_pukeuri = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History

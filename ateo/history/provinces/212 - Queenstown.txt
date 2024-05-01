@@ -1,0 +1,21 @@
+# c_queenstown
+
+# County Title
+title = c_queenstown
+
+# Settlements
+max_settlements = 4
+
+b_queenstown = castle
+b_wanaka = temple
+#b_arrowtown = temple
+#b_lake_hawea = castle
+#b_cardrona = city
+#b_luggate = temple
+#b_glenorchy = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

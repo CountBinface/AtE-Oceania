@@ -1,0 +1,21 @@
+# c_waimakariri
+
+# County Title
+title = c_waimakariri
+
+# Settlements
+max_settlements = 4
+
+b_rangiroa = castle
+b_kaiapoi = temple
+#b_mandeville = temple
+#b_oxford = castle
+#b_woodend = city
+#b_pegasus = temple
+#b_loburn = castle
+
+# Misc
+culture = cantab
+religion = anglican
+
+#History

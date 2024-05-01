@@ -1,0 +1,21 @@
+# c_mackenzie
+
+# County Title
+title = c_mackenzie
+
+# Settlements
+max_settlements = 3
+
+b_twizel = castle
+#b_fairlie = city
+#b_lake_tekapo = temple
+#b_mount_cook = castle
+#b_albury = city
+#b_burkes_pass = temple
+#b_glentanner = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

@@ -180,15 +180,60 @@ PROV179;Wellington;Wellington;Wellington;;;;;;;;;x
 PROV180;Masterton;Masterton;Masterton;;;;;;;;;x
 PROV181;Wairarapa;Wairarapa;Wairarapa;;;;;;;;;x
 PROV182;Chatham Islands;Chatham Islands;Chatham Islands;;;;;;;;;x
-PROV182;North Kermadec Sea;North Kermadec Sea;North Kermadec Sea;;;;;;;;;x
-PROV183;Kermadec Sea;Kermadec Sea;Kermadec Sea;;;;;;;;;x
-PROV184;South Kermadec Sea;South Kermadec Sea;South Kermadec Sea;;;;;;;;;x
-PROV185;Bay of Plenty;Bay of Plenty;Bay of Plenty;;;;;;;;;x
-PROV186;Gisborne Coast;Gisborne Coast;Gisborne Coast;;;;;;;;;x
-PROV187;Reinga Sea;Reinga Sea;Reinga Sea;;;;;;;;;x
-PROV188;Waikato Coast;Waikato Coast;Waikato Coast;;;;;;;;;x
-PROV189;Tasman Sea;Tasman Sea;Tasman Sea;;;;;;;;;x
-PROV190;Cook Strait;Cook Strait;Cook Strait;;;;;;;;;x
-PROV191;Wairarapa Coast;Wairarapa Coast;Wairarapa Coast;;;;;;;;;x
-PROV192;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
-PROV193;Chatham Sea;Chatham Sea;Chatham Sea;;;;;;;;;x
+PROV183;North Kermadec Sea;North Kermadec Sea;North Kermadec Sea;;;;;;;;;x
+PROV184;Kermadec Sea;Kermadec Sea;Kermadec Sea;;;;;;;;;x
+PROV185;South Kermadec Sea;South Kermadec Sea;South Kermadec Sea;;;;;;;;;x
+PROV186;Bay of Plenty;Bay of Plenty;Bay of Plenty;;;;;;;;;x
+PROV187;Gisborne Coast;Gisborne Coast;Gisborne Coast;;;;;;;;;x
+PROV188;Reinga Sea;Reinga Sea;Reinga Sea;;;;;;;;;x
+PROV189;Waikato Coast;Waikato Coast;Waikato Coast;;;;;;;;;x
+PROV190;Tasman Sea;Tasman Sea;Tasman Sea;;;;;;;;;x
+PROV191;Cook Strait;Cook Strait;Cook Strait;;;;;;;;;x
+PROV192;Wairarapa Coast;Wairarapa Coast;Wairarapa Coast;;;;;;;;;x
+PROV193;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV194;Chatham Sea;Chatham Sea;Chatham Sea;;;;;;;;;x
+PROV195;Marlborough;Marlborough;Marlborough;;;;;;;;;x
+PROV196;Nelson;Nelson;Nelson;;;;;;;;;x
+PROV197;Kahurangi;Kahurangi;Kahurangi;;;;;;;;;x
+PROV198;Spenser;Spenser;Spenser;;;;;;;;;x
+PROV199;Kaikoura;Kaikoura;Kaikoura;;;;;;;;;x
+PROV200;Hurunui;Hurunui;Hurunui;;;;;;;;;x
+PROV201;Waimakariri;Waimakariri;Waimakariri;;;;;;;;;x
+PROV202;Christchurch;Christchurch;Christchurch;;;;;;;;;x
+PROV203;Selwyn;Selwyn;Selwyn;;;;;;;;;x
+PROV204;Ashburton;Ashburton;Ashburton;;;;;;;;;x
+PROV205;Timaru;Timaru;Timaru;;;;;;;;;x
+PROV206;Mackenzie;Mackenzie;Mackenzie;;;;;;;;;x
+PROV207;Waimate;Waimate;Waimate;;;;;;;;;x
+PROV208;Waitaki;Waitaki;Waitaki;;;;;;;;;x
+PROV209;Dunedin;Dunedin;Dunedin;;;;;;;;;x
+PROV210;Clutha;Clutha;Clutha;;;;;;;;;x
+PROV211;Manuherikia;Manuherikia;Manuherikia;;;;;;;;;x
+PROV212;Queenstown;Queenstown;Queenstown;;;;;;;;;x
+PROV213;Gore;Gore;Gore;;;;;;;;;x
+PROV214;Ivercargill;Ivercargill;Ivercargill;;;;;;;;;x
+PROV215;Stewart Island;Stewart Island;Stewart Island;;;;;;;;;x
+PROV216;Waiau;Waiau;Waiau;;;;;;;;;x
+PROV217;Fiordland;Fiordland;Fiordland;;;;;;;;;x
+PROV218;Buller;Buller;Buller;;;;;;;;;x
+PROV219;Grey;Grey;Grey;;;;;;;;;x
+PROV220;Westland;Westland;Westland;;;;;;;;;x
+PROV221;Antipodes Islands;Antipodes Islands;Antipodes Islands;;;;;;;;;x
+PROV222;Campbell Islands;Campbell Islands;Campbell Islands;;;;;;;;;x
+PROV223;Auckland Islands;Auckland Islands;Auckland Islands;;;;;;;;;x
+PROV224;Macquarie Island;Macquarie Island;Macquarie Island;;;;;;;;;x
+PROV225;Norfolk Sea;Norfolk Sea;Norfolk Sea;;;;;;;;;x
+PROV226;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV227;Canterbury Coast;Canterbury Coast;Canterbury Coast;;;;;;;;;x
+PROV228;Otago Coast;Otago Coast;Otago Coast;;;;;;;;;x
+PROV229;South Coast;South Coast;South Coast;;;;;;;;;x
+PROV230;Fiord Coast;Fiord Coast;Fiord Coast;;;;;;;;;x
+PROV231;West Coast;West Coast;West Coast;;;;;;;;;x
+PROV232;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV233;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV234;Antipodes Sea;Antipodes Sea;Antipodes Sea;;;;;;;;;x
+PROV235;South Pacific Ocean;South Pacific Ocean;South Pacific Ocean;;;;;;;;;x
+PROV236;Campbell Sea;Campbell Sea;Campbell Sea;;;;;;;;;x
+PROV237;Auckland Sea;Auckland Sea;Auckland Sea;;;;;;;;;x
+PROV238;Antarctic Ocean;Antarctic Ocean;Antarctic Ocean;;;;;;;;;x
+PROV239;Macquarie Sea;Macquarie Sea;Macquarie Sea;;;;;;;;;x

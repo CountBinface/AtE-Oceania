@@ -1,0 +1,947 @@
+41001={# Count of Kermadec
+	name="Matiu"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	trait=incapable
+	father=41004
+	2590.1.1={birth=yes}
+}
+
+41002={# son of Matiu
+	name="Whetu"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41001
+	2610.1.1={birth=yes}
+}
+
+41003={# son of Matiu
+	name="Paora"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41001
+	2616.1.1={birth=yes}
+}
+
+41004={# son of Whetu
+	name="Tai"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41002
+	2636.1.1={birth=yes}
+}
+
+41005={# son of Whetu
+	name="Koa"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41002
+	2638.1.1={birth=yes}
+}
+
+41006={# daughter of Paora
+	name="Aihe"
+	female=yes
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41003
+	2640.1.1={birth=yes}
+}
+
+41007={# son of Paora
+	name="Kiwa"
+	dynasty=1609
+	culture=maori
+	religion=purakau
+	father=41003
+	2644.1.1={birth=yes}
+}
+
+41008={# Duke of Gisborne
+	name="Rawiri"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41009
+	2624.1.1={birth=yes}
+}
+
+41009={# former Duke of Gisborne
+	name="Tama"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41010
+	2597.1.1={birth=yes}
+	2653.1.1={death=yes}
+}
+
+41010={# former Duke of Gisborne
+	name="Manaaki"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41011
+	2569.1.1={birth=yes}
+	2629.1.1={death=yes}
+}
+
+41011={# former Duke of Gisborne
+	name="Wiremu"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41012
+	2543.1.1={birth=yes}
+	2598.1.1={death=yes}
+}
+
+41012={# former Duke of Gisborne
+	name="Kahurangi"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	trait=peasant_leader
+	2508.1.1={birth=yes}
+	2575.1.1={death=yes}
+}
+
+41013={# daughter of Rawiri
+	name="Maata"
+	female=yes
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41008
+	2648.1.1={birth=yes}
+}
+
+41014={# daughter of Rawiri
+	name="Aria"
+	female=yes
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41008
+	2651.1.1={birth=yes}
+}
+
+41015={# son of Rawiri
+	name="Nikau"
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41008
+	2656.1.1={birth=yes}
+}
+
+41016={# former Duke of Bay of Plenty
+	name="Leo"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	trait=peasant_leader
+	2503.1.1={birth=yes}
+	2554.1.1={death=yes}
+}
+
+41017={# former Duke of Bay of Plenty
+	name="Alfred"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41016
+	2530.1.1={birth=yes}
+	2592.1.1={death=yes}
+}
+
+41018={# former Duke of Bay of Plenty
+	name="Francis"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41017
+	2558.1.1={birth=yes}
+	2610.1.1={death=yes}
+}
+
+41019={# former Duke of Bay of Plenty
+	name="Percy"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41017
+	2565.1.1={birth=yes}
+	2633.1.1={death=yes}
+}
+
+41020={# former Duke of Bay of Plenty
+	name="Alfred"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41019
+	2591.1.1={birth=yes}
+	2655.1.1={death=yes}
+}
+
+41021={# Duke of Bay of Plenty
+	name="Harry"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41020
+	2614.1.1={birth=yes}
+}
+
+41022={# son of Harry
+	name="Leo"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41021
+	2637.1.1={birth=yes}
+}
+
+41023={# daughter of Harry
+	name="Rachel"
+	female=yes
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41021
+	2641.1.1={birth=yes}
+}
+
+41024={# son of Harry
+	name="Charlie"
+	dynasty=1722
+	culture=aucklander
+	religion=purakau
+	father=41021
+	2643.1.1={birth=yes}
+}
+
+41025={# Count of Whakatane
+	name="Kairo"
+	dynasty=1616
+	culture=maori
+	religion=purakau
+	2619.1.1={birth=yes}
+	2637.1.={add_spouse=41026}
+}
+
+41026={# daughter of Tama
+	name="Awhina"
+	female=yes
+	dynasty=1606
+	culture=maori
+	religion=purakau
+	father=41009
+	2621.1.1={birth=yes}
+	2637.1.={add_spouse=41025}
+}
+
+41027={# son of Kairo
+	name="Ariki"
+	dynasty=1616
+	culture=maori
+	religion=purakau
+	father=41025
+	mother=41026
+	2642.1.1={birth=yes}
+}
+
+41028={# daughter of Kairo
+	name="Miru"
+	female=yes
+	dynasty=1616
+	culture=maori
+	religion=purakau
+	father=41025
+	mother=41026
+	2646.1.1={birth=yes}
+}
+
+41029={# Countess of Coromandel
+	name="Melanie"
+	female=yes
+	dynasty=1717
+	culture=aucklander
+	religion=purakau
+	father=41030
+	2639.1.1={birth=yes}
+}
+
+41030={# former Count of Coromandel
+	name="Ben"
+	dynasty=1717
+	culture=aucklander
+	religion=purakau
+	2614.1.1={birth=yes}
+	2661.1.1={death=yes}
+}
+
+
+41031={# daughter of Ben
+	name="Anna"
+	female=yes
+	dynasty=1717
+	culture=aucklander
+	religion=purakau
+	father=41030
+	2642.1.1={birth=yes}
+}
+
+41032={# former Duke of Waikato
+	name="Walter"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	trait=peasant_leader
+	2509.1.1={birth=yes}
+	2568.1.1={death=yes}
+}
+
+41033={# former Duke of Waikato
+	name="James"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41032
+	2528.1.1={birth=yes}
+	2574.1.1={death=yes}
+}
+
+41034={# former Duke of Waikato
+	name="Walter"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41033
+	2554.1.1={birth=yes}
+	2577.1.1={death=yes}
+}
+
+41035={# former Duke of Waikato
+	name="Fred"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41033
+	2559.1.1={birth=yes}
+	2584.1.1={death=yes}
+}
+
+41036={# former Duchess of Waikato
+	name="Alice"
+	female=yes
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41033
+	2563.1.1={birth=yes}
+	2582.1.1={add_spouse=41045}
+	2592.1.1={add_matrilineal_spouse=41046}
+	2627.1.1={death=yes}
+}
+
+41037={# former Duke of Waikato
+	name="Edward"
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	father=41045
+	mother=41036
+	2586.1.1={birth=yes}
+	2646.1.1={death=yes}
+}
+
+41038={# Duke of Waikato
+	name="Jeremy"
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	father=41037
+	2615.1.1={birth=yes}
+}
+
+41039={# son of Jeremy
+	name="Fred"
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	trait=twin
+	father=41038
+	2643.1.1={birth=yes}
+}
+
+41040={# daughter of Jeremy
+	name="Hazel"
+	female=yes
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	trait=twin
+	father=41038
+	2643.1.1={birth=yes}
+}
+
+41041={# son of Jeremy
+	name="Ron"
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	father=41038
+	2649.1.1={birth=yes}
+}
+
+
+41042={# former Count of Waitomo
+	name="Walter"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41046
+	mother=41036
+	2596.1.1={birth=yes}
+	2650.1.1={death=yes}
+}
+
+41043={# Count of Waitomo
+	name="Jack"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41042
+	2622.1.1={birth=yes}
+	2657.1.1={death=yes}
+}
+
+41044={# Duke of Waikato
+	name="Paul"
+	dynasty=1715
+	culture=aucklander
+	religion=purakau
+	father=41043
+	2644.1.1={birth=yes}
+}
+
+41045={# first husband of Alice
+	name="William"
+	dynasty=1733
+	culture=aucklander
+	religion=purakau
+	2556.1.1={birth=yes}
+	2582.1.1={add_spouse=41036}
+	2590.1.1={death=yes}
+}
+
+41046={# second husband of Alice
+	name="Oscar"
+	dynasty=1714
+	culture=aucklander
+	religion=purakau 
+	2567.1.1={birth=yes}
+	2592.1.1={add_matrilineal_spouse=41036}
+	2629.1.1={death=yes}
+}
+
+41047={# former Duke of Auckland
+	name="Edmund"
+	dynasty=1712
+	culture=aucklander
+	religion=anglican
+	2271.1.1={birth=yes}
+	2336.1.1={death=yes}
+}
+
+41048={# former Duke of Auckland
+	name="Hugo"
+	dynasty=1712
+	culture=aucklander
+	religion=anglican
+	father=41047
+	2293.1.1={birth=yes}
+	2349.1.1={death=yes}
+}
+
+41049={# former Duke of Auckland
+	name="Asher"
+	dynasty=1712
+	culture=aucklander
+	religion=anglican
+	father=41048
+	2314.1.1={birth=yes}
+	2370.1.1={death=yes}
+}
+
+41050={# daughter of Asher
+	name="Isla"
+	female=yes
+	dynasty=1712
+	culture=aucklander
+	religion=anglican
+	father=41049
+	2342.1.1={birth=yes}
+	2361.1.1={add_spouse=41051}
+	2416.1.1={death=yes}
+}
+
+41051={# former King of Auckland
+	name="Wiremu"
+	dynasty=1601
+	culture=maori
+	religion=purakau
+	2331.1.1={birth=yes}
+	2361.1.1={add_spouse=41050}
+	2382.1.1={death=yes}
+}
+
+41052={# former King of Auckland
+	name="Nikora"
+	dynasty=1601
+	culture=maori
+	religion=purakau
+	father=41051
+	2353.1.1={birth=yes}
+	2384.1.1={death=yes}
+}
+
+41053={# former King of Auckland
+	name="Arthur"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41051
+	mother=41050
+	2366.1.1={birth=yes}
+	2432.1.1={death=yes}
+}
+
+41054={# former King of Auckland
+	name="William"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41053
+	2387.1.1={birth=yes}
+	2445.1.1={death=yes}
+}
+
+41055={# former King of Auckland
+	name="Edmund"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41054
+	2411.1.1={birth=yes}
+	2460.1.1={death=yes}
+}
+
+41056={# former King of Auckland
+	name="Graeme"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41055
+	2437.1.1={birth=yes}
+	2477.1.1={death=yes}
+}
+
+41057={# former King of Auckland
+	name="William"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41056
+	2465.1.1={birth=yes}
+	2528.1.1={death=yes}
+}
+
+41058={# former Duke of Auckland
+	name="Ethan"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41057
+	2487.1.1={birth=yes}
+	2538.1.1={death=yes}
+}
+
+41059={# former Duke of Auckland
+	name="Arthur"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41058
+	2514.1.1={birth=yes}
+	2545.1.1={death=yes}
+}
+
+41060={# former Duke of Auckland
+	name="Mason"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41058
+	2518.1.1={birth=yes}
+	2578.1.1={death=yes}
+}
+
+41061={# former Duke of Auckland
+	name="William"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41060
+	2550.1.1={birth=yes}
+	2608.1.1={death=yes}
+}
+
+41062={# former Count of Whangarei
+	name="Graeme"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41060
+	2554.1.1={birth=yes}
+	2616.1.1={death=yes}
+}
+
+41063={# former Duchess of Auckland
+	name="Sophie"
+	female=yes
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41061
+	2576.1.1={birth=yes}
+	2593.1.1={add_matrilineal_spouse=41064}
+	2644.1.1={death=yes}
+}
+
+41064={# former Count of Whangarei
+	name="Hugo"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41062
+	2577.1.1={birth=yes}
+	2593.1.1={add_matrilineal_spouse=41063}
+	2639.1.1={death=yes}
+}
+
+41065={# Duke of Auckland
+	name="Edmund"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41064
+	mother=41063
+	2603.1.1={birth=yes}
+}
+
+41066={# son of Edmund
+	name="Mason"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41065
+	2626.1.1={birth=yes}
+}
+
+41067={# son of Edmund
+	name="Bruce"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41065
+	2630.1.1={birth=yes}
+}
+
+41068={# daughter of Edmund
+	name="Hilda"
+	female=yes
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41065
+	2634.1.1={birth=yes}
+}
+
+41069={# daughter of Edmund
+	name="Jane"
+	female=yes
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41065
+	2638.1.1={birth=yes}
+}
+
+41070={# son of Mason
+	name="Arthur"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41066
+	2657.1.1={birth=yes}
+}
+
+41071={# daughter of Mason
+	name="Isla"
+	female=yes
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41066
+	2661.1.1={birth=yes}
+}
+
+41072={# son of Bruce
+	name="Henry"
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41067
+	2662.1.1={birth=yes}
+}
+
+41073={# former Countess of Rodney
+	name="Carolyn"
+	female=yes
+	dynasty=1601
+	culture=aucklander
+	religion=purakau
+	father=41061
+	2581.1.1={birth=yes}
+	2597.1.1={add_spouse=41074}
+	2639.1.1={death=yes}
+}
+
+41074={# husband of Carolyn
+	name="John"
+	dynasty=1707
+	culture=aucklander
+	religion=purakau
+	2578.1.1={birth=yes}
+	2597.1.1={add_spouse=41073}
+	2632.1.1={death=yes}
+}
+
+41075={# former Count of Rodney
+	name="Theodore"
+	dynasty=1707
+	culture=aucklander
+	religion=purakau
+	father=41074
+	mother=41073
+	2603.1.1={birth=yes}
+	2657.1.1={death=yes}
+}
+
+41076={# Count of Rodney
+	name="Samuel"
+	dynasty=1707
+	culture=aucklander
+	religion=purakau
+	father=41075
+	2632.1.1={birth=yes}
+}
+
+41077={# daughter of Samuel
+	name="Marianne"
+	female=yes
+	dynasty=1707
+	culture=aucklander
+	religion=purakau
+	father=41076
+	2654.1.1={birth=yes}
+}
+
+41078={# son of Samuel
+	name="Milo"
+	dynasty=1707
+	culture=aucklander
+	religion=purakau
+	father=41076
+	2657.1.1={birth=yes}
+}
+
+41079={# Count of Kaipara
+	name="Isaac"
+	dynasty=1740
+	culture=aucklander
+	religion=purakau
+	father=41080
+	2640.1.1={birth=yes}
+}
+
+41080={# former Count of Kaipara
+	name="Fred"
+	dynasty=1740
+	culture=aucklander
+	religion=purakau
+	2617.1.1={birth=yes}
+	2664.1.1={death=yes}
+}
+
+41081={# son of Fred
+	name="George"
+	dynasty=1740
+	culture=aucklander
+	religion=purakau
+	father=41080
+	2642.1.1={birth=yes}
+}
+
+41082={# daughter of Fred
+	name="Zara"
+	female=yes
+	dynasty=1740
+	culture=aucklander
+	religion=purakau
+	father=41080
+	2645.1.1={birth=yes}
+}
+
+41083={# Count of Far North
+	name="Tane"
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41084
+	2628.1.1={birth=yes}
+}
+
+41084={# former Count of Far North
+	name="Tangaroa"
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	2600.1.1={birth=yes}
+	2661.1.1={death=yes}
+}
+
+41085={# son of Tangaroa
+	name="Hohepa"
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41084
+	2632.1.1={birth=yes}
+}
+
+41086={# son of Tane
+	name="Raniera"
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41083
+	2649.1.1={birth=yes}
+}
+
+41087={# daughter of Tane
+	name="Roimata"
+	female=yes
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41083
+	2653.1.1={birth=yes}
+}
+
+41088={# daughter of Hohepa
+	name="Ahurewa"
+	female=yes
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41085
+	2652.1.1={birth=yes}
+}
+
+41089={# son of Hohepa
+	name="Hone"
+	dynasty=1618
+	culture=maori
+	religion=purakau
+	father=41085
+	2656.1.1={birth=yes}
+}
+
+41090={# Theocratic Count of Taupo
+	name="Rowan"
+	dynasty=1725
+	culture=aucklander
+	religion=purakau
+	2608.1.1={birth=yes}
+}
+
+42001={# first Tolkienist prophet
+	name="Reuel"
+	dynasty=1846
+	culture=wellingtonian
+	religion=tolkienist
+	trait=genius
+	trait=mastermind_theologian
+	trait=scholar
+	2332.1.1={birth=yes}
+	2399.1.1={death=yes}
+}
+
+42002={# daughter of Reuel
+	name="Adrienne"
+	female=yes
+	dynasty=1846
+	culture=wellingtonian
+	religion=tolkienist
+	father=42001
+	2354.1.1={birth=yes}
+	2418.1.1={death=yes}
+}
+
+42003={# daughter of Reuel
+	name="Carmellia"
+	female=yes
+	dynasty=1846
+	culture=wellingtonian
+	religion=tolkienist
+	father=42001
+	2357.1.1={birth=yes}
+	2408.1.1={death=yes}
+}
+
+42003={# daughter of Reuel
+	name="Elanor"
+	female=yes
+	dynasty=1846
+	culture=wellingtonian
+	religion=tolkienist
+	father=42001
+	2361.1.1={birth=yes}
+	2431.1.1={death=yes}
+}
+
+42004={# second Tolkienist prophet
+	name="Elessar"
+	dynasty=1846
+	culture=wellingtonian
+	religion=tolkienist
+	father=42001
+	2367.1.1={birth=yes}
+	2435.1.1={death=yes}
+}
+
+
+
+
+
+

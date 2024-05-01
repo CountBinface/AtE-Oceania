@@ -1,0 +1,21 @@
+# c_waiau
+
+# County Title
+title = c_waiau
+
+# Settlements
+max_settlements = 3
+
+b_riverton = castle
+#b_otautau = city
+#b_tutapere = temple
+#b_nightcaps = castle
+#b_ohai = city
+#b_drummond = temple
+#b_orepuki = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

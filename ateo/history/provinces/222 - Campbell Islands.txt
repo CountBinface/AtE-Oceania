@@ -1,0 +1,21 @@
+# c_campbell_islands
+
+# County Title
+title = c_campbell_islands
+
+# Settlements
+max_settlements = 1
+
+b_tucker_cove = castle
+#b_monument_harbour = city
+#b_penguin_point = temple
+#b_perseverance_harbour = castle
+#b_smoothwater_bay = city
+#b_courejolles_point = temple
+#b_rocky_bay = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History

@@ -1,0 +1,21 @@
+# c_ivercargill
+
+# County Title
+title = c_ivercargill
+
+# Settlements
+max_settlements = 4
+
+b_ivercargill = castle
+b_winton = city
+#b_bluff = temple
+#b_wyndham = castle
+#b_edendale = city
+#b_woodlands = temple
+#b_tokanui = castle
+
+# Misc
+culture = southlander
+religion = tolkienist
+
+#History

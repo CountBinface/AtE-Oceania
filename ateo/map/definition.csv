@@ -181,15 +181,60 @@ province;red;green;blue;x;x
 180;104;18;200;Masterton;x
 181;82;18;164;Wairarapa;x
 182;2;180;60;Chatham Islands;x
-182;31;184;209;North Kermadec Sea;x
-183;17;122;191;Kermadec Sea;x
-184;75;148;242;South Kermadec Sea;x
-185;85;49;243;Bay of Plenty;x
-186;31;24;232;Gisborne Coast;x
-187;43;112;231;Reinga Sea;x
-188;5;148;245;Waikato Coast;x
-189;13;22;186;Tasman Sea;x
-190;25;84;215;Cook Strait;x
-191;39;143;240;Wairarapa Coast;x
-192;21;123;197;South Pacific Ocean #13;x
-193;18;41;227;Chatham Sea;x
+183;31;184;209;North Kermadec Sea;x
+184;17;122;191;Kermadec Sea;x
+185;75;148;242;South Kermadec Sea;x
+186;85;49;243;Bay of Plenty;x
+187;31;24;232;Gisborne Coast;x
+188;43;112;231;Reinga Sea;x
+189;5;148;245;Waikato Coast;x
+190;13;22;186;Tasman Sea;x
+191;25;84;215;Cook Strait;x
+192;39;143;240;Wairarapa Coast;x
+193;21;123;197;South Pacific Ocean #13;x
+194;18;41;227;Chatham Sea;x
+195;248;117;121;Marlborough;x
+196;125;50;128;Nelson;x
+197;173;9;128;Kahurangi;x
+198;182;54;143;Spenser;x
+199;167;169;105;Kaikoura;x
+200;22;91;15;Hurunui;x
+201;29;138;23;Waimakariri;x
+202;31;220;24;Christchurch;x
+203;32;158;27;Selwyn;x
+204;50;204;66;Ashburton;x
+205;48;168;54;Timaru;x
+206;26;122;25;Mackenzie;x
+207;37;194;24;Waimate;x
+208;154;158;10;Waitaki;x
+209;218;183;14;Dunedin;x
+210;246;228;78;Clutha;x
+211;200;215;12;Manuherikia;x
+212;190;172;10;Queenstown;x
+213;194;66;95;Gore;x
+214;151;37;104;Ivercargill;x
+215;82;28;78;Stewart Island;x
+216;116;32;96;Waiau;x
+217;140;36;63;Fiordland;x
+218;220;34;50;Buller;x
+219;188;26;19;Grey;x
+220;236;51;52;Westland;x
+221;108;124;133;Antipodes Islands;x
+222;158;179;196;Campbell Islands;x
+223;140;147;166;Auckland Islands;x
+224;216;219;237;Macquarie Island;x
+225;22;188;217;Norfolk Sea;x
+226;34;54;132;South Pacific Ocean #14;x
+227;39;25;233;Canterbury Coast;x
+228;23;87;238;Otago Coast;x
+229;36;136;233;South Coast;x
+230;45;66;164;Fiord Coast;x
+231;9;94;207;West Coast;x
+232;52;44;241;South Pacific Ocean #15;x
+233;20;152;243;South Pacific Ocean #16;x
+234;25;85;242;Antipodes Sea;x
+235;9;137;252;South Pacific Ocean #17;x
+236;9;73;219;Campbell Sea;x
+237;28;186;241;Auckland Sea;x
+238;18;93;234;Antarctic Ocean;x
+239;11;35;224;Macquarie Sea;x

@@ -1,0 +1,21 @@
+# c_spenser
+
+# County Title
+title = c_spenser
+
+# Settlements
+max_settlements = 3
+
+b_murchison = castle
+#b_tapawera = city
+#b_st_arnaud = temple
+#b_springs_junction = castle
+#b_rotoroa = city
+#b_maruia = temple
+#b_glenhope = castle
+
+# Misc
+culture = cantab
+religion = tolkienist
+
+#History

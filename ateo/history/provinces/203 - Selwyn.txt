@@ -1,0 +1,21 @@
+# c_selwyn
+
+# County Title
+title = c_selwyn
+
+# Settlements
+max_settlements = 4
+
+b_rolleston = castle
+b_lincoln = city
+#b_darfield = temple
+#b_leeston = castle
+#b_prebbleton = city
+#b_west_melton = temple
+#b_castle_hill = castle
+
+# Misc
+culture = cantab
+religion = anglican
+
+#History

@@ -1,0 +1,21 @@
+# c_gore
+
+# County Title
+title = c_gore
+
+# Settlements
+max_settlements = 4
+
+b_gore = castle
+b_mataura = temple
+#b_lumsden = temple
+#b_riversdale = castle
+#b_waimumu = city
+#b_mossburn = temple
+#b_wakaia = castle
+
+# Misc
+culture = southlander
+religion = presbyterian
+
+#History
